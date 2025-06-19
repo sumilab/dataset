@@ -1,0 +1,1530 @@
+{
+    "tls": [
+        [
+            {
+                "id": 33501,
+                "date": "2017-09-01T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u7dcf\u9078\u6319\u3002\u30b8\u30e3\u30b7\u30f3\u30c0\u30fb\u30a2\u30fc\u30c0\u30fc\u30f3\u7387\u3044\u308b\u52b4\u50cd\u515a\u306f\u6025\u4e0a\u6607\u3057\u3001\u30d3\u30eb\u30fb\u30a4\u30f3\u30b0\u30ea\u30c3\u30b7\u30e5\u7387\u3044\u308b\u56fd\u6c11\u515a\u3068\u9996\u76f8\u306e\u5ea7\u3092\u4e89\u3063\u3066\u80a9\u3092\u4e26\u3079\u3066\u3044\u308b\u3002",
+                "eng_text": "The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33742,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u7dcf\u9078\u6319\u3002\u56fd\u6c11\u515a\u306e\u30d3\u30eb\u30fb\u30a4\u30f3\u30b0\u30ea\u30c3\u30b7\u30e5\u9996\u76f8\u304c\u6700\u591a\u5f97\u7968\u6570\u3092\u7372\u5f97\u3057\u307e\u3059\u304c\u3001\u904e\u534a\u6570\u306b\u306f\u9054\u3057\u307e\u305b\u3093\u3002\u4e00\u65b9\u3067\u3001\u30b8\u30e3\u30b7\u30f3\u30c0\u30fb\u30a2\u30fc\u30c0\u30fc\u30f3\u7387\u3044\u308b\u52b4\u50cd\u515a\u304c\u5927\u304d\u306a\u9032\u6b69\u3092\u9054\u6210\u3057\u307e\u3059\u30023\u4f4d\u306e\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u30d5\u30a1\u30fc\u30b9\u30c8\u515a\u3092\u7387\u3044\u308b\u30a6\u30a3\u30f3\u30b9\u30c8\u30f3\u30fb\u30d4\u30fc\u30bf\u30fc\u30ba\u304c\u3001\u3069\u3061\u3089\u304b\u306e\u4e3b\u8981\u653f\u515a\u3068\u9023\u7acb\u653f\u6a29\u3092\u6a39\u7acb\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u738b\u8005\u3068\u306a\u308a\u307e\u3059\u3002",
+                "eng_text": "Prime Minister Bill English of the National Party wins a plurality of votes, but not enough for a majority, as the Labour Party led by Jacinda Ardern makes significant gains. Winston Peters becomes a kingmaker with his third-placed New Zealand First party, able to form a coalition government with either major party",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33741,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u7dcf\u9078\u6319\u3002\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u306e\u6709\u6a29\u8005\u304c\u6295\u7968\u6240\u306b\u884c\u304d\u3001\u4ee3\u8b70\u9662\u306e\u3059\u3079\u3066\u306e\u30e1\u30f3\u30d0\u30fc\u3068\u305d\u308c\u306b\u7d9a\u304f\u9996\u76f8\u3092\u9078\u51fa\u3057\u307e\u3059\u3002",
+                "eng_text": "Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33505,
+                "date": "2017-09-01T00:00:00Z",
+                "text": "\u5929\u6587\u5b66\u306e2017\u5e74\u3002\u76f4\u5f84\u7d042.7\u30de\u30a4\u30eb\uff084.4\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\uff09\u306e\u5c0f\u60d1\u661f3122\u30d5\u30ed\u30fc\u30ec\u30f3\u30b9\u304c\u3001\u5730\u7403\u304b\u3089440\u4e07\u30de\u30a4\u30eb\uff08700\u4e07\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\uff09\u306e\u8ddd\u96e2\u307e\u3067\u63a5\u8fd1\u3057\u307e\u3059\u3002\u3053\u308c\u306f\u5730\u7403\u304b\u3089\u6708\u307e\u3067\u306e\u8ddd\u96e2\u306e\u304a\u3088\u305d18\u500d\u306b\u76f8\u5f53\u3057\u307e\u3059\u3002",
+                "eng_text": "Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth \u2014 approximately 18 times the distance from our planet to the Moon",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33504,
+                "date": "2017-09-01T00:00:00Z",
+                "text": "\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306e\u4efb\u671f\u4e2d\u3001\u5927\u7d71\u9818\u306f\u30aa\u30af\u30e9\u30db\u30de\u5dde\u9078\u51fa\u306e\u30b8\u30e0\u30fb\u30d6\u30ea\u30c7\u30f3\u30b9\u30c6\u30a3\u30f3\u4e0b\u9662\u8b70\u54e1\u3092\u3001\u79d1\u5b66\u3001\u5b87\u5b99\u3001\u6280\u8853\u59d4\u54e1\u4f1a\u306e\u30e1\u30f3\u30d0\u30fc\u3068\u3057\u3066\u56fd\u7acb\u822a\u7a7a\u5b87\u5b99\u5c40\u306e\u7ba1\u7406\u8005\u306b\u4efb\u547d\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "President Trump nominates Oklahoma congressman Jim Bridenstine,  member of the House Committee on Science, Space, and Technology, to be Administrator of the National Aeronautics and Space Administration",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33567,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306e\u4efb\u671f\u4e2d\u3001\u30a2\u30e1\u30ea\u30ab\u6559\u80b2\u9577\u5b98\u306e\u30d9\u30c3\u30c4\u30a3\u30fb\u30c7\u30f4\u30a9\u30b9\u306f\u3001\u524d\u306e\u653f\u6a29\u306b\u3088\u3063\u3066\u4f5c\u6210\u3055\u308c\u305f\u5927\u5b66\u30ad\u30e3\u30f3\u30d1\u30b9\u306b\u304a\u3051\u308b\u6027\u7684\u66b4\u884c\u306b\u95a2\u3059\u308b\u6307\u91dd\u3092\u5909\u66f4\u3059\u308b\u8a08\u753b\u3092\u7acb\u3066\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33711,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306e\u4efb\u671f\u4e2d\u3001\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u53f8\u6cd5\u9577\u5b98\u30b6\u30d3\u30a8\u30eb\u30fb\u30d9\u30bb\u30e9\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3068\u30e1\u30ad\u30b7\u30b3\u306e\u56fd\u5883\u6cbf\u3044\u306b\u8a08\u753b\u3055\u308c\u305f\u58c1\u306b\u5bfe\u3059\u308b\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306e\u63d0\u6848\u306b\u5bfe\u3057\u3066\u3001\u9023\u90a6\u88c1\u5224\u6240\u306b\u8a34\u8a1f\u3092\u8d77\u3053\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.\u2013Mexico border",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33502,
+                "date": "2017-09-01T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30b1\u30cb\u30a2\u7dcf\u9078\u6319\u3002\u30b1\u30cb\u30a2\u306e\u6700\u9ad8\u88c1\u5224\u6240\u306f\u6700\u8fd1\u306e\u5927\u7d71\u9818\u9078\u6319\u306e\u7d50\u679c\u3092\u7121\u52b9\u3068\u3057\u3001\u9078\u6319\u3067\u518d\u9078\u3055\u308c\u305f\u3068\u3055\u308c\u305f\u30a6\u30d5\u30eb\u30fb\u30b1\u30cb\u30e4\u30c3\u30bf\u5927\u7d71\u9818\u306e\u7d50\u679c\u3092\u4e0d\u6b63\u884c\u70ba\u306e\u305f\u3081\u306b\u53d6\u308a\u6d88\u3057\u3001\u65b0\u305f\u306a\u9078\u6319\u3092\u547d\u3058\u308b\u3002",
+                "eng_text": "The Supreme Court of Kenya annuls the results of the recent presidential election, that indicated  President Uhuru Kenyatta was reelected, due to irregularities, and orders a new election",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33510,
+                "date": "2017-09-02T00:00:00Z",
+                "text": "\u30ab\u30f3\u30dc\u30b8\u30a2\u306e\u6cd5\u57f7\u884c\u3002\u30ab\u30f3\u30dc\u30b8\u30a2\u306e\u91ce\u515a\u6307\u5c0e\u8005\u30b1\u30e0\u30fb\u30bd\u30ab\u304c\u7591\u308f\u308c\u308b\u53cd\u9006\u7f6a\u3067\u902e\u6355\u3055\u308c\u308b\u3002",
+                "eng_text": "Cambodian opposition leader Kem Sokha is arrested for alleged treason",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33511,
+                "date": "2017-09-03T00:00:00Z",
+                "text": "\u30ab\u30f3\u30dc\u30b8\u30a2\u306e\u7d4c\u6e08\u3002\u30ab\u30f3\u30dc\u30b8\u30a2\u30c7\u30a4\u30ea\u30fc\u65b0\u805e\u304c\u3001\u30ab\u30f3\u30dc\u30b8\u30a2\u306e\u9996\u76f8\u30d5\u30f3\u30fb\u30bb\u30f3\u306b\u3088\u308b\u6c11\u9593\u4f01\u696d\u306e\u8abf\u67fb\u306b\u4f34\u3044\u3001\u7a0e\u91d1\u652f\u6255\u3044\u3092\u547d\u3058\u3089\u308c\u305f\u7d50\u679c\u3001630\u4e07\u30c9\u30eb\u3092\u652f\u6255\u3046\u3053\u3068\u306b\u306a\u3063\u305f\u3053\u3068\u3092\u767a\u8868\u3057\u3001\u6700\u7d42\u53f7\u3092\u767a\u884c\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                "eng_text": "The Cambodia Daily newspaper announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33523,
+                "date": "2017-09-04T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30e1\u30c7\u30a3\u30a2\u3002\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u30bf\u30a4\u30e0\u30ba\u3084\u30b7\u30ab\u30b4\u30c8\u30ea\u30d3\u30e5\u30fc\u30f3\u306e\u767a\u884c\u5143\u3067\u3042\u308bTronc Inc.\u304c\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u30c7\u30a4\u30ea\u30fc\u30cb\u30e5\u30fc\u30b9\u3092\u8cb7\u53ce\u3059\u308b\u3002",
+                "eng_text": "Tronc Inc., the Los Angeles Times and the Chicago Tribune publisher, buys the New York Daily News",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33527,
+                "date": "2017-09-04T00:00:00Z",
+                "text": "\u30a4\u30bf\u30ea\u30a2\u306b\u304a\u3051\u308b\u72af\u7f6a\u300223\u5e74\u306b\u6e21\u3063\u3066\u9003\u4ea1\u3092\u7d9a\u3051\u3066\u304d\u305f\u30a4\u30bf\u30ea\u30a2\u4eba\u306e\u9003\u4ea1\u72af\u3067\u3042\u308a\u3001'Ndrangheta\u306e\u30e1\u30f3\u30d0\u30fc\u3067\u3042\u308bRocco Morabito\u304c\u30a6\u30eb\u30b0\u30a2\u30a4\u306e\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa\u3067\u902e\u6355\u3055\u308c\u307e\u3057\u305f\u3002\u5f7c\u306f\u4eca\u5f8c\u6570\u30f6\u6708\u4ee5\u5185\u306b\u30a4\u30bf\u30ea\u30a2\u306b\u5f15\u304d\u6e21\u3055\u308c\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                "eng_text": "Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33534,
+                "date": "2017-09-05T00:00:00Z",
+                "text": "\u30a4\u30f3\u30c9\u3068\u30df\u30e3\u30f3\u30de\u30fc\u306e\u95a2\u4fc2\u3002 \u30a4\u30f3\u30c9\u306e\u9996\u76f8\u30ca\u30ec\u30f3\u30c9\u30e9\u30fb\u30e2\u30c7\u30a3\u304c\u3001\u30df\u30e3\u30f3\u30de\u30fc\u3092\u56fd\u8cd3\u8a2a\u554f\u3057\u307e\u3059\u3002",
+                "eng_text": "Indian Prime Minister Narendra Modi heads to Myanmar for a state visit",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33537,
+                "date": "2017-09-05T00:00:00Z",
+                "text": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306e\u540c\u6027\u7d50\u5a5a\u306b\u95a2\u3059\u308b\u5a5a\u59fb\u6cd5\u90f5\u4fbf\u8abf\u67fb\u3002 \u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u9ad8\u7b49\u88c1\u5224\u6240\u306f\u3001\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306e\u5a5a\u59fb\u6cd5\u90f5\u4fbf\u8abf\u67fb\u306b\u3064\u3044\u3066\u3001\u300c\u72ec\u7279\u3067\u653b\u6483\u7684\u306a\u300d\u3068\u3057\u3066\u82e6\u60c5\u3092\u53d7\u3051\u4ed8\u3051\u307e\u3057\u305f\u3002",
+                "eng_text": "The High Court of Australia receives a complaint against the Australian Marriage Law Postal Survey citing the postal survey as \"unique and offensive",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33566,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306e\u7d50\u5a5a\u6cd5\u90f5\u9001\u8abf\u67fb\u3002\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6700\u9ad8\u88c1\u306f\u3001\u540c\u6027\u5a5a\u306b\u95a2\u3059\u308b\u90f5\u9001\u8abf\u67fb\u306b\u5bfe\u3059\u308b\u6311\u6226\u3092\u9000\u3051\u3001\u4e88\u5b9a\u901a\u308a9\u6708\u4e2d\u65ec\u306b\u8abf\u67fb\u304c\u958b\u59cb\u3055\u308c\u308b\u3053\u3068\u3092\u8a31\u53ef\u3057\u307e\u3059\u3002",
+                "eng_text": "The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33544,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u3067\u8d77\u304d\u305f\u707d\u5bb3\u3002\u30a2\u30ea\u30be\u30ca\u5dde\u30a8\u30a2\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u30ac\u30fc\u30c9\u306eF-16\u304c\u30b5\u30d5\u30a9\u30fc\u30c9\u8fd1\u304f\u3067\u589c\u843d\u3057\u3001\u30d1\u30a4\u30ed\u30c3\u30c8\u304c\u4ea1\u304f\u306a\u308b\u3002",
+                "eng_text": "An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33542,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "\u5e7c\u5c11\u671f\u306b\u7c73\u56fd\u306b\u79fb\u4f4f\u3057\u305f\u8005\u306e\u305f\u3081\u306e\u5ef6\u9577\u63aa\u7f6e\u3002Facebook\u3001Marriott International\u3001JPMorgan Chase\u3001Microsoft\u306a\u3069\u306e\u7c73\u56fd\u4f01\u696d\u306e\u7d4c\u55b6\u8005\u305f\u3061\u304c\u3001\u56fd\u4f1a\u8b70\u54e1\u306b\u50cd\u304fDREAMers\u304c\u5408\u6cd5\u7684\u306b\u6ede\u5728\u3067\u304d\u308b\u6c38\u7d9a\u7684\u306a\u89e3\u6c7a\u7b56\u3092\u6c42\u3081\u3066\u30ed\u30d3\u30fc\u6d3b\u52d5\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u591a\u304f\u306eDREAMers\u306f\u3053\u308c\u3089\u306e\u4f01\u696d\u306e\u5f93\u696d\u54e1\u3067\u3082\u3042\u308a\u307e\u3059\u3002",
+                "eng_text": "Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33552,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "\u5e7c\u5c11\u671f\u5165\u56fd\u8005\u306e\u305f\u3081\u306e\u5ef6\u671f\u63aa\u7f6e\u300215\u5dde\u3068\u30ef\u30b7\u30f3\u30c8\u30f3D.C.\u304c\u63d0\u8a34\u3057\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306e\u5e7c\u5c11\u671f\u5165\u56fd\u8005\u306e\u305f\u3081\u306e\u5ef6\u671f\u63aa\u7f6e\uff08DACA\uff09\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u6253\u3061\u5207\u308b\u6c7a\u5b9a\u306b\u7570\u8b70\u3092\u5531\u3048\u3001\u4e00\u90e8\u3067\u306f\u3001\u653f\u5e9c\u304c\u82e5\u3044\u79fb\u6c11\u3092\u4fdd\u8b77\u3059\u308b\u3068\u306e\u7d04\u675f\u3092\u7834\u3063\u305f\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Fifteen states and the District of Columbia file suit challenging President Donald Trump\u2019s decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33559,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u5e7c\u5c11\u671f\u5165\u56fd\u8005\u306e\u305f\u3081\u306e\u5ef6\u671f\u884c\u52d5\u300215\u306e\u5dde\u304c\u30c8\u30e9\u30f3\u30d7\u653f\u6a29\u3092\u8a34\u3048\u3001DACA\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u53d6\u308a\u6d88\u3057\u306b\u95a2\u9023\u3059\u308b\u884c\u52d5\u306b\u3088\u308b\u6b63\u5f53\u624b\u7d9a\u304d\u6761\u9805\u9055\u53cd\u306e\u53ef\u80fd\u6027\u306b\u3064\u3044\u3066\u8a34\u8a1f\u3092\u8d77\u3053\u3059\u3002",
+                "eng_text": "Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33590,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "\u5e7c\u5c11\u671f\u306b\u79fb\u6c11\u3057\u3066\u304d\u305f\u8005\u3078\u306e\u5ef6\u9577\u3055\u308c\u305f\u884c\u52d5\u306e\u5ef6\u671f\u3002\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5927\u5b66\u306f\u3001\u5e7c\u5c11\u671f\u306b\u79fb\u6c11\u3057\u3066\u304d\u305f\u8005\u3078\u306e\u5ef6\u9577\u3055\u308c\u305f\u884c\u52d5\u306e\u5ef6\u671f\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u7d42\u4e86\u3059\u308b\u53ef\u80fd\u6027\u306b\u5bfe\u3057\u3066\u8a34\u8a1f\u3092\u8d77\u3053\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306b\u3088\u308a4,000\u4eba\u4ee5\u4e0a\u306e\u5b66\u751f\u306b\u5f71\u97ff\u3092\u53ca\u307c\u3059\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "eng_text": "The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33644,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u5e7c\u5c11\u671f\u306b\u304a\u3051\u308b\u884c\u52d5\u7336\u4e88\u63aa\u7f6e\u3002\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u3068\u6c11\u4e3b\u515a\u306e\u30c1\u30e3\u30c3\u30af\u30fb\u30b7\u30e5\u30fc\u30de\u30fc\u3068\u30ca\u30f3\u30b7\u30fc\u30fb\u30da\u30ed\u30b7\u304c\u4e3b\u50ac\u3059\u308b\u516c\u5f0f\u306a\u5915\u98df\u4f1a\u3067\u3001DACA\u3092\u4fee\u6b63\u3059\u308b\u3053\u3068\u306b\u306f\u5408\u610f\u3059\u308b\u3082\u306e\u306e\u3001\u8a73\u7d30\u306b\u3064\u3044\u3066\u306f\u610f\u898b\u304c\u5206\u304b\u308c\u3066\u304a\u308a\u3001\u7fcc\u65e5\u306b\u306f\u30c8\u30e9\u30f3\u30d7\u304cTwitter\u3067\u3001\u30e1\u30ad\u30b7\u30b3\u3068\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u56fd\u5883\u306b\u5efa\u8a2d\u3059\u308b\u63d0\u6848\u3055\u308c\u3066\u3044\u305f\u58c1\u306e\u8cc7\u91d1\u3092\u9664\u5916\u3057\u305f\u53d6\u5f15\u304c\u6210\u7acb\u3057\u3066\u3044\u306a\u3044\u3053\u3068\u3092\u5426\u5b9a\u3057\u305f\u3002",
+                "eng_text": "In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico\u2013United States border",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33746,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306e\u79fb\u6c11\u653f\u7b56\u3002\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306f\u3001\u5317\u671d\u9bae\u3001\u30d9\u30cd\u30ba\u30a8\u30e9\u3001\u30c1\u30e3\u30c9\u306e\u5e02\u6c11\u304c\u7c73\u56fd\u3078\u306e\u6e21\u822a\u3092\u5236\u9650\u3055\u308c\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u307e\u305f\u300113780\u53f7\u5927\u7d71\u9818\u4ee4\u3067\u4ee5\u524d\u306b\u30ea\u30b9\u30c8\u30a2\u30c3\u30d7\u3055\u308c\u305f6\u3064\u306e\u56fd\u306e\u5e02\u6c11\u3092\u9664\u3044\u3066\u3001\u30b9\u30fc\u30c0\u30f3\u306e\u5e02\u6c11\u3082\u7c73\u56fd\u3078\u306e\u6e21\u822a\u304c\u5236\u9650\u3055\u308c\u307e\u3059\u3002",
+                "eng_text": "The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33551,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u8b70\u4f1a\u3078\u306e\u76f4\u524d\u306e\u63d0\u51fa\u3067\u3001\u30b9\u30da\u30a4\u30f3\u304b\u3089\u306e\u72ec\u7acb\u306b\u95a2\u3059\u308b\u4f4f\u6c11\u6295\u7968\u306e\u6b63\u5f0f\u627f\u8a8d\u304c\u7dca\u5f35\u3057\u305f\u8b70\u8ad6\u306e\u672b\u306b\u884c\u308f\u308c\u307e\u3059\u3002\u56fd\u306e\u5927\u7d71\u9818\u306f\u6cd5\u6848\u3092\u7121\u8996\u3059\u308b\u3088\u3046\u653f\u5e9c\u306b\u4fc3\u3057\u307e\u3059\u304c\u3001\u8b70\u4f1a\u3067\u306f\u72ec\u7acb\u6295\u7968\u306b\u8cdb\u6210\u3059\u308b\u6295\u7968\u304c\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u6cd5\u5f8b\u306e\u627f\u8a8d\u306e\u305f\u3081\u306b\u3001\u8b70\u9577\u3067\u3042\u308bCarme Forcadell\u306f\u8b70\u4f1a\u306e\u898f\u5247\u3092\u7834\u308a\u3001\u30ab\u30e1\u30e9\u3092\u6cd5\u5916\u306b\u8a2d\u7f6e\u3057\u3001\u91ce\u515a\u306e\u6a29\u5229\u3092\u4fb5\u5bb3\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "A last minute presentation to the Parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain after tense discussions. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. For the approval of this law, the Speaker, Carme Forcadell breaks the regulations of the Parliament, placing the camera outside the law and violating the rights of the opposition",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33569,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e742017-2018\u5e74\u30b9\u30da\u30a4\u30f3\u61b2\u6cd5\u5371\u6a5f\u3002\u30b9\u30da\u30a4\u30f3\u306f\u3001\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u3067\u63d0\u6848\u3055\u308c\u305f\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u306b\u95a2\u3059\u308b\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u8b70\u4f1a\u306e\u4e3b\u8981\u30e1\u30f3\u30d0\u30fc\u3092\u8a34\u3048\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                "eng_text": "Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33571,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e74\u30022017\u5e74\u304b\u30892018\u5e74\u306e\u30b9\u30da\u30a4\u30f3\u61b2\u6cd5\u5371\u6a5f\u3002\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u8b70\u4f1a\u306f\u7dca\u5f35\u3057\u305f\u8b70\u8ad6\u306e\u5f8c\u3001\u5171\u548c\u56fd\u306e\u6cd5\u5236\u79fb\u884c\u3068\u8a2d\u7acb\u306b\u95a2\u3059\u308b\u6cd5\u5f8b\u3092\u627f\u8a8d\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "The Catalan parliament approves after tense discussions the Law of juridical transition and foundation of the Republic",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33570,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e74\u304b\u30892018\u5e74\u306e\u30b9\u30da\u30a4\u30f3\u61b2\u6cd5\u5371\u6a5f\u3002\u30b9\u30da\u30a4\u30f3\u61b2\u6cd5\u88c1\u5224\u6240\u306f\u3001\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u8b70\u4f1a\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u6cd5\u3092\u505c\u6b62\u3057\u3001\u6295\u7968\u304c\u56fd\u306e\u61b2\u6cd5\u306b\u9055\u53cd\u3059\u308b\u304b\u3069\u3046\u304b\u3092\u8003\u616e\u3059\u308b\u6642\u9593\u3092\u4e0e\u3048\u308b\u3002",
+                "eng_text": "Spain's Constitutional Court suspends the Catalan Parliament's independence referendum law to give the court time to consider whether the vote would breach the country's constitution",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33645,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30b9\u30da\u30a4\u30f3\u306e\u691c\u4e8b\u7dcf\u9577\u3001\u30db\u30bb\u30fb\u30de\u30cc\u30a8\u30eb\u30fb\u30de\u30b5\u6c0f\u304c\u3001\u975e\u5408\u6cd5\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u306b\u304a\u3051\u308b700\u4eba\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u306e\u5e02\u9577\u9054\u306b\u8cac\u4efb\u3092\u554f\u3046\u3002",
+                "eng_text": "Spanish Attorney General, Jos\u00e9 Manuel Maza, imputes 700 Catalan mayors for their role in the banned independence referendum",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33677,
+                "date": "2017-09-16T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30b9\u30da\u30a4\u30f3\u3068\u30a4\u30ae\u30ea\u30b9\u306e\u95a2\u4fc2\u3002\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9\u653f\u5e9c\u306f\u3001\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3092\u652f\u6301\u3059\u308b\u58f0\u660e\u3092\u767a\u8868\u3057\u305f\u304c\u3001\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u3068\u30b9\u30da\u30a4\u30f3\u306e\u4e21\u8005\u304c\u6761\u4ef6\u306b\u540c\u610f\u3059\u308b\u3053\u3068\u3092\u671b\u3093\u3067\u3044\u308b\u3002",
+                "eng_text": "The government of Scotland releases a statement in support of the Catalan independence referendum but would prefer that both Catalonia and Spain agree on the terms",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33703,
+                "date": "2017-09-19T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30b9\u30da\u30a4\u30f3\u61b2\u6cd5\u5371\u6a5f\u3002\u30b9\u30da\u30a4\u30f3\u306e\u30ac\u30eb\u30c7\u30a3\u30a2\u30fb\u30b7\u30d3\u30eb\u304c\u3001\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u5730\u65b9\u306e\u90fd\u5e02\u30c6\u30e9\u30b5\u306b\u3042\u308b\u79c1\u8a2d\u306e\u914d\u9001\u6240\u3092\u5bb6\u5b85\u635c\u7d22\u3057\u3001\u6765\u308b\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u306e\u305f\u3081\u306e\u6295\u7968\u7528\u7d19\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u3068\u7591\u308f\u308c\u308b\u5c01\u7b52\u3092\u635c\u7d22\u3057\u3001\u62bc\u53ce\u3057\u305f\u3002",
+                "eng_text": "Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33802,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30ab\u30bf\u30eb\u30fc\u30cb\u30e3\u306e\u5927\u7d71\u9818\u306f\u3001\u30b9\u30da\u30a4\u30f3\u304b\u3089\u306e\u7570\u8b70\u306b\u3082\u304b\u304b\u308f\u3089\u305a\u3001\u6295\u7968\u3092\u7d9a\u884c\u3059\u308b\u3068\u8a93\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The President of Catalonia vows to continue on with the vote despite objections from Spain",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33554,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2016\u5e74\u306e\u7c73\u56fd\u5927\u7d71\u9818\u9078\u6319\u306b\u304a\u3051\u308b\u30bd\u30fc\u30b7\u30e3\u30eb\u30e1\u30c7\u30a3\u30a2\u3002Facebook\u306f\u3001\u7c73\u56fd\u4f1a\u306e\u8abf\u67fb\u5b98\u306b\u5bfe\u3057\u3001\u6709\u6a19\u3092\u72d9\u3063\u305f\u30ed\u30b7\u30a2\u4f01\u696d\u306b\u3088\u308b\u6d3b\u52d5\u304c\u30012016\u5e74\u306e\u7c73\u56fd\u9078\u6319\u4e2d\u306b\u3001\u7c73\u56fd\u306e\u5e83\u544a\u6570\u5343\u4ef6\u306b10\u4e07\u30c9\u30eb\u3092\u8cbb\u3084\u3057\u3001\u5206\u88c2\u3092\u4fc3\u3059\u793e\u4f1a\u3084\u653f\u6cbb\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u5ba3\u4f1d\u3057\u305f\u3053\u3068\u3092\u5831\u544a\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 U.S. election",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33726,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3078\u306e\u30ed\u30b7\u30a2\u306e\u4ecb\u5165\u3002Facebook\u306f\u3001\u30ed\u30b7\u30a2\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u8abf\u67fb\u6a5f\u95a2\u3068\u3055\u308c\u308b\u30a2\u30ab\u30a6\u30f3\u30c8\u304b\u30892016\u5e74\u306b\u30a2\u30e1\u30ea\u30ab\u3067\u5b9f\u65bd\u3055\u308c\u305f\u5e83\u544a\u3092\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u8b70\u4f1a\u306e\u8abf\u67fb\u5b98\u306b\u958b\u793a\u3059\u308b\u3053\u3068\u306b\u540c\u610f\u3057\u307e\u3057\u305f\u3002\u4ee5\u524d\u306f\u3001\u3053\u306e\u60c5\u5831\u306f\u7279\u5225\u691c\u5bdf\u5b98\u30ed\u30d0\u30fc\u30c8\u30fb\u30df\u30e5\u30fc\u30e9\u30fc\u306b\u63d0\u4f9b\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u3002",
+                "eng_text": "Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this  information was provided to Special Counsel Robert Mueller",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33555,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u306b\u304a\u3051\u308b\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u95a2\u4e0e\u3002\u30de\u30b9\u30e4\u30d5\u5e02\u3001\u30cf\u30de\u770c\u8fd1\u304f\u306e\u8ecd\u4e8b\u7814\u7a76\u65bd\u8a2d\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30b8\u30a7\u30c3\u30c8\u6a5f\u304c\u7206\u6483\u3057\u305f\u3068\u7591\u308f\u308c\u3001\u5c11\u306a\u304f\u3068\u30822\u4eba\u306e\u30b7\u30ea\u30a2\u8ecd\u5175\u58eb\u304c\u6b7b\u4ea1\u3057\u305f\u3002\u305d\u306e\u65bd\u8a2d\u306f\u5316\u5b66\u5175\u5668\u3092\u4fdd\u6709\u3057\u3066\u3044\u308b\u3068\u5642\u3055\u308c\u3066\u3044\u305f\u3002",
+                "eng_text": "It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33605,
+                "date": "2017-09-10T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3078\u306e\u30ed\u30b7\u30a2\u8ecd\u306e\u4ecb\u5165\u3002\u30c7\u30ea\u30be\u30fc\u30eb\u8fd1\u304f\u306e\u30e6\u30fc\u30d5\u30e9\u30c6\u30b9\u5ddd\u3092\u6e21\u308d\u3046\u3068\u3057\u305f\u6570\u96bb\u306e\u8239\u306b\u5bfe\u3059\u308b\u30ed\u30b7\u30a2\u306e\u7a7a\u7206\u3067\u3001\u30b7\u30ea\u30a2\u4eba\u6a29\u76e3\u8996\u56e3\u306b\u3088\u308b\u3068\u3001\u5c11\u306a\u304f\u3068\u308234\u4eba\u306e\u5e02\u6c11\u3001\u305d\u306e\u4e2d\u306b\u306f9\u4eba\u306e\u5b50\u3069\u3082\u3082\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33716,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30b7\u30a2\u3068\u30b7\u30ea\u30a2\u306e\u6226\u95d8\u6a5f\u304c\u5357\u30a4\u30c9\u30ea\u30d6\u3067\u7a7a\u7206\u3092\u884c\u3044\u30013\u4eba\u306e\u5e02\u6c11\u304c\u6b7b\u4ea1\u3057\u3001\u4ed6\u306e\u4eba\u3005\u304c\u8ca0\u50b7\u3057\u305f\u3002",
+                "eng_text": "Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33743,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3078\u306e\u30ed\u30b7\u30a2\u306e\u8ecd\u4e8b\u4ecb\u5165\u3002\u30ed\u30b7\u30a2\u56fd\u9632\u7701\u306b\u3088\u308b\u3068\u3001\u30ed\u30b7\u30a2\u306e\u4e2d\u5c06\u3001\u30f4\u30a1\u30ec\u30ea\u30fc\u30fb\u30a2\u30b5\u30dd\u30d5\u304c\u30c7\u30a3\u30fc\u30eb\u30fb\u30a8\u30ba\u30fb\u30be\u30fc\u30eb\u5e02\u8fd1\u304f\u306eISIL\u6b66\u88c5\u52e2\u529b\u306b\u3088\u308b\u8feb\u6483\u7832\u653b\u6483\u3067\u6bba\u5bb3\u3055\u308c\u305f\u3002\u30a2\u30b5\u30dd\u30d5\u306f\u30b7\u30ea\u30a2\u306b\u304a\u3051\u308b\u4e0a\u7d1a\u30ed\u30b7\u30a2\u8ecd\u4e8b\u9867\u554f\u306e\u4e00\u4eba\u3068\u8a00\u308f\u308c\u3066\u3044\u308b\u3002",
+                "eng_text": "A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33779,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30b7\u30a2\u306e\u822a\u7a7a\u6a5f\u304c\u3001\u30a4\u30c9\u30ea\u30d6\u5dde\u897f\u90e8\u306e\u30ad\u30ea\u30b9\u30c8\u6559\u5f92\u306e\u591a\u3044\u30ab\u30a4\u30fc\u30ca\u3068\u30e4\u30b3\u30d3\u30a2\u6751\u306b\u7a7a\u7206\u3092\u5b9f\u65bd\u3057\u30011\u4eba\u306e\u5b50\u4f9b\u304c\u6b7b\u4ea1\u3057\u30015\u4eba\u304c\u8ca0\u50b7\u3057\u305f\u3002",
+                "eng_text": "Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33780,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\uff15\u6a5f\u306e\u30ed\u30b7\u30a2\u6226\u95d8\u6a5f\u304c\u30a2\u30eb\u30fb\u30bf\u30de\u30cd\u30a2\u5e02\u306b\u30ed\u30b1\u30c3\u30c8\u3001\u7206\u5f3e\u3001\u30d0\u30f3\u30ab\u30fc\u30d0\u30b9\u30bf\u30fc\u30df\u30b5\u30a4\u30eb\u3067\u653b\u6483\u3057\u3001\u6570\u540d\u306e\u6c11\u9593\u4eba\u304c\u8ca0\u50b7\u3057\u3001\u5730\u57df\u306b\u5927\u304d\u306a\u88ab\u5bb3\u3092\u3082\u305f\u3089\u3057\u3001\u591a\u304f\u306e\u5e02\u6c11\u304c\u9003\u3052\u308b\u4e8b\u614b\u304c\u767a\u751f\u3057\u305f\u3002",
+                "eng_text": "Five Russian warplanes bombard the city of al-Tamane\u2019a with rockets, bombs, and Bunker-Buster missiles, wounding several civilians and causing a significant damage to the area, and causing large number of civilians to flee",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33796,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30a4\u30e9\u30af\u30fb\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304c\u3001\u30ea\u30fc\u30c0\u30fc\u306e\u30a2\u30d6\u30fb\u30d0\u30af\u30eb\u30fb\u30a2\u30eb\uff1d\u30d0\u30b0\u30c0\u30c7\u30a3\u304c\u8ffd\u968f\u8005\u306b\u5bfe\u3057\u3001\u300c\u5341\u5b57\u8ecd\u3068\u7570\u7aef\u8005\u300d\u306b\u5bfe\u3059\u308b\u653b\u6483\u3092\u62e1\u5927\u3059\u308b\u3088\u3046\u4fc3\u3059\u6620\u50cf\u3092\u516c\u958b\u3057\u307e\u3059\u3002",
+                "eng_text": "The Islamic State of Iraq and the Levant releases footage which apparently show its leader Abu Bakr al-Baghdadi urging his followers to expand their attacks against \"crusaders and apostates\"",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33573,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u9ebb\u85ac\u6226\u4e89\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u73fe\u5927\u7d71\u9818\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u306e\u606f\u5b50\u3067\u3042\u308b\u30d1\u30aa\u30ed\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u304c\u3001\u30e1\u30bf\u30f3\u30d5\u30a7\u30bf\u30df\u30f3\u5bc6\u8f38\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306e\u5acc\u7591\u3092\u53d7\u3051\u3066\u30d5\u30a3\u30ea\u30d4\u30f3\u4e0a\u9662\u304b\u3089\u8abf\u67fb\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33672,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u9ebb\u85ac\u6226\u4e89\u3002\u30ab\u30eb\u30fc\u30ab\u30f3\u306e\u90ca\u5916\u306b\u3042\u308b\u30d5\u30a3\u30ea\u30d4\u30f3\u56fd\u5bb6\u8b66\u5bdf\u306e\u7d041,200\u4eba\u306e\u30e1\u30f3\u30d0\u30fc\u304c\u3001\u8b66\u5bdf\u306b\u95a2\u9023\u3059\u308b\u72af\u7f6a\u306e\u7591\u3044\u306b\u3088\u308a\u89e3\u96c7\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33713,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u9ebb\u85ac\u6226\u4e89\u3002\u30de\u30cb\u30e9\u306e\u5927\u7d71\u9818\u5bae\u6bbf\u3067\u653f\u5e9c\u8077\u54e1\u306b\u6f14\u8aac\u3059\u308b\u4e2d\u3001\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u5927\u7d71\u9818\u306f\u3001\u9577\u7537\u3067\u3042\u308b\u30d1\u30a6\u30ed\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u304c\u5f7c\u306b\u5bfe\u3059\u308b\u9ebb\u85ac\u8ca9\u58f2\u306e\u7591\u60d1\u304c\u771f\u5b9f\u3067\u3042\u308b\u3068\u8a3c\u660e\u3055\u308c\u305f\u5834\u5408\u3001\u8b66\u5bdf\u306b\u5f7c\u3092\u6bba\u3059\u3088\u3046\u547d\u3058\u3001\u305d\u306e\u51e6\u5211\u3092\u5b9f\u884c\u3057\u305f\u8005\u305f\u3061\u3092\u8d77\u8a34\u304b\u3089\u4fdd\u8b77\u3059\u308b\u3068\u4ed8\u3051\u52a0\u3048\u307e\u3057\u305f\u3002",
+                "eng_text": "Speaking to government workers at the presidential palace in Manila, President Rodrigo Duterte orders police to kill his eldest son, Paulo Duterte, if drug trafficking allegations against him are proven true, and adds that those who carried out the execution would be protected from prosecution",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33568,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u30aa\u30fc\u30c0\u30fc13780\u3002\u7b2c9\u5de1\u56de\u533a\u63a7\u8a34\u88c1\u5224\u6240\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u653f\u6a29\u306e\u4e3b\u5f35\u3092\u62d2\u5426\u3057\u3001\u30a2\u30e1\u30ea\u30ab\u56fd\u5185\u306b\u6b63\u5f53\u306a\u95a2\u4fc2\u3092\u6301\u3064\u7956\u7236\u6bcd\u3001\u5f93\u5144\u5f1f\u3001\u305d\u306e\u4ed6\u306e\u4eba\u3005\u306b\u5bfe\u3059\u308b\u6e21\u822a\u7981\u6b62\u306b\u95a2\u3059\u308b\u4e3b\u5f35\u3092\u9000\u3051\u307e\u3057\u305f\u3002",
+                "eng_text": "The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a bona fide relationship in the United States",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33572,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a2\u30eb\u30b1\u30de\u5de5\u5834\u7206\u767a\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30cf\u30fc\u30d3\u30fc\u3002\uff17\u4eba\u306e\u6551\u52a9\u968a\u54e1\u304c\u3001\u30a2\u30eb\u30b1\u30de\u5316\u5b66\u4f1a\u793e\u306b\u5bfe\u3057\u3066\u3001\u5de5\u5834\u7206\u767a\u306b\u3088\u308b\u74b0\u5883\u306e\u5371\u967a\u306b\u3064\u3044\u3066\u4e8b\u524d\u306b\u8b66\u544a\u3057\u306a\u304b\u3063\u305f\u3053\u3068\u3092\u7406\u7531\u306b100\u4e07\u30c9\u30eb\u306e\u8a34\u8a1f\u3092\u8d77\u3053\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u3089\u306e\uff17\u4eba\u3001\uff16\u4eba\u306e\u8b66\u5bdf\u5b98\u3068\uff11\u4eba\u306e\u7dca\u6025\u6551\u52a9\u968a\u54e1\u306f\u73fe\u5728\u3082\u533b\u5e2b\u306e\u6cbb\u7642\u3092\u53d7\u3051\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven people, six police officers and an emergency worker, remain under a doctor's care",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33586,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30fc\u30eb\u5916\u4ea4\u5371\u6a5f\u3002\u30ab\u30bf\u30fc\u30eb\u306e\u9996\u9577\u30b7\u30a7\u30a4\u30af\u30fb\u30bf\u30df\u30e0\u30fb\u30d3\u30f3\u30fb\u30cf\u30de\u30c9\u30fb\u30a2\u30eb\u30fb\u30b5\u30cb\u304c\u3001\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u306e\u7687\u592a\u5b50\u30e2\u30cf\u30e1\u30c9\u30fb\u30d3\u30f3\u30fb\u30b5\u30eb\u30de\u30f3\u306b\u96fb\u8a71\u3057\u3066\u30013\u304b\u6708\u524d\u306e\u5371\u6a5f\u306b\u3064\u3044\u3066\u8a71\u3057\u5408\u3046\u3002",
+                "eng_text": "Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33587,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30fc\u30eb\u5916\u4ea4\u5371\u6a5f\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u7c73\u5927\u7d71\u9818\u306f\u3001\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u3001\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6\u3001\u30ab\u30bf\u30fc\u30eb\u306e\u6307\u5c0e\u8005\u3068\u9023\u7d61\u3092\u53d6\u308a\u3001\u30a2\u30e9\u30d6\u8af8\u56fd\u306e\u56e3\u7d50\u304c\u5730\u57df\u306e\u5b89\u5b9a\u3084\u30a4\u30e9\u30f3\u306e\u8105\u5a01\u306b\u5bfe\u6297\u3059\u308b\u305f\u3081\u306b\u4e0d\u53ef\u6b20\u3067\u3042\u308b\u3053\u3068\u3092\u5f37\u8abf\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "U.S. President Donald Trump speaks with Saudi Arabian, Emirati, and Qatari leaders emphasizing that unity among Arab partners is essential for regional stability and for countering Iran's threat",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33601,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30bf\u30fc\u30eb\u5916\u4ea4\u5371\u6a5f\u3002\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u306f\u3001\u6628\u65e5\u306e\u4e21\u56fd\u9996\u8133\u306e\u96fb\u8a71\u4f1a\u8ac7\u306b\u95a2\u3059\u308b\u5831\u9053\u3067\u4e8b\u5b9f\u3092\u6b6a\u66f2\u3057\u305f\u3068\u3057\u3066\u3001\u30ab\u30bf\u30fc\u30eb\u3068\u306e\u3042\u3089\u3086\u308b\u5bfe\u8a71\u3092\u4e2d\u6b62\u3057\u3001\u6e7e\u5cb8\u7d1b\u4e89\u306e\u7a81\u7834\u53e3\u304c\u53ef\u80fd\u3067\u3042\u308b\u3068\u793a\u5506\u3055\u308c\u305f\u3068\u975e\u96e3\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Saudi Arabia suspends any dialogue with Qatar, accusing it of \u201cdistorting facts\u201d in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33588,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u3067\u306e\u500b\u4eba\u60c5\u5831\u306e\u76d7\u7528\u3002\u30a2\u30e1\u30ea\u30ab\u53f8\u6cd5\u7701\u306f\u3001\u30ed\u30b7\u30a2\u9023\u90a6\u8b70\u4f1a\u8b70\u54e1\u30f4\u30a1\u30ec\u30ea\u30fc\u30fb\u30bb\u30ec\u30ba\u30cd\u30d5\u306e\u606f\u5b50\u3067\u3042\u308b\u30ed\u30de\u30f3\u30fb\u30bb\u30ec\u30ba\u30cd\u30d5\u304c5,000\u4e07\u30c9\u30eb\u76f8\u5f53\u306e\u500b\u4eba\u60c5\u5831\u76d7\u7528\u306e\u635c\u67fb\u3067\u6709\u7f6a\u3092\u8a8d\u3081\u305f\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u6628\u5e744\u6708\u3001\u30ed\u30de\u30f3\u30fb\u30bb\u30ec\u30ba\u30cd\u30d5\u306f\u30cf\u30c3\u30ad\u30f3\u30b0\u72af\u7f6a38\u4ef6\u3067\u6709\u7f6a\u5224\u6c7a\u3092\u53d7\u3051\u300127\u5e74\u306e\u61f2\u5f79\u5211\u3092\u5ba3\u544a\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a  $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33591,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4\u5dde\u3067\u306e\u72af\u7f6a\u3002\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4\u5dde\u306e\u30b0\u30ed\u30c8\u30f3\u3067\u3001\u30aa\u30ea\u30aa\u30f3\u30fb\u30af\u30e9\u30a6\u30bc\u306f\u81ea\u5b85\u3067\u6bcd\u89aa\u3001\u7956\u7236\u6bcd\u3001\u305d\u3057\u3066\u4ecb\u8b77\u8005\u3092\u6bba\u5bb3\u3057\u305f\u3068\u3057\u3066\u902e\u6355\u3055\u308c\u307e\u3057\u305f\u3002\u5f53\u5c40\u306f\u3053\u308c\u3089\u306e\u6bba\u4eba\u304c\u5bb6\u5ead\u5185\u66b4\u529b\u306e\u884c\u70ba\u3067\u3042\u308b\u3068\u8003\u3048\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "In Groton, Massachusetts, Orion Krause is arrested for killing his mother, grandparents, and a caretaker in their home. Authorities believe the killings were an act of domestic violence",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33596,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "\u30ed\u30fc\u30de\u6642\u4ee3\u306e\u30a4\u30ae\u30ea\u30b9\u3002\u8003\u53e4\u5b66\u8005\u305f\u3061\u306f\u3001\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u5317\u90e8\u306b\u3042\u308b\u30cf\u30c9\u30ea\u30a2\u30cc\u30b9\u306e\u9577\u57ce\u8fd1\u304f\u306e\u53e4\u4ee3\u30ed\u30fc\u30de\u9a0e\u5175\u968a\u306e\u5175\u820e\u3067\u3001\u6b66\u5668\u3092\u542b\u3080\u30ed\u30fc\u30de\u6642\u4ee3\u306e\u907a\u7269\u306e\u84c4\u7a4d\u3092\u767a\u898b\u3057\u307e\u3057\u305f\u3002\u8003\u53e4\u5b66\u8005\u305f\u3061\u306f\u3001\u3053\u306e\u767a\u898b\u3092\u5b9d\u304f\u3058\u306b\u5f53\u305f\u308b\u3068\u305f\u3068\u3048\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Archaeologists discover a cache of Roman Britain-era artefacts, including weapons, at an ancient Roman cavalry barracks near Hadrian's Wall in northern England. Archaeologists liken the discovery to winning the lottery",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33602,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "\u30a6\u30eb\u30b0\u30a2\u30a4\u306e\u653f\u6cbb\u3002\u30a6\u30eb\u30b0\u30a2\u30a4\u306e\u526f\u5927\u7d71\u9818\u30e9\u30a6\u30eb\u30fb\u30bb\u30f3\u30c7\u30a3\u30c3\u30af\u304c\u6c5a\u8077\u635c\u67fb\u306e\u4e2d\u3067\u8f9e\u4efb\u3002",
+                "eng_text": "Vice President Ra\u00fal Sendic of Uruguay resigns amid a graft investigation",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33604,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2017\u5e74\u3001\u897f\u30a4\u30f3\u30c9\u8af8\u5cf6\u306e\u30af\u30ea\u30b1\u30c3\u30c8\u30c1\u30fc\u30e0\u304c\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u3092\u8a2a\u308c\u307e\u3057\u305f\u3002\u30af\u30ea\u30b1\u30c3\u30c8\u306e\u8a66\u5408\u3067\u306f\u3001\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u304c\u897f\u30a4\u30f3\u30c9\u8af8\u5cf6\u30929\u30a6\u30a3\u30b1\u30c3\u200b\u200b\u30c8\u5dee\u3067\u7834\u308a\u30013\u8a66\u5408\u306e\u30b7\u30ea\u30fc\u30ba\u3092\u5236\u3057\u307e\u3057\u305f\u3002 \u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u306e\u30dc\u30a6\u30e9\u30fc\u3001\u30b8\u30df\u30fc\u30fb\u30a2\u30f3\u30c0\u30fc\u30bd\u30f3\u306f7-42\u3092\u8a18\u9332\u3057\u3001\u53f2\u4e0a3\u4eba\u76ee\u306e\u901f\u7403\u30dc\u30a6\u30e9\u30fc\u3068\u3057\u3066500\u56de\u306e\u30c6\u30b9\u30c8\u30a6\u30a3\u30b1\u30c3\u30c8\u3092\u9054\u6210\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "In cricket, England defeat the West Indies by nine wickets to win the three-match series. England bowler Jimmy Anderson takes 7\u201342 and becomes only the third fast bowler in history to take 500 Test wickets",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33607,
+                "date": "2017-09-10T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ea\u30f4\u30a9\u30eb\u30ce\u6d2a\u6c34\u3002\u30a4\u30bf\u30ea\u30a2\u306e\u6e2f\u753a\u30ea\u30f4\u30a9\u30eb\u30ce\u3067\u3001\u5927\u96e8\u306b\u7d9a\u304f\u6d2a\u6c34\u304c\u5c11\u306a\u304f\u3068\u30826\u4eba\u3092\u6bba\u5bb3\u3002",
+                "eng_text": "Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33611,
+                "date": "2017-09-11T00:00:00Z",
+                "text": "\u30b7\u30ca\u30a4\u534a\u5cf6\u3067\u306e\u53cd\u4e71\u3002\u904e\u6fc0\u6d3e\u304c\u30a8\u30b8\u30d7\u30c8\u306e\u30b7\u30ca\u30a4\u534a\u5cf6\u3067\u8b66\u5bdf\u306e\u8eca\u5217\u3092\u8972\u6483\u3057\u3001\u8b66\u5bdf\u5b9818\u4eba\u3092\u6bba\u5bb3\u3057\u3001\u4ed6\u306b7\u4eba\u3092\u8ca0\u50b7\u3055\u305b\u307e\u3057\u305f\u3002",
+                "eng_text": "Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33608,
+                "date": "2017-09-10T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30d7\u30e9\u30ce\u9283\u6483\u4e8b\u4ef6\u3002\u30c6\u30ad\u30b5\u30b9\u5dde\u30d7\u30e9\u30ce\u3067\u306e\u5bb6\u5ead\u5185\u7d1b\u4e89\u306e\u4e2d\u3001\u9283\u624b\u304c\u30d1\u30fc\u30c6\u30a3\u30fc\u30677\u4eba\u3092\u5c04\u6bba\u3002\u305d\u306e\u5f8c\u3001\u30d7\u30e9\u30ce\u8b66\u5bdf\u5b98\u3068\u9283\u6483\u6226\u3092\u4ea4\u3048\u305f\u672b\u306b\u9283\u624b\u306f\u5c04\u6bba\u3055\u308c\u305f\u3002",
+                "eng_text": "A gunman shoots seven people dead at a house party in Plano, Texas, amid a domestic dispute. The gunman was then killed after exchanging fire with a Plano Police Department officer",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33622,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u9078\u6319\u3002\u30d2\u30e9\u30ea\u30fc\u30fb\u30af\u30ea\u30f3\u30c8\u30f3\u304c\u6700\u8fd1\u306e\u5927\u7d71\u9818\u9078\u6319\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306b\u3064\u3044\u3066\u306e\u56de\u9867\u9332\u3067\u3042\u308b\u300cWhat Happened\u300d\u3092\u51fa\u7248\u3002\u30af\u30ea\u30f3\u30c8\u30f3\u306f2020\u5e74\u306b\u518d\u3073\u7acb\u5019\u88dc\u3057\u306a\u3044\u53ef\u80fd\u6027\u3092\u793a\u5506\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hillary Clinton releases the book What Happened, a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33657,
+                "date": "2017-09-14T00:00:00Z",
+                "text": "2020\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u9078\u6319\u3002\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u306f\u3001\u901a\u5e38\u3088\u308a\u3082\u65e9\u3044\u6642\u671f\u3001\u304a\u305d\u3089\u304f3\u6708\u3084\u30b9\u30fc\u30d1\u30fc\u30c1\u30e5\u30fc\u30ba\u30c7\u30fc\u306b\u4e88\u5099\u9078\u3092\u884c\u3044\u3001\u81ea\u8eab\u306e\u91cd\u8981\u6027\u3084\u591a\u69d8\u6027\u306b\u6bd4\u3079\u3066\u3088\u308a\u591a\u304f\u306e\u5f71\u97ff\u529b\u3092\u6301\u3061\u3001\u30a8\u30ea\u30c3\u30af\u30fb\u30ac\u30eb\u30b7\u30a2\u3084\u30ab\u30de\u30e9\u30fb\u30cf\u30ea\u30b9\u306a\u3069\u306e\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u51fa\u8eab\u306e\u5019\u88dc\u8005\u3092\u652f\u63f4\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33680,
+                "date": "2017-09-16T00:00:00Z",
+                "text": "2020\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3067\u3001\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u306f\u30d7\u30e9\u30a4\u30de\u30ea\u30fc\u9078\u6319\u3092\u30b9\u30fc\u30d1\u30fc\u30c1\u30e5\u30fc\u30ba\u30c7\u30fc\u306e\u8fd1\u304f\u306b\u79fb\u52d5\u3055\u305b\u308b\u6cd5\u6848\u3092\u53ef\u6c7a\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "California passes a bill that will move the primaries to March near Super Tuesday",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33627,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "\u30b9\u30da\u30a4\u30f3\u306e\u30c6\u30ed\u3002\u30d0\u30eb\u30bb\u30ed\u30ca\u306e\u30b5\u30b0\u30e9\u30c0\u30fb\u30d5\u30a1\u30df\u30ea\u30a2\u5927\u8056\u5802\u304c\u3001\u30c6\u30ed\u5bfe\u7b56\u306e\u305f\u3081\u306b\u907f\u96e3\u3055\u305b\u3089\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "The Sagrada Fam\u00edlia basilica in Barcelona is evacuated due to an anti-terrorism operation",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33631,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u653f\u6cbb\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u4e0b\u9662\u306f\u3001\u4eba\u6a29\u59d4\u54e1\u4f1a\u306e\u4e88\u7b97\u30921,000\u30da\u30bd\uff0820\u7c73\u30c9\u30eb\uff09\u306b\u5236\u9650\u3059\u308b\u6cd5\u6848\u3092\u627f\u8a8d\u3057\u307e\u3059\u3002",
+                "eng_text": "The House of Representatives of the Philippines approves a bill that limits the budget of the Commission on Human Rights to only \u20b11,000 (US$20)",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33633,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ce\u30eb\u30a6\u30a7\u30fc\u56fd\u4f1a\u9078\u6319\u3002\u30a8\u30eb\u30ca\u30fb\u30bd\u30eb\u30d9\u30eb\u30b0\u7387\u3044\u308b\u53f3\u6d3e\u9023\u5408\u304c\u3001\u6628\u65e5\u884c\u308f\u308c\u305f\u30ce\u30eb\u30a6\u30a7\u30fc\u56fd\u4f1a\u9078\u6319\u30672\u671f\u76ee\u306e\u52dd\u5229\u3092\u53ce\u3081\u307e\u3057\u305f\u3002",
+                "eng_text": "The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33628,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u3067\u306e\u30c6\u30ed\u6d3b\u52d5\u3002\u672a\u78ba\u8a8d\u306e\u52d5\u753b\u306b\u304a\u3044\u3066\u3001\u30a4\u30e9\u30af\u3068\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u306f\u3001\u305d\u306e\u652f\u6301\u8005\u306b\u5bfe\u3057\u3066\u4e2d\u6771\u3067\u306f\u306a\u304f\u30d5\u30a3\u30ea\u30d4\u30f3\u3067\u6226\u3046\u3088\u3046\u6307\u793a\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33632,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "\u30ef\u30b7\u30f3\u30c8\u30f3\u5dde\u306e\u653f\u6cbb\u3002\u30b7\u30a2\u30c8\u30eb\u5e02\u9577\u30a8\u30c9\u30fb\u30de\u30ec\u30fc\u304c\u30011970\u5e74\u4ee3\u306880\u5e74\u4ee3\u306b5\u4eba\u306e\u5c11\u5e74\u3092\u6027\u7684\u8650\u5f85\u3057\u305f\u3068\u306e\u544a\u767a\u304c\u6d6e\u4e0a\u3057\u305f\u5f8c\u3001\u8f9e\u4efb\u3092\u767a\u8868\u3057\u307e\u3059\u3002",
+                "eng_text": "Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33637,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u306b\u304a\u3051\u308b\u6226\u4e89\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u8b70\u4f1a\u4e0a\u9662\u306f\u3001\u30a4\u30e9\u30af\u3068\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u3067\u306e\u6b66\u529b\u884c\u4f7f\u306e\u6a29\u9650\u3092\u64a4\u5ec3\u3059\u308b\u3053\u3068\u3092\u6c42\u3081\u308b2018\u5e74\u56fd\u9632\u6a29\u9650\u6cd5\u6848\u3078\u306e\u4fee\u6b63\u6848\u3092\u5426\u6c7a\u3057\u307e\u3059\u3002",
+                "eng_text": "The United States Senate blocks an amendment to the 2018 National Defense Authorization Act that would have repealed the war authorizations for the use of force in Iraq and Afghanistan",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33638,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30a2\u30f3\u30c1\u30a6\u30a4\u30eb\u30b9\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u56fd\u571f\u5b89\u5168\u4fdd\u969c\u7701\u306f\u3001\u30ed\u30b7\u30a2\u653f\u5e9c\u3068\u60c5\u5831\u3092\u5171\u6709\u3059\u308b\u3088\u3046\u5f37\u8981\u3055\u308c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u3044\u3046\u61f8\u5ff5\u304b\u3089\u3001\u30ab\u30b9\u30da\u30eb\u30b9\u30ad\u30fc\u30e9\u30dc\u306e\u88fd\u54c1\u3092\u653f\u5e9c\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u304b\u3089\u7981\u6b62\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "United States Homeland Security bans Kaspersky Lab products from government computers due to fears they could be coerced into sharing information with the Russian government",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33766,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u898f\u6a21\u76e3\u8996\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u56fd\u571f\u5b89\u5168\u4fdd\u969c\u7701\u306f\u30012017\u5e7410\u670818\u65e5\u304b\u3089\u3001\u6c38\u4f4f\u6a29\u4fdd\u6301\u8005\u3084\u5e30\u5316\u5e02\u6c11\u3092\u542b\u3080\u5168\u3066\u306e\u79fb\u6c11\u306e\u30bd\u30fc\u30b7\u30e3\u30eb\u30e1\u30c7\u30a3\u30a2\u60c5\u5831\u3092\u53ce\u96c6\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                "eng_text": "The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33642,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306e\u72af\u7f6a\u3002\u5143\u5b9f\u696d\u5bb6\u306e\u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30b7\u30e5\u30af\u30ec\u30ea\u306f\u3001\u5143\u653f\u6cbb\u5bb6\u3067\u3042\u308b\u30d2\u30e9\u30ea\u30fc\u30fb\u30af\u30ea\u30f3\u30c8\u30f3\u3092\u8105\u8feb\u3057\u305f\u305f\u3081\u3001\u4fdd\u91c8\u304c\u53d6\u308a\u6d88\u3055\u308c\u307e\u3057\u305f\u3002\u30b7\u30e5\u30af\u30ec\u30ea\u306fTwitter\u306b\u6295\u7a3f\u3057\u3001\u30af\u30ea\u30f3\u30c8\u30f3\u306e\u9aea\u306e\u6bdb\u3092\u76f4\u63a5\u624b\u306b\u5165\u308c\u3089\u308c\u308b\u4eba\u306b5,000\u30c9\u30eb\u3092\u63d0\u4f9b\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30b7\u30e5\u30af\u30ec\u30ea\u306f8\u6708\u306b\u8a50\u6b3a\u306e\u7f6a\u3067\u6709\u7f6a\u5224\u6c7a\u3092\u53d7\u3051\u3001\u5224\u6c7a\u3092\u5f85\u3064\u8eab\u3067\u3059\u3002",
+                "eng_text": "Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after Shkreli posted on Twitter that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33640,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30c6\u30ad\u30b5\u30b9\u5dde\u306e\u653f\u6cbb\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u6700\u9ad8\u88c1\u5224\u6240\u304c\u3001\u5927\u304d\u306a\u30d2\u30b9\u30d1\u30cb\u30c3\u30af\u3084\u30a2\u30d5\u30ea\u30ab\u7cfb\u30a2\u30e1\u30ea\u30ab\u4eba\u306e\u4f4f\u6c11\u304c\u591a\u3044\u4e0b\u9662\u9078\u6319\u533a\u306e\u518d\u533a\u753b\u3092\u30c6\u30ad\u30b5\u30b9\u306b\u8981\u6c42\u3059\u308b\u4f4e\u7d1a\u88c1\u5224\u6240\u306e\u5224\u6c7a\u3092\u4e00\u6642\u7684\u306b\u505c\u6b62\u3059\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u307e\u3059\uff085-4\uff09\u3002\u3053\u306e\u5224\u6c7a\u306f\u3001\u307e\u3060\u4e88\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u9078\u6319\u533a\u5272\u308a\u6848\u4ef6\u3067\u3042\u308bAbbott v. Perez\u306e\u6b63\u5f0f\u306a\u5be9\u7406\u306e\u524d\u306b\u4e0b\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "The United States Supreme Court confirms (5\u20134) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The ruling was made in advance of a formal hearing on the gerrymandering case, Abbott v. Perez, which has no scheduled hearing date yet",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33639,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3078\u306e\u79fb\u6c11\u3002\u30ab\u30f3\u30dc\u30b8\u30a2\u3001\u30a8\u30ea\u30c8\u30ea\u30a2\u3001\u30ae\u30cb\u30a2\u3001\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u306e\u4e0a\u7d1a\u5f79\u4eba\u306b\u5bfe\u3059\u308b\u30d3\u30b6\u767a\u7d66\u3092\u505c\u6b62\u3057\u305f\u7406\u7531\u306f\u3001\u5f37\u5236\u9001\u9084\u3092\u53d7\u3051\u5165\u308c\u306a\u304b\u3063\u305f\u305f\u3081\u3067\u3059\u3002",
+                "eng_text": "The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33641,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u6cd5\u5f8b\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u6700\u9ad8\u88c1\u5224\u6240\u306f\u3001\u6975\u7aef\u306a\u6b63\u7d71\u6d3e\u30e6\u30c0\u30e4\u4eba\u306e\u5fb4\u5175\u514d\u9664\u3092\u53d6\u308a\u6d88\u3059\u3002",
+                "eng_text": "The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33646,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u30ac\u30e9\u30d1\u30b4\u30b9\u30be\u30a6\u30ac\u30e1\u3002\u79d1\u5b66\u8005\u305f\u3061\u306f\u3001\u6700\u3082\u8fd1\u3044\u7956\u5148\u3092\u6301\u3064\u4e80\u3068\u306e\u300e\u907a\u4f1d\u60c5\u5831\u306b\u57fa\u3065\u3044\u305f\u300f\u98fc\u80b2\u7e41\u6b96\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u4f7f\u7528\u3057\u3066\u3001\u7d76\u6ec5\u3057\u305f\u30d5\u30ed\u30ec\u30a2\u30ca\u5cf6\u306e\u30be\u30a6\u30ac\u30e1\u3092\u5fa9\u6d3b\u3055\u305b\u308b\u3053\u3068\u3092\u9858\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Scientists hope to revive the extinct Floreana island tortoise using a 'genetically-informed' captive breeding program with the tortoises closest ancestors",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33647,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "\u7b2c131\u56deIOC\u7dcf\u4f1a\u3002\u56fd\u969b\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u59d4\u54e1\u4f1a\u306f\u30012024\u5e74\u590f\u5b63\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u3092\u30d1\u30ea\u306b\u30012028\u5e74\u590f\u5b63\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u3092\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u306b\u6388\u4e0e\u3057\u307e\u3059\u3002",
+                "eng_text": "The International Olympic Committee awards the 2024 Summer Olympics to Paris and the 2028 Summer Olympics to Los Angeles",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33649,
+                "date": "2017-09-14T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u5185\u6226\u30022017\u5e74\u30ca\u30fc\u30b7\u30ea\u30fc\u30e4\u653b\u6483\u3002ISIL\u306e\u6570\u540d\u306e\u30e1\u30f3\u30d0\u30fc\u304c\u3001\u5357\u90e8\u30c7\u30a3\u30fc\u30ab\u30eb\u5dde\u306e\u30ca\u30fc\u30b7\u30ea\u30fc\u30e4\u90ca\u5916\u3067\u8907\u6570\u306e\u653b\u6483\u3092\u884c\u3044\u3001\u5c11\u306a\u304f\u3068\u308250\u4eba\u3092\u6bba\u5bb3\u3057\u300187\u4eba\u3092\u8ca0\u50b7\u3055\u305b\u307e\u3057\u305f\u3002",
+                "eng_text": "Several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33651,
+                "date": "2017-09-14T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30d5\u30a7\u30df\u30cb\u30ba\u30e0\u3002Google\u306f\u7537\u5973\u5f93\u696d\u54e1\u9593\u306e\u8cc3\u91d1\u306e\u4e0d\u5e73\u7b49\u3092\u3081\u3050\u308b\u8a34\u8a1f\u3092\u53d7\u3051\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Google is being sued over alleged inequality in the pay of male and female employees",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33648,
+                "date": "2017-09-13T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30e1\u30b8\u30e3\u30fc\u30ea\u30fc\u30b0\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u30b7\u30fc\u30ba\u30f3\u3002\u30af\u30ea\u30fc\u30d6\u30e9\u30f3\u30c9\u30fb\u30a4\u30f3\u30c7\u30a3\u30a2\u30f3\u30b9\u304c\u30c7\u30c8\u30ed\u30a4\u30c8\u30fb\u30bf\u30a4\u30ac\u30fc\u30b9\u30925-3\u3067\u7834\u308a\u3001\u904e\u53bb\u306e\u30a2\u30e1\u30ea\u30ab\u30f3\u30ea\u30fc\u30b0\u8a18\u9332\u3067\u3042\u308b2002\u5e74\u306e\u30aa\u30fc\u30af\u30e9\u30f3\u30c9\u30fb\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30b9\u306b\u3088\u308b20\u9023\u52dd\u3092\u8d85\u3048\u308b21\u9023\u52dd\u3092\u9054\u6210\u3057\u307e\u3057\u305f\u3002\u3053\u306e\u9023\u52dd\u306f\u30011935\u5e74\u306e\u30b7\u30ab\u30b4\u30fb\u30ab\u30d6\u30b9\u304c21\u9023\u52dd\u3092\u9054\u6210\u3057\u3066\u4ee5\u6765\u3001\u30e1\u30b8\u30e3\u30fc\u30ea\u30fc\u30b0\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u53f2\u4e0a\u6700\u9577\u306e\u3082\u306e\u3067\u3059\u3002",
+                "eng_text": "The Cleveland Indians defeat the Detroit Tigers 5\u20133 for their 21st consecutive win, surpassing the previous American League record of 20 set by the 2002 Oakland Athletics. The streak is the longest in Major League Baseball since the 1935 Chicago Cubs won 21 straight",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33659,
+                "date": "2017-09-14T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30e1\u30b8\u30e3\u30fc\u30ea\u30fc\u30b0\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u30b7\u30fc\u30ba\u30f3\u3002\u30af\u30ea\u30fc\u30d6\u30e9\u30f3\u30c9\u30fb\u30a4\u30f3\u30c7\u30a3\u30a2\u30f3\u30b9\u306f\u300122\u9023\u52dd\u3068\u3044\u3046\u30e1\u30b8\u30e3\u30fc\u30ea\u30fc\u30b0\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u306e\u6700\u9577\u9023\u52dd\u8a18\u9332\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\u3002\u4ee5\u524d\u306f1935\u5e74\u306e\u30b7\u30ab\u30b4\u30fb\u30ab\u30d6\u30b9\u304c21\u9023\u52dd\u3067\u8a18\u9332\u3092\u4fdd\u6301\u3057\u3066\u3044\u307e\u3057\u305f\u3002",
+                "eng_text": "In baseball, the Cleveland Indians break the Major League Baseball record for longest winning streak with 22 wins in a row. The 1935 Chicago Cubs previously held the record with 21",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33655,
+                "date": "2017-09-14T00:00:00Z",
+                "text": "\u30a4\u30f3\u30c9\u3068\u65e5\u672c\u306e\u95a2\u4fc2\u3002\u65e5\u672c\u306f\u30a4\u30f3\u30c9\u306e\u65b0\u5e79\u7dda\u5efa\u8a2d\u3092\u652f\u63f4\u3059\u308b\u3053\u3068\u306b\u5408\u610f\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Japan agrees to help with the construction of an Indian bullet train",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33660,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30d1\u30fc\u30bd\u30f3\u30ba\u30fb\u30b0\u30ea\u30fc\u30f3\u7206\u767a\u3002\u30ed\u30f3\u30c9\u30f3\u306e\u30d1\u30fc\u30bd\u30f3\u30ba\u30fb\u30b0\u30ea\u30fc\u30f3\u99c5\u306e\u96fb\u8eca\u3067\u7206\u767a\u304c\u3042\u308a\u300129\u4eba\u304c\u8ca0\u50b7\u3059\u308b\u3002\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9\u30e4\u30fc\u30c9\u306f\u3053\u306e\u4e8b\u4ef6\u3092\u30c6\u30ed\u653b\u6483\u3068\u3057\u3066\u53d6\u308a\u6271\u3063\u3066\u3044\u308b\u3002",
+                "eng_text": "An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33662,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u306e\u7d4c\u6e08\u3002\u4f4f\u5b85\u95a2\u9023\u306e\u91cd\u8981\u306a\u6cd5\u6848\u304c\u53ef\u6c7a\u3055\u308c\u307e\u3057\u305f\u3002\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u3067\u6700\u3082\u30db\u30fc\u30e0\u30ec\u30b9\u3084\u8ca7\u56f0\u306b\u82e6\u3057\u3080\u4eba\u304c\u591a\u3044\u5dde\u3067\u3059\u3002",
+                "eng_text": "Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33669,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "\u30a2\u30f3\u30bd\u30cb\u30fc\u30fb\u30e9\u30de\u30fc\u30fb\u30b9\u30df\u30b9\u306e\u5c04\u6bba\u4e8b\u4ef6\u30022011\u5e74\u306b\u30df\u30ba\u30fc\u30ea\u5dde\u30bb\u30f3\u30c8\u30eb\u30a4\u30b9\u3067\u9ed2\u4eba\u7537\u6027\u3092\u5c04\u6bba\u3057\u305f\u5143\u8b66\u5bdf\u5b98\u306f\u3001\u4e8b\u4ef6\u306b\u95a2\u9023\u3059\u308b\u3059\u3079\u3066\u306e\u7f6a\u72b6\u3092\u7121\u7f6a\u3068\u3055\u308c\u305f\u3002",
+                "eng_text": "The ex-police officer involved in a fatal 2011 shooting of a black man in St. Louis, Missouri is acquitted of all charges related to the case",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33670,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "\u30a2\u30f3\u30bd\u30cb\u30fc\u30fb\u30e9\u30de\u30fc\u30ba\u30fb\u30b9\u30df\u30b9\u306e\u5c04\u6bba\u4e8b\u4ef6\u3002\u6c7a\u5b9a\u306b\u6297\u8b70\u3059\u308b\u6570\u767e\u4eba\u306e\u4eba\u3005\u304c\u3044\u307e\u3059\u3002\u4e00\u90e8\u306e\u6297\u8b70\u6d3b\u52d5\u304c\u66b4\u529b\u7684\u3068\u306a\u308a\u300110\u4eba\u306e\u8b66\u5b98\u304c\u8ca0\u50b7\u3057\u300132\u4eba\u306e\u6297\u8b70\u8005\u304c\u902e\u6355\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Hundreds of people protest the decision. After some protests become violent, 10 police officers are injured and 32 protesters are arrested",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33675,
+                "date": "2017-09-16T00:00:00Z",
+                "text": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd\u306e\u822a\u7a7a\u4f1a\u793e\u3002\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u306e\u683c\u5b89\u822a\u7a7a\u4f1a\u793e\u3067\u3042\u308b\u30e9\u30a4\u30a2\u30f3\u30a8\u30a2\u306f\u3001\u30af\u30eb\u30fc\u306e\u4f11\u6687\u306e\u7a4d\u307f\u6b8b\u3057\u3092\u89e3\u6d88\u3059\u308b\u305f\u3081\u306b\u3001\u4eca\u5e74\u306e\u672b\u307e\u3067\u306b\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u822a\u7a7a\u5f53\u5c40\u306e\u8981\u4ef6\u3092\u6e80\u305f\u3059\u305f\u3081\u3001\u6bce\u65e540~50\u4fbf\u306e\u904b\u822a\u3092\u53d6\u308a\u6b62\u3081\u308b6\u9031\u9593\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u7b2c1\u6bb5\u968e\u3068\u3057\u3066\u300182\u4fbf\u306e\u65e5\u66dc\u904b\u822a\u3092\u30ad\u30e3\u30f3\u30bb\u30eb\u3057\u307e\u3059\u3002",
+                "eng_text": "Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33673,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e74\u3002\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u8b70\u4f1a\u306f\u3001\u8a08\u753b\u3055\u308c\u305f\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3092\u5b9f\u65bd\u3059\u308b\u3053\u3068\u3092\u6c7a\u5b9a\u3057\u30012017\u5e749\u670825\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The Iraqi Kurdistan Parliament votes to go ahead with the planned independence referendum, scheduled to take place on 25 September, 2017",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33678,
+                "date": "2017-09-16T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3001\u30c8\u30eb\u30b3\u3068\u30c9\u30a4\u30c4\u306e\u95a2\u4fc2\u3002\u30b1\u30eb\u30f3\u3067\u5c11\u306a\u304f\u3068\u30821\u4e07\u4eba\u304c\u6295\u7968\u3092\u652f\u6301\u3059\u308b\u96c6\u4f1a\u3092\u958b\u3044\u305f\u5f8c\u3001\u30c8\u30eb\u30b3\u306f\u30c9\u30a4\u30c4\u5927\u4f7f\u3092\u547c\u3073\u51fa\u3059\u3002",
+                "eng_text": "Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33744,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u306e\u5916\u4ea4\u95a2\u4fc2\u3002\u30a4\u30e9\u30f3\u8ecd\u304c\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u3068\u306e\u56fd\u5883\u4ed8\u8fd1\u3067\u8ecd\u4e8b\u6f14\u7fd2\u3092\u958b\u59cb\u3057\u3001\u30a4\u30e9\u30af\u304b\u3089\u306e\u72ec\u7acb\u306b\u95a2\u3059\u308b\u30af\u30eb\u30c9\u4eba\u306e\u6295\u7968\u306e\u6570\u6642\u9593\u524d\u3067\u3059\u3002\u30c8\u30eb\u30b3\u3082\u3053\u306e\u5730\u57df\u3067\u8ecd\u4e8b\u6f14\u7fd2\u3092\u5b9f\u65bd\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33760,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u306e\u6709\u6a29\u8005\u304c\u30a4\u30e9\u30af\u304b\u3089\u306e\u72ec\u7acb\u3092\u554f\u3046\u4f4f\u6c11\u6295\u7968\u306e\u305f\u3081\u306b\u6295\u7968\u6240\u306b\u5411\u304b\u3046\u3002",
+                "eng_text": "Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33771,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u306b\u3088\u308b\u62d8\u675f\u529b\u306e\u306a\u3044\u72ec\u7acb\u306e\u4f4f\u6c11\u6295\u7968\u306e\u7d50\u679c\u306f72\u6642\u9593\u4ee5\u5185\u306b\u767a\u8868\u3055\u308c\u307e\u3059\u3002\u6295\u7968\u306f\u5e83\u304f\u72ec\u7acb\u3092\u652f\u6301\u3059\u308b\u7d50\u679c\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The result of a non-binding independence referendum by Iraqi Kurdistan will to be announced within 72 hours. The vote is widely expected to be in favor of independence",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33773,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30c8\u30eb\u30b3\u306e\u5927\u7d71\u9818\u306f\u3001\u6708\u66dc\u65e5\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u306e\u5f8c\u306b\u691c\u8a0e\u3057\u3066\u3044\u308b\u61f2\u7f70\u63aa\u7f6e\u306e\u7d50\u679c\u3068\u3057\u3066\u3001\u30a4\u30e9\u30af\u306e\u30af\u30eb\u30c9\u4eba\u304c\u98e2\u3048\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                "eng_text": "Turkey's president has said Iraqi Kurds could go hungry as a result of the punitive measures it is considering after Monday's independence referendum",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33772,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e74\u3002\u30a4\u30e9\u30f3\u3068\u30c8\u30eb\u30b3\u306f\u3001\u72ec\u7acb\u304c\u6210\u7acb\u3057\u305f\u5834\u5408\u3001\u8ecd\u4e8b\u4fb5\u7565\u304c\u884c\u308f\u308c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8a93\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Iran and Turkey have vowed that there may be military aggression if the result is independence",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33791,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30a4\u30e9\u30af\u306e\u9996\u76f8\u306f\u3001\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u5730\u57df\u653f\u5e9c\u306b\u5bfe\u3057\u3066\u3001\u6708\u66dc\u65e5\u306b\u884c\u308f\u308c\u305f\u72ec\u7acb\u306e\u305f\u3081\u306e\u4f4f\u6c11\u6295\u7968\u306e\u7d50\u679c\u3092\u300c\u53d6\u308a\u6d88\u3059\u300d\u3088\u3046\u8981\u6c42\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Iraq's prime minister has demanded the Kurdistan Regional Government \"cancel\" the outcome of the referendum on independence that it held on Monday",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33790,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u3002\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u653f\u5e9c\u306f\u300192\uff05\u4ee5\u4e0a\u306e\u7968\u3092\u7372\u5f97\u3057\u3066\u3001\u4f4f\u6c11\u6295\u7968\u306b\u52dd\u5229\u3057\u305f\u3068\u767a\u8868\u3057\u307e\u3059\u3002",
+                "eng_text": "The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33807,
+                "date": "2017-09-29T00:00:00Z",
+                "text": "\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c9\u81ea\u6cbb\u533a\u306e\u72ec\u7acb\u4f4f\u6c11\u6295\u7968\u30012017\u5e74\u3002\u30a4\u30e9\u30af\u306e\u9023\u90a6\u653f\u5e9c\u306f\u3001\u30af\u30eb\u30c9\u4eba\u6cbb\u5b89\u90e8\u968a\u304c\u30a8\u30eb\u30d3\u30eb\u56fd\u969b\u7a7a\u6e2f\u3068\u30b9\u30ec\u30a4\u30de\u30cb\u30e4\u56fd\u969b\u7a7a\u6e2f\u306e\u7ba1\u7406\u3092\u5f15\u304d\u6e21\u3059\u307e\u3067\u3001\u30a4\u30e9\u30af\u30fb\u30af\u30eb\u30c9\u81ea\u6cbb\u533a\u3068\u306e\u9593\u306e\u5168\u56fd\u969b\u4fbf\u3092\u505c\u6b62\u3059\u308b\u3002\u30af\u30eb\u30c7\u30a3\u30b9\u30bf\u30f3\u5730\u57df\u653f\u5e9c\uff08KRG\uff09\u306f\u3001\u3053\u306e\u7981\u6b62\u63aa\u7f6e\u3092\u300c\u9055\u6cd5\u300d\u3068\u547c\u3076\u3002",
+                "eng_text": "Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban \"illegal\"",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33682,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u30d1\u30ad\u30b9\u30bf\u30f3\u306e\u5317\u897f\u90e8\u3067\u306e\u6226\u4e89\u3002\u30d1\u30ad\u30b9\u30bf\u30f3\u306e\u30d0\u30b8\u30e3\u30a6\u30eb\u3067\u8def\u4e0a\u7206\u5f3e\u304c5\u4eba\u3092\u6bba\u5bb3\u3002",
+                "eng_text": "A roadside bomb kills five people in Bajaur, Pakistan",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33684,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u7b2c69\u56de\u30d7\u30e9\u30a4\u30e0\u30bf\u30a4\u30e0\u30fb\u30a8\u30df\u30fc\u8cde\u3002\u300e\u30cf\u30f3\u30c9\u30e1\u30a4\u30ba\u30fb\u30c6\u30a4\u30eb\u300f\u304c\u30a2\u30a6\u30c8\u30b9\u30bf\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30c9\u30e9\u30de\u30fb\u30b7\u30ea\u30fc\u30ba\u3092\u542b\u30808\u3064\u306e\u8cde\u3092\u53d7\u8cde\u3057\u3001\u4e00\u65b9\u300e\u30f4\u30a3\u30fc\u30d7\u300f\u304c\u30a2\u30a6\u30c8\u30b9\u30bf\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30b3\u30e1\u30c7\u30a3\u30fb\u30b7\u30ea\u30fc\u30ba\u8cde\u3092\u53d7\u8cde\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "The Handmaid's Tale wins eight awards including Outstanding Drama Series, while Veep wins for Outstanding Comedy Series",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33685,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u7b2c69\u56de\u30d7\u30e9\u30a4\u30e0\u30bf\u30a4\u30e0\u30fb\u30a8\u30df\u30fc\u8cde\u3002\u30b8\u30e7\u30f3\u30fb\u30aa\u30ea\u30d0\u30fc\u306eLast Week Tonight\u304c\u512a\u308c\u305f\u30d0\u30e9\u30a8\u30c6\u30a3\u30c8\u30fc\u30af\u30b7\u30ea\u30fc\u30ba\u3092\u53d7\u8cde\u3057\u3001\u30b5\u30bf\u30c7\u30fc\u30ca\u30a4\u30c8\u30e9\u30a4\u30d6\u304c\u512a\u308c\u305f\u30d0\u30e9\u30a8\u30c6\u30a3\u30b9\u30b1\u30c3\u30c1\u30b7\u30ea\u30fc\u30ba\u3067\u53d7\u8cde\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Last Week Tonight with John Oliver won Outstanding Variety Talk Series, while Saturday Night Live won for Outstanding Variety Sketch Series",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33683,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u7b2c69\u56de\u30d7\u30e9\u30a4\u30e0\u30bf\u30a4\u30e0\u30fb\u30a8\u30df\u30fc\u8cde\u3002\u30d7\u30e9\u30a4\u30e0\u30bf\u30a4\u30e0\u30fb\u30a8\u30df\u30fc\u8cde\u306f\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u306e\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u30b7\u30a2\u30bf\u30fc\u3067\u958b\u50ac\u3055\u308c\u307e\u3059\u3002\u653f\u6cbb\u98a8\u523a\u5bb6\u3067\u300cThe Late Show\u300d\u306e\u53f8\u4f1a\u3092\u52d9\u3081\u308b\u30b9\u30c6\u30a3\u30fc\u30d6\u30f3\u30fb\u30b3\u30eb\u30d9\u30a2\u304c\u30a4\u30d9\u30f3\u30c8\u3092\u30db\u30b9\u30c8\u3057\u307e\u3059\u3002",
+                "eng_text": "The Primetime Emmy Awards is held in Los Angeles at the Microsoft Theater. Political satirist and The Late Show host Stephen Colbert hosts the event",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33691,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u6b21\u306e\u65e5\u672c\u306e\u7dcf\u9078\u6319\u3002\u65e5\u672c\u306e\u5b89\u500d\u7dcf\u7406\u5927\u81e3\u306f\u30012017\u5e749\u670828\u65e5\u306b\u8846\u8b70\u9662\u3092\u89e3\u6563\u3059\u308b\u3053\u3068\u304c\u4e88\u60f3\u3055\u308c\u3066\u304a\u308a\u3001\u65b0\u305f\u306a\u9078\u6319\u306b\u9053\u3092\u958b\u304f\u898b\u8fbc\u307f\u3067\u3059\u3002",
+                "eng_text": "Japanese Prime Minister Shinz\u014d Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33801,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "2017\u5e74\u306e\u65e5\u672c\u306e\u7dcf\u9078\u6319\u300210\u670822\u65e5\u306e\u9078\u6319\u306e\u524d\u306b\u3001\u5b89\u500d\u664b\u4e09\u9996\u76f8\u304c\u8846\u8b70\u9662\u3092\u89e3\u6563\u3055\u305b\u308b\u3002",
+                "eng_text": "Prime Minister Shinz\u014d Abe dissolves the lower house of parliament prior to the October 22 election",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33692,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u653f\u6cbb\u3002\u30a8\u30b8\u30d7\u30c8\u3092\u4ef2\u4ecb\u3068\u3057\u305f\u5354\u8b7f\u306b\u3088\u308a\u3001\u30cf\u30de\u30b9\u306f\u30ac\u30b6\u653f\u5e9c\u3092\u89e3\u6563\u3057\u3001\u897f\u5cb8\u653f\u5e9c\u306e\u30d5\u30a1\u30bf\u30cf\u3068\u5354\u8b70\u3092\u884c\u3044\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u7d71\u4e00\u653f\u5e9c\u306e\u9078\u6319\u3092\u884c\u3046\u3053\u3068\u306b\u540c\u610f\u3057\u307e\u3059\u3002",
+                "eng_text": "Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33695,
+                "date": "2017-09-18T00:00:00Z",
+                "text": "\u5317\u30e9\u30ab\u30a4\u30f3\u5dde\u306e\u885d\u7a81\u3002\u30df\u30e3\u30f3\u30de\u30fc\u306e\u5546\u696d\u90fd\u5e02\u30e4\u30f3\u30b4\u30f3\u3067\u3001\u6570\u767e\u4eba\u306e\u653f\u5e9c\u652f\u6301\u8005\u304c\u96c6\u307e\u308a\u3001\u30ed\u30d2\u30f3\u30ae\u30e3\u6d3e\u306e\u904e\u6fc0\u6d3e\u3068\u30e9\u30ab\u30a4\u30f3\u7d1b\u4e89\u3078\u306e\u5916\u56fd\u306e\u4ecb\u5165\u3092\u975e\u96e3\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33694,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30a2\u30b8\u30a2\u5ba4\u5185\u7af6\u6280\u5927\u4f1a\u3068\u6b66\u9053\u7af6\u6280\u5927\u4f1a\u3002\u7b2c5\u56de\u76ee\u306e\u30a2\u30b8\u30a2\u5ba4\u5185\u7af6\u6280\u5927\u4f1a\u304c\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u306e\u30a2\u30b7\u30ac\u30d0\u30fc\u30c8\u3067\u958b\u4f1a\u3057\u307e\u3057\u305f\u300261\u30ab\u56fd\u304b\u3089\u7d045,500\u4eba\u306e\u9078\u624b\u304c\u53c2\u52a0\u3057\u3001\u5927\u4f1a\u306f9\u670827\u65e5\u307e\u3067\u7d9a\u304d\u307e\u3059\u3002",
+                "eng_text": "The fifth Asian Indoor Games open in Ashgabat, Turkmenistan, with around 5,500 athletes from 61 countries participating in the event which will last until September 27",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33689,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "\u30d1\u30ad\u30b9\u30bf\u30f3\u306e\u88dc\u6b20\u9078\u6319\u30d1\u30ca\u30de\u6587\u66f8\u4e8b\u4ef6\u3002\u30ca\u30ef\u30ba\u30fb\u30b7\u30e3\u30ea\u30d5\u5143\u9996\u76f8\u306e\u59bb\u3067\u3042\u308b\u30af\u30eb\u30b9\u30fc\u30e0\u30fb\u30ca\u30ef\u30ba\u30fb\u30b7\u30e3\u30ea\u30d5\u304c\u3001\u30ca\u30ef\u30ba\u30fb\u30b7\u30e3\u30ea\u30d5\u306e\u56fd\u6c11\u8b70\u4f1a\u8b70\u5e2d\u306e\u305f\u3081\u306e\u88dc\u6b20\u9078\u6319\u3067\u91ce\u515a\u306e\u30e4\u30b9\u30df\u30f3\u30fb\u30e9\u30b7\u30c9\u3092\u6253\u3061\u8ca0\u304b\u3057\u307e\u3057\u305f\u3002\u30af\u30eb\u30b9\u30fc\u30e0\u306f\u3001\u5a18\u3067\u4ee3\u7406\u4eba\u306e\u30de\u30ea\u30a2\u30e0\u306b\u4ee3\u8868\u3055\u308c\u3001\u30ed\u30f3\u30c9\u30f3\u3067\u304c\u3093\u306e\u6cbb\u7642\u3092\u53d7\u3051\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33701,
+                "date": "2017-09-19T00:00:00Z",
+                "text": "\u56fd\u9023\u7dcf\u4f1a\u7b2c72\u56de\u4f1a\u671f\u3002\u56fd\u9023\u7dcf\u4f1a\u7b2c72\u56de\u4f1a\u671f\u306f\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306e\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u306b\u3042\u308b\u56fd\u9023\u672c\u90e8\u3067\u7dcf\u4f1a\u6f14\u8aac\u3092\u958b\u59cb\u3059\u308b\u3002",
+                "eng_text": "The 72nd session of the United Nations General Assembly commences its General Debate at the United Nations headquarters in Manhattan, New York",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33705,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u7d4c\u6e08\u3002 \u7c73\u9023\u90a6\u6e96\u5099\u5236\u5ea6\u306f\u3001\u4eca\u6708\u306e\u57fa\u6e96\u91d1\u5229\u306f\u5909\u66f4\u3055\u308c\u306a\u3044\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u304c\u3001\u5e74\u5185\u306b\u306f\u5f15\u304d\u4e0a\u3052\u3089\u308c\u308b\u898b\u8fbc\u307f\u3067\u3042\u308a\u30012018\u5e74\u306b\u306f3\u56de\u30012019\u5e74\u306b\u306f2\u56de\u306e\u5f15\u304d\u4e0a\u3052\u304c\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002 \u307e\u305f\u3001\u7c73\u9023\u90a6\u6e96\u5099\u5236\u5ea6\u306f\u30d0\u30e9\u30f3\u30b9\u30b7\u30fc\u30c8\u524a\u6e1b\u30d7\u30ed\u30b0\u30e9\u30e0\u304c10\u6708\u306b\u958b\u59cb\u3055\u308c\u308b\u3068\u3082\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The U.S. Federal Reserve announces its benchmark interest rate will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its balance sheet reduction program will begin in October",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33717,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u7d4c\u6e08\u3002 Google\u306f\u53f0\u6e7e\u306eHTC\u306811\u5104\u30c9\u30eb(8\u51042200\u4e07\u30dd\u30f3\u30c9)\u306e\u5951\u7d04\u3092\u7d50\u3073\u3001\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u30d3\u30b8\u30cd\u30b9\u3092\u62e1\u5927\u3057\u307e\u3059\u3002",
+                "eng_text": "Google strikes a $1.1bn (\u00a3822m) deal with Taiwan's HTC to expand its smartphone business",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33702,
+                "date": "2017-09-19T00:00:00Z",
+                "text": "\u30eb\u30a4\u30b8\u30a2\u30ca\u5dde\u306e\u72af\u7f6a\u3002\u30eb\u30a4\u30b8\u30a2\u30ca\u5dde\u30d0\u30c8\u30f3\u30eb\u30fc\u30b8\u30e5\u8fd1\u304f\u30672\u4eba\u306e\u30a2\u30d5\u30ea\u30ab\u7cfb\u30a2\u30e1\u30ea\u30ab\u4eba\u7537\u6027\u304c\u5225\u3005\u306e\u4e8b\u4ef6\u3067\u6bba\u5bb3\u3055\u308c\u3001\u5730\u5143\u304a\u3088\u3073\u9023\u90a6\u5f53\u5c40\u304c\u4eba\u7a2e\u306b\u57fa\u3065\u304f\u72af\u7f6a\u3068\u547c\u3076\u4e2d\u30013\u756a\u76ee\u306e\u5bb6\u304c\u9283\u6483\u3055\u308c\u307e\u3059\u3002\u5730\u5143\u306e\u7537\u6027\u304c\u6bba\u4eba\u5bb9\u7591\u3067\u902e\u6355\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man is arrested on suspicion of the murders",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33718,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "\u4e2d\u56fd\u306e\u7d4c\u6e08\u3002\u4e2d\u56fd\u306e\u4fe1\u7528\u683c\u4ed8\u3051\u304c\u3001\u6025\u6fc0\u306a\u8ca0\u50b5\u306e\u84c4\u7a4d\u3092\u5de1\u308b\u61f8\u5ff5\u304b\u3089\u3001\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30fb\u30a2\u30f3\u30c9\u30fb\u30d7\u30a2\u30fc\u30ba\uff08S&P\uff09\u306b\u3088\u3063\u3066\u5f15\u304d\u4e0b\u3052\u3089\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33719,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u79fb\u6c11\u5371\u6a5f\u3002\u30ea\u30d3\u30a2\u897f\u90e8\u6c96\u3067\u5f7c\u3089\u306e\u30dc\u30fc\u30c8\u304c\u6c88\u3093\u3060\u5f8c\u3001\u5c11\u306a\u304f\u3068\u30825\u4eba\u306e\u79fb\u6c11\u304c\u4ea1\u304f\u306a\u308a\u300190\u4eba\u304c\u884c\u65b9\u4e0d\u660e\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33733,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "\u30a2\u30b0\u30f3\u5c71\u306e\u5730\u9707\u6d3b\u52d5\u3002\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u306e\u30d0\u30ea\u5cf6\u306b\u4f4f\u3080\u6570\u5343\u4eba\u304c\u3001\u30a2\u30b0\u30f3\u5c71\u306e\u5674\u706b\u3092\u61f8\u5ff5\u3057\u3066\u5bb6\u3092\u907f\u96e3\u3057\u307e\u3057\u305f\u3002\u706b\u5c71\u306e\u8b66\u6212\u30ec\u30d9\u30eb\u306f\u524d\u65e5\u306b\u6700\u9ad8\u30ec\u30d9\u30eb\u306b\u5f15\u304d\u4e0a\u3052\u3089\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible the day before",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33762,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c9\u30a4\u30c4\u9023\u90a6\u8b70\u4f1a\u9078\u6319\u3002\u6975\u53f3\u653f\u515a\u30c9\u30a4\u30c4\u306e\u305f\u3081\u306e\u9078\u629e\u80a2\uff08AfD\uff09\u306e\u515a\u9996\u3068\u3057\u3066\u6d3b\u52d5\u3057\u3066\u3044\u305f\u30d5\u30e9\u30a6\u30b1\u30fb\u30da\u30c8\u30ea\u304c\u8f9e\u4efb\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u515a\u304c\u521d\u3081\u3066\u9023\u90a6\u8b70\u4f1a\u8b70\u5e2d\u3092\u7372\u5f97\u3057\u305f\u7fcc\u65e5\u306e\u3053\u3068\u3067\u3001\u30da\u30c8\u30ea\u6c0f\u306f\u515a\u304c\u3042\u307e\u308a\u306b\u3082\u300c\u7121\u653f\u5e9c\u4e3b\u7fa9\u7684\u300d\u306b\u306a\u3063\u305f\u3068\u3057\u3001\u515a\u304c\u4fe1\u983c\u3067\u304d\u308b\u653f\u7b56\u3092\u63d0\u4f9b\u3067\u304d\u306a\u304f\u306a\u3063\u305f\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                "eng_text": "Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too \"anarchical\" and \"could not offer a credible platform\"",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33792,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c9\u30a4\u30c4\u9023\u90a6\u8b70\u4f1a\u9078\u6319\u3002Alternative f\u00fcr Deutschland\u515a\u306e\u5143\u30e1\u30f3\u30d0\u30fc\u3067\u3042\u308bFrauke Petry\u304a\u3088\u3073Marcus Pretzell\u304c\u65b0\u3057\u3044\u515a\u3092\u8a2d\u7acb\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002",
+                "eng_text": "Former members of the Alternative f\u00fcr Deutschland party Frauke Petry and Marcus Pretzell may create a new party",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33749,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c9\u30a4\u30c4\u9023\u90a6\u9078\u6319\u3002\u30c9\u30a4\u30c4\u306e\u6709\u6a29\u8005\u304c\u6295\u7968\u6240\u306b\u884c\u304d\u3001\u30d6\u30f3\u30c7\u30b9\u30bf\u30fc\u30b0\u306e\u8b70\u54e1\u3092\u9078\u51fa\u3057\u307e\u3059\u3002\u30ad\u30ea\u30b9\u30c8\u6559\u6c11\u4e3b\u540c\u76df\u306e\u9996\u76f8\u30a2\u30f3\u30b2\u30e9\u30fb\u30e1\u30eb\u30b1\u30eb\u306f\u3001\u5e83\u304f4\u9078\u3055\u308c\u308b\u3053\u3068\u304c\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33750,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c9\u30a4\u30c4\u9023\u90a6\u8b70\u4f1a\u9078\u6319\u3002\u51fa\u53e3\u8abf\u67fb\u306b\u3088\u308b\u3068\u3001\u30e1\u30eb\u30b1\u30eb\u9996\u76f8\u304c4\u671f\u76ee\u306e\u4efb\u671f\u3092\u52dd\u3061\u53d6\u308a\u3001\u30c9\u30a4\u30c4\u306e\u305f\u3081\u306e\u9078\u629e\u80a2\u515a\u304c\u521d\u3081\u3066\u7b2c3\u306e\u6700\u5927\u653f\u515a\u3068\u3057\u3066\u9023\u90a6\u8b70\u4f1a\u306b\u9032\u51fa\u3059\u308b\u3053\u3068\u304c\u793a\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Exit polls indicate Merkel has won a fourth term in power, and that Alternative for Germany will enter the Bundestag for the first time as the third largest party",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33756,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "\u82f1\u56fd\u306e\u30e1\u30c7\u30a3\u30a2\u3002BBC\u306f\u97d3\u56fd\u8a9e\u306e\u30b5\u30fc\u30d3\u30b9\u3092\u7acb\u3061\u4e0a\u3052\u308b\u8a08\u753b\u3067\u3059\u3002",
+                "eng_text": "The BBC plans to launch a service in Korean",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33751,
+                "date": "2017-09-24T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u6b4c\u6297\u8b70\uff082016\u5e74\u304b\u3089\u73fe\u5728\uff09\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306b\u3088\u308b\u30a2\u30e1\u30ea\u30ab\u56fd\u6b4c\u6297\u8b70\u306e\u6279\u5224\u306b\u5bfe\u3057\u3001\u4e00\u90e8\u306eNFL\u9078\u624b\u3084\u30c1\u30fc\u30e0\u306f\u6297\u8b70\u306b\u5bfe\u5fdc\u3057\u3066\u8dea\u3044\u305f\u308a\u3001\u8155\u3092\u7d44\u3093\u3060\u308a\u3001\u56fd\u6b4c\u6f14\u594f\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u3053\u3068\u3067\u53cd\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33759,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "\u30ed\u30b7\u30a2\u306e\u72af\u7f6a\u3002\u30ed\u30b7\u30a2\u8b66\u5bdf\u306f\u30011999\u5e74\u4ee5\u6765\u3001\u6700\u592730\u4eba\u3092\u6bba\u5bb3\u3057\u3001\u4eba\u4f53\u306e\u4e00\u90e8\u3092\u6d88\u8cbb\u3057\u305f\u3068\u3055\u308c\u308b\u5357\u90e8\u30af\u30e9\u30b9\u30ce\u30c0\u30fc\u30eb\u5730\u57df\u306e\u30ab\u30c3\u30d7\u30eb\u3092\u902e\u6355\u3057\u305f\u3002",
+                "eng_text": "Russian police arrest a couple  from the southern Krasnodar region that has allegedly murdered as many as 30 people since 1999 and consumed parts of the human bodies",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33764,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "\u30a2\u30c7\u30ec\u30fc\u30c9\u3067\u958b\u50ac\u3055\u308c\u305f\u56fd\u969b\u5b87\u5b99\u4f1a\u8b70\u3067\u3001\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u653f\u5e9c\u304c\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u5b87\u5b99\u6a5f\u95a2\u3092\u8a2d\u7acb\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3059\u3002",
+                "eng_text": "At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33769,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u306e\u5973\u6027\u306e\u6a29\u5229\u3002\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u306e\u56fd\u738b\u304c\u30012018\u5e746\u6708\u307e\u3067\u306b\u5973\u6027\u306b\u904b\u8ee2\u514d\u8a31\u8a3c\u3092\u767a\u884c\u3059\u308b\u3053\u3068\u3092\u8a31\u53ef\u3059\u308b\u5e03\u544a\u3092\u767a\u884c\u3057\u307e\u3059\u3002\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u306f\u5973\u6027\u306e\u904b\u8ee2\u3092\u8a31\u53ef\u3057\u3066\u3044\u306a\u3044\u4e16\u754c\u3067\u6700\u5f8c\u306e\u4e3b\u6a29\u56fd\u5bb6\u3067\u3059\u3002",
+                "eng_text": "The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33770,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "2017\u5e74NCAA\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3I\u7537\u5b50\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u4e0d\u6b63\u4e8b\u4ef6\u3002\u7c73\u56fd\u5357\u90e8\u5730\u533a\u306e\u7c73\u56fd\u9023\u90a6\u691c\u4e8b\u4e8b\u52d9\u6240\u306f\u3001\u30a2\u30ea\u30be\u30ca\u3001\u30aa\u30fc\u30d0\u30fc\u30f3\u3001\u30aa\u30af\u30e9\u30db\u30de\u5dde\u7acb\u3001USC\u306e4\u3064\u306eNCAA\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3I\u7537\u5b50\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30b3\u30fc\u30c1\u3092\u542b\u308010\u4eba\u304c\u3001\u9023\u90a6\u4e0d\u6b63\u884c\u70ba\u306e\u7f6a\u3067\u902e\u6355\u3055\u308c\u305f\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u88ab\u544a\u306f\u3001\u30b3\u30fc\u30c1\u304cNBA\u306b\u9032\u3080\u4e88\u5b9a\u306e\u5927\u5b66\u751f\u9078\u624b\u3092\u7279\u5b9a\u306e\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3084\u30d5\u30a1\u30a4\u30ca\u30f3\u30b7\u30e3\u30eb\u30a2\u30c9\u30d0\u30a4\u30b6\u30fc\u306b\u5c0e\u304f\u305f\u3081\u306b\u8cc4\u8cc2\u3092\u53d7\u3051\u53d6\u3063\u305f\u3068\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u88c1\u5224\u6240\u306e\u6587\u66f8\u306b\u306f\u307e\u305f\u3001Adidas\u3068\u3057\u3066\u5f8c\u306b\u7279\u5b9a\u3055\u308c\u305f\u30a2\u30d1\u30ec\u30eb\u4f01\u696d\u304c\u3001\u4e0d\u540d\u8a89\u306e\u9078\u624b\u306e\u5bb6\u65cf\u306b100,000\u30c9\u30eb\u3092\u652f\u6255\u3044\u3001\u4e0d\u540d\u8a89\u306e\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3I\u5927\u5b66\u3068\u306e\u5951\u7d04\u3092\u78ba\u4fdd\u3057\u305f\u3053\u3068\u3082\u4e3b\u5f35\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u5f8c\u306b\u305d\u306e\u5927\u5b66\u306f\u30eb\u30a4\u30d3\u30eb\u5927\u5b66\u3068\u78ba\u8a8d\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs\u2014Arizona, Auburn, Oklahoma State, and USC\u2014have been arrested on federal corruption charges. The accused are alleged to be part of a scheme by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company later identified as Adidas paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the University of Louisville",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33795,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306eNCAA Division I\u7537\u5b50\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u4e0d\u7965\u4e8b\u3002Adidas\u304c\u65b0\u4eba\u9078\u624b\u30d6\u30e9\u30a4\u30a2\u30f3\u30fb\u30dc\u30fc\u30a8\u30f3\u306e\u5bb6\u65cf\u306b\u4e0d\u6b63\u652f\u6255\u3044\u3092\u884c\u3063\u305f\u3053\u3068\u304c\u95a2\u9023\u4ed8\u3051\u3089\u308c\u305f\u30eb\u30a4\u30d3\u30eb\u5927\u5b66\u306f\u3001\u30d8\u30c3\u30c9\u30b3\u30fc\u30c1\u306e\u30ea\u30c3\u30af\u30fb\u30d4\u30c6\u30a3\u30ce\u3068\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u306e\u30c8\u30e0\u30fb\u30b8\u30e5\u30ea\u30c3\u30c1\u3092\u4f11\u8077\u306b\u3057\u3001\u3055\u3089\u306a\u308b\u5927\u5b66\u306e\u5bfe\u5fdc\u3092\u5f85\u3064\u3002\u30d4\u30c6\u30a3\u30ce\u306e\u5f01\u8b77\u58eb\u306f\u3001\u30eb\u30a4\u30d3\u30eb\u306e\u65b0\u805eThe Courier-Journal\u306b\u8ff0\u3079\u3001\u30d4\u30c6\u30a3\u30ce\u306f\u300c\u4e8b\u5b9f\u4e0a\u89e3\u96c7\u300d\u3055\u308c\u305f\u3068\u8ff0\u3079\u3001\u8907\u6570\u306e\u30e1\u30c7\u30a3\u30a2\u5831\u9053\u306b\u3088\u308c\u3070\u3001\u30b8\u30e5\u30ea\u30c3\u30c1\u3082\u4e8b\u5b9f\u4e0a\u89e3\u96c7\u3055\u308c\u305f\u3068\u3055\u308c\u3066\u3044\u308b\u3002\u30eb\u30a4\u30d3\u30eb\u5927\u5b66\u306e\u7537\u5b50\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb\u306f\u3001\u6700\u8fd1\u306e\u30bb\u30af\u30b7\u30e3\u30eb\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306b\u95a2\u9023\u3059\u308b\u9055\u53cd\u306b\u3088\u308a\u65e2\u306bNCAA\u306e\u8a66\u7528\u671f\u9593\u4e2d\u306b\u3042\u3063\u305f\u3002",
+                "eng_text": "The University of Louisville, whose men's basketball team was linked to illicit payments by Adidas to the family of freshman player Brian Bowen, places head coach Rick Pitino and athletic director Tom Jurich on administrative leave, pending further university action. Pitino's attorney tells Louisville's newspaper, The Courier-Journal, that Pitino has been \"effectively fired\", and multiple media reports indicate that Jurich has also been effectively fired. Louisville men's basketball was already on NCAA probation due to violations related to a recent sex scandal",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33774,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u4e0a\u9662\u3002\u30a2\u30e9\u30d0\u30de\u5dde\u3067\u306e2017\u5e74\u306e\u4e0a\u9662\u7279\u5225\u9078\u6319\u3002\u653f\u6cbb\u5206\u6790\u5bb6\u304c\u8a00\u3046\u306b\u306f\u3001\u5171\u548c\u515a\u306e\u30a8\u30b9\u30bf\u30d6\u30ea\u30c3\u30b7\u30e5\u30e1\u30f3\u30c8\u3068\u53cd\u30a8\u30b9\u30bf\u30d6\u30ea\u30c3\u30b7\u30e5\u30e1\u30f3\u30c8\u6d3e\u306e\u9593\u306b\u6df1\u3044\u4e80\u88c2\u304c\u751f\u3058\u3066\u3044\u308b\u3068\u3055\u308c\u308b\u4e2d\u3001\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9\u30fb\u30ed\u30a4\u30fb\u30e0\u30fc\u30a2\u6c0f\u3068\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u4e0a\u9662\u8b70\u54e1\u30e9\u30f3\u30b5\u30e0\u30fb\u30b9\u30c8\u30ec\u30f3\u30b8\u6c0f\u304c\u30a2\u30e9\u30d0\u30de\u5dde\u7279\u5225\u9078\u6319\u3067\u5bfe\u6c7a\u3059\u308b\u3002\u30e0\u30fc\u30a2\u6c0f\u304c\u4e88\u5099\u9078\u6319\u6c7a\u9078\u3067\u52dd\u5229\u3059\u308b\u3068\u4e88\u6e2c\u3055\u308c\u3066\u3044\u308b\u3002",
+                "eng_text": "Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama\u2019s special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. Moore is projected to win the primary runoff",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33778,
+                "date": "2017-09-26T00:00:00Z",
+                "text": "\u7dd1\u306e\u58c1\u3002\u30a2\u30d5\u30ea\u30ab\u306e\u30b0\u30ec\u30fc\u30c8\u30b0\u30ea\u30fc\u30f3\u30a6\u30a9\u30fc\u30eb\u306f\u3001\u7802\u6f20\u5316\u3092\u6210\u529f\u88e1\u306b\u9006\u8ee2\u3055\u305b\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Africa's Great Green Wall is successfully reversing desertification",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33782,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30ab\u30ea\u30cb\u30d5\u30ab\u5f3e\u85ac\u5eab\u7206\u767a\u3002\u30ad\u30a8\u30d5\u304b\u3089\u5357\u897f\u306b\u7d04180\u30ad\u30ed\u96e2\u308c\u305f\u30a6\u30af\u30e9\u30a4\u30ca\u306e\u30ab\u30ea\u30cb\u30d5\u30ab\u3067\u7206\u767a\u304c\u3042\u308a\u30013\u4e07\u4eba\u304c\u907f\u96e3\u3057\u307e\u3059\u3002\u30a6\u30af\u30e9\u30a4\u30ca\u653f\u5e9c\u306f\u3053\u308c\u3092\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5\u306e\u305b\u3044\u3060\u3068\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 kilometres (110\u00a0mi) southwest of Kiev. The Government of Ukraine blames sabotage",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33785,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "\u30a4\u30f3\u30bf\u30fc\u30dd\u30fc\u30eb\u306e\u30e1\u30f3\u30d0\u30fc\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u53cd\u5bfe\u306b\u3082\u95a2\u308f\u3089\u305a\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u653f\u5e9c\u304c\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6\u3068\u3068\u3082\u306b\u30a4\u30f3\u30bf\u30fc\u30dd\u30fc\u30eb\u306b\u52a0\u76df\u3057\u307e\u3059\u3002",
+                "eng_text": "Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33789,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd\u306b\u304a\u3051\u308b\u4e2d\u7d76\u3002\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd\u306f\u30012018\u5e745\u6708\u304b\u30896\u6708\u306e\u9593\u306b\u4e2d\u7d76\u306b\u95a2\u3059\u308b\u56fd\u6c11\u6295\u7968\u3092\u5b9f\u65bd\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "The Republic of Ireland announces a referendum on abortion will be held between May and June 2018",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33819,
+                "date": "2017-09-30T00:00:00Z",
+                "text": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd\u306b\u304a\u3051\u308b\u4e2d\u7d76\u3002\u4f55\u4e07\u4eba\u3082\u306e\u6297\u8b70\u8005\u304c\u30c0\u30d6\u30ea\u30f3\u3092\u884c\u9032\u3057\u3001\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u304c\u4e2d\u7d76\u6cd5\u3092\u5909\u3048\u308b\u3088\u3046\u8981\u6c42\u3057\u3001\u4e2d\u7d76\u53cd\u5bfe\u6d3e\u306f\u5bfe\u6297\u30c7\u30e2\u3092\u884c\u3044\u307e\u3059\u3002\u30ed\u30f3\u30c9\u30f3\u306e\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5927\u4f7f\u9928\u306e\u5916\u3067\u30d7\u30ed\u30c1\u30e7\u30a4\u30b9\u306e\u96c6\u4f1a\u304c\u958b\u304b\u308c\u307e\u3059\u3002",
+                "eng_text": "Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33788,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "\u5e73\u6210\u4e8c\u5341\u4e5d\u5e74\u306e\u7dcf\u9078\u6319\u3002\u6771\u4eac\u90fd\u77e5\u4e8b\u306e\u5c0f\u6c60\u767e\u5408\u5b50\u304c\u4fdd\u5b88\u6d3e\u306e\u5e0c\u671b\u306e\u515a\u3092\u8a2d\u7acb\u3057\u3001\u4eca\u5f8c\u306e\u9078\u6319\u306b\u7acb\u5019\u88dc\u3059\u308b\u4e88\u5b9a\u3067\u3059\u304c\u3001\u515a\u3092\u7387\u3044\u305f\u308a\u7acb\u5019\u88dc\u3059\u308b\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+                "eng_text": "Tokyo governor Yuriko Koike establishes the conservative Kib\u014d no T\u014d (Party of Hope) to contest the upcoming election although she will neither lead it nor run",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33805,
+                "date": "2017-09-29T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30e0\u30f3\u30d0\u30a4\u8e0f\u307f\u6f70\u3057\u4e8b\u6545\u3002\u30a4\u30f3\u30c9\u306e\u30e0\u30f3\u30d0\u30a4\u5e02\u306e\u30d1\u30ec\u30eb\u99c5\u3068\u30a8\u30eb\u30d5\u30a3\u30f3\u30b9\u30c8\u30f3\u30fb\u30ed\u30fc\u30c9\u99c5\u306e\u9593\u306b\u3042\u308b\u6b69\u9053\u6a4b\u3067\u30e9\u30c3\u30b7\u30e5\u30a2\u30ef\u30fc\u6642\u306b\u8e0f\u307f\u6f70\u3057\u4e8b\u6545\u304c\u767a\u751f\u3057\u3001\u5c11\u306a\u304f\u3068\u308222\u4eba\u304c\u6b7b\u4ea1\u3057\u300130\u4eba\u4ee5\u4e0a\u304c\u91cd\u50b7\u3092\u8ca0\u3044\u307e\u3057\u305f\u3002",
+                "eng_text": "At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33803,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "2011\u5e74\u306e\u6771\u65e5\u672c\u5927\u9707\u707d\u3068\u6d25\u6ce2\u306e\u4f59\u6ce2\u3002\u65e5\u672c\u306e\u6c34\u751f\u751f\u7269\u304c\u30012011\u5e74\u306e\u6771\u65e5\u672c\u5927\u9707\u707d\u3068\u6d25\u6ce2\u306e\u304c\u308c\u304d\u306b\u4e57\u3063\u3066\u897f\u6d77\u5cb8\u306e\u30a2\u30e1\u30ea\u30ab\u306b\u751f\u304d\u3066\u5230\u9054\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3057\u305f\u3002",
+                "eng_text": "Aquatic species from Japan hitched a ride on debris from the 2011 T\u014dhoku earthquake and tsunami and were able to reach the West Coast of the United States alive",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33806,
+                "date": "2017-09-29T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30e1\u30ad\u30b7\u30b3\u4e2d\u90e8\u5730\u9707\u3002\u30e1\u30ad\u30b7\u30b3\u30b7\u30c6\u30a3\u306e\u5730\u533a\u9577\u306f\u3001\u9055\u6cd5\u306a\u5efa\u8a2d\u4f5c\u696d\u304c\u5e02\u5185\u306e\u6570\u4ef6\u306e\u5efa\u7269\u306e\u69cb\u9020\u5f37\u5ea6\u3092\u640d\u306a\u3063\u3066\u3044\u305f\u3068\u3044\u3046\u8b66\u544a\u3092\u4ee5\u524d\u306e\u5f53\u5c40\u304c\u7121\u8996\u3057\u3066\u3044\u305f\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u30029\u670819\u65e5\u306b\u8d77\u304d\u305f\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c97.1\u306e\u5730\u9707\u306b\u3088\u308b\u72a0\u7272\u8005\u6570\u306f\u3001\u73fe\u5728\u3067\u5c11\u306a\u304f\u3068\u3082358\u4eba\u306b\u4e0a\u308b\u3002",
+                "eng_text": "A Mexico City borough president says previous officials ignored warnings that unauthorized construction work had damaged the structural integrity of several buildings in the city. The overall death toll from the magnitude 7.1 quake which hit Sept. 19 now stands at at least 358 people",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33799,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "\u708e\u306e\u30ea\u30f3\u30b0\u3002\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u306e\u30d0\u30ea\u5cf6\u306b\u4f4f\u308013\u4e074,000\u4eba\u4ee5\u4e0a\u304c\u3001\u30a2\u30b0\u30f3\u5c71\u306e\u5674\u7159\u304c\u7d9a\u304f\u4e2d\u3001\u907f\u96e3\u6240\u306b\u907f\u96e3\u3057\u3066\u3044\u307e\u3059\u3002\u5674\u706b\u306e\u8b66\u6212\u30ec\u30d9\u30eb\u306f2\u756a\u76ee\u306b\u9ad8\u3044\u30ec\u30d9\u30eb\u3067\u3042\u308b4\u306b\u5f15\u304d\u4e0a\u3052\u3089\u308c\u307e\u3057\u305f\u3002\u3055\u3089\u306b\u3001\u30f4\u30a1\u30cc\u30a2\u30c4\u306e\u30a2\u30aa\u30d0\u5cf6\u5168\u4f53\u306e\u4f4f\u6c11\u3082\u3001\u6025\u901f\u306b\u6d3b\u767a\u306a\u30ed\u30f3\u30d9\u30f3\u30d9\u30f3\u706b\u5c71\u3078\u306e\u79fb\u52d5\u304c\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano  continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33808,
+                "date": "2017-09-29T00:00:00Z",
+                "text": "\u7c73\u56fd\u3068\u30ad\u30e5\u30fc\u30d0\u306e\u95a2\u4fc2\u3002\u7c73\u56fd\u56fd\u52d9\u7701\u306f\u3001\u5cf6\u306721\u4eba\u306e\u5f93\u696d\u54e1\u304c\u8ca0\u50b7\u3057\u305f\u660e\u3089\u304b\u306a\u97f3\u97ff\u653b\u6483\u306e\u5f8c\u3001\u30ad\u30e5\u30fc\u30d0\u304b\u3089\u8077\u54e1\u306e\u5bb6\u65cf\u3084\u975e\u5fc5\u8981\u306a\u4eba\u54e1\u3092\u5168\u54e1\u64a4\u53bb\u3057\u307e\u3059\u3002\u30ad\u30e5\u30fc\u30d0\u306f\u95a2\u4e0e\u3092\u5426\u5b9a\u3057\u3001FBI\u306b\u5cf6\u3078\u306e\u79fb\u52d5\u3092\u8a31\u53ef\u3057\u3066\u3001\u539f\u56e0\u306b\u95a2\u3059\u308b\u8abf\u67fb\u3092\u652f\u63f4\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33817,
+                "date": "2017-09-30T00:00:00Z",
+                "text": "\u4eba\u9593\u306e\u6bba\u5230\u3002\u30d5\u30e9\u30f3\u30b9\u3001\u30a2\u30df\u30a2\u30f3\u306e\u30b9\u30bf\u30c3\u30c9\u30fb\u30c9\u30fb\u30e9\u30fb\u30ea\u30b3\u30eb\u30cc\u3067\u30b5\u30c3\u30ab\u30fc\u306e\u8a66\u5408\u4e2d\u3001\u7fa4\u8846\u306e\u62bc\u3057\u5bc4\u305b\u306b\u3088\u308a\u30d0\u30ea\u30a2\u304c\u5d29\u58ca\u3057\u300129\u4eba\u304c\u8ca0\u50b7\u3057\u3001\u305d\u306e\u3046\u30615\u4eba\u304c\u91cd\u50b7\u3092\u8ca0\u3044\u307e\u3057\u305f\u3002",
+                "eng_text": "A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33821,
+                "date": "2017-09-30T00:00:00Z",
+                "text": "2017\u5e74\u306eAFL\u30b0\u30e9\u30f3\u30c9\u30d5\u30a1\u30a4\u30ca\u30eb\u3002\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u30f3\u30fb\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30af\u30e9\u30d6\u306e\u30ea\u30c3\u30c1\u30e2\u30f3\u30c9\u30fb\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30af\u30e9\u30d6\u304c\u30012017\u5e74\u306eAFL\u30b0\u30e9\u30f3\u30c9\u30d5\u30a1\u30a4\u30ca\u30eb\u3067\u30a2\u30c7\u30ec\u30fc\u30c9\u30fb\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30af\u30e9\u30d6\u3092108\u5bfe60\u3067\u7834\u308a\u307e\u3057\u305f\u3002\u30c0\u30b9\u30c6\u30a3\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3\u306f\u30012017\u5e74\u306e\u30d6\u30e9\u30a6\u30f3\u30ed\u30fc\u30e1\u30c0\u30eb\uff08\u6700\u512a\u79c0\u9078\u624b\u8cde\uff09\u3092\u53d7\u8cde\u3057\u305f\u5f8c\u3001\u4eca\u56de\u306e\u30b0\u30e9\u30f3\u30c9\u30d5\u30a1\u30a4\u30ca\u30eb\u3067\u306e\u6700\u512a\u79c0\u9078\u624b\u306b\u9078\u3070\u308c\u3001\u30ce\u30fc\u30e0\u30fb\u30b9\u30df\u30b9\u30e1\u30c0\u30eb\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "The Australian rules football club Richmond Football Club defeats the Adelaide Football Club in the 2017 AFL Grand Final by 108 points to 60. Dustin Martin won the Norm Smith Medal for best on ground after having won the 2017 Brownlow Medal for the best and fairest player in the competition",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33578,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30db\u30bb\u3002\u30a2\u30e1\u30ea\u30ab\u56fd\u7acb\u30cf\u30ea\u30b1\u30fc\u30f3\u30bb\u30f3\u30bf\u30fc\u306b\u3088\u308b\u3068\u3001\u30cf\u30ea\u30b1\u30fc\u30f3\u30db\u30bb\u306f\u5317\u90e8\u30eb\u30ef\u30fc\u30c9\u8af8\u5cf6\u306b\u63a5\u8fd1\u3059\u308b\u969b\u3001\u975e\u5e38\u306b\u5371\u967a\u306a\u30ab\u30c6\u30b4\u30ea\u30fc4\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u5f37\u5316\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Jose intensifies into an \"extremely dangerous\" Category 4 hurricane as it nears the northern Leeward Islands, according to the National Hurricane Center",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33516,
+                "date": "2017-09-03T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u30022017\u5e74\u306e\u5317\u671d\u9bae\u306e\u6838\u5b9f\u9a13\u3002\u5317\u671d\u9bae\u304c\u6700\u5927\u3067\u6700\u3082\u5f37\u529b\u306a\u6838\u5175\u5668\u3092\u8a66\u9a13\u3057\u305f\u5f8c\u3001\u5317\u671d\u9bae\u306e\u30ad\u30eb\u30b8\u30e5\u90e1\u306e\u8c4a\u6e13\u91cc\u6838\u5b9f\u9a13\u5834\u4ed8\u8fd1\u30676.3\u306e\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c9\u306e\u5730\u9707\u304c\u691c\u51fa\u3055\u308c\u308b\u3002\u5317\u671d\u9bae\u306e\u56fd\u55b6\u30e1\u30c7\u30a3\u30a2\u306f\u3001\u540c\u56fd\u304cICBM\u306b\u53d6\u308a\u4ed8\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u6c34\u7206\u3092\u8a66\u9a13\u3057\u305f\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33517,
+                "date": "2017-09-03T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u306e\u5371\u6a5f\u30022017\u5e74\u306e\u5317\u671d\u9bae\u306e\u6838\u5b9f\u9a13\u3002\u72ec\u7acb\u3057\u305f\u5730\u9707\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0\u6a5f\u95a2\u3067\u3042\u308bNORSAR\u306b\u3088\u308b\u3068\u3001\u305d\u306e\u7206\u767a\u306e\u5a01\u529b\u306f\u7d04120\u30ad\u30ed\u30c8\u30f3\u3067\u3042\u308a\u3001\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u4e2d\u306b\u5e83\u5cf6\u3068\u9577\u5d0e\u306b\u6295\u4e0b\u3055\u308c\u305f\u7206\u5f3e\u306e\u5408\u8a08\u7206\u767a\u529b\u306e\u7d043\u500d\u3067\u3042\u308b\u3068\u63a8\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The independent seismic monitoring agency NORSAR estimates that the blast had a yield of around 120 kilotons, approximately three times more than the combined explosive yield of the bombs dropped on Hiroshima and Nagasaki during World War II",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33616,
+                "date": "2017-09-11T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u306b\u3064\u3044\u3066\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u6c7a\u8b702375\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306f\u3001\u5317\u671d\u9bae\u306e\u6700\u8fd1\u306e\u6838\u5b9f\u9a13\u306b\u5bfe\u5fdc\u3057\u3066\u3001\u7cbe\u88fd\u77f3\u6cb9\u306e\u8f38\u5165\u3092\u5236\u9650\u3057\u3001\u7e4a\u7dad\u88fd\u54c1\u306e\u8f38\u51fa\u3092\u7981\u6b62\u3059\u308b\u65b0\u305f\u306a\u5236\u88c1\u3092\u627f\u8a8d\u3057\u307e\u3059\u3002",
+                "eng_text": "The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33724,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "\u5317\u671d\u9bae\u3068\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u95a2\u4fc2\u3002\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u5317\u671d\u9bae\u306e\u6838\u5175\u5668\u30d7\u30ed\u30b0\u30e9\u30e0\u306b\u5bfe\u3057\u3066\u65b0\u305f\u306a\u5236\u88c1\u3092\u767a\u8868\u3059\u308b\u3002",
+                "eng_text": "U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33735,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u4e2d\u56fd\u306f\u3001\u6700\u65b0\u306e\u6838\u5b9f\u9a13\u306b\u7d9a\u304f\u65b0\u305f\u306a\u5236\u88c1\u306e\u4e00\u74b0\u3068\u3057\u3066\u3001\u77f3\u6cb9\u306e\u8f38\u51fa\u3092\u5236\u9650\u3057\u3001\u5317\u671d\u9bae\u304b\u3089\u306e\u8863\u6599\u54c1\u306e\u8f38\u5165\u3092\u7981\u6b62\u3057\u307e\u3059\u3002",
+                "eng_text": "China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33736,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u4e2d\u56fd\u306e\u5730\u9707\u5f53\u5c40\u304c\u3001\u5317\u671d\u9bae\u306e\u6838\u5b9f\u9a13\u306b\u8d77\u56e0\u3059\u308b\u3068\u8003\u3048\u308b\u5730\u9707\u304c\u5317\u671d\u9bae\u3067\u691c\u51fa\u3055\u308c\u308b\u3002\u97d3\u56fd\u306f\u3001\u305d\u308c\u304c\u81ea\u7136\u306a\u5730\u9707\u3067\u3042\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "An earthquake is detected in North Korea that China's earthquake authority believes is due to a North Korean nuclear test. South Korea states that it could be a natural earthquake",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33530,
+                "date": "2017-09-05T00:00:00Z",
+                "text": "2016\u5e74\u304b\u308917\u5e74\u306b\u304b\u3051\u3066\u30df\u30e3\u30f3\u30de\u30fc\u3067\u30ed\u30d2\u30f3\u30ae\u30e3\u8feb\u5bb3\u304c\u884c\u308f\u308c\u307e\u3057\u305f\u300212\u4e073\u5343\u4eba\u4ee5\u4e0a\u306e\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u304c\u3001\u30df\u30e3\u30f3\u30de\u30fc\u8ecd\u306b\u3088\u308b\u30a8\u30b9\u30ab\u30ec\u30fc\u30c8\u3059\u308b\u66b4\u529b\u306e\u305f\u3081\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306b\u9003\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33549,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2016\u5e74\u304b\u30892017\u5e74\u306b\u304b\u3051\u3066\u3001\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u3068\u30df\u30e3\u30f3\u30de\u30fc\u306e\u95a2\u4fc2\u306f\u7dca\u8feb\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306f\u3001\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u306e\u5e30\u56fd\u3092\u963b\u6b62\u3059\u308b\u305f\u3081\u306b\u3001\u30df\u30e3\u30f3\u30de\u30fc\u8ecd\u304c\u4e21\u56fd\u306e\u56fd\u5883\u306b\u5730\u96f7\u3092\u8a2d\u7f6e\u3057\u305f\u3068\u975e\u96e3\u3057\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30df\u30e3\u30f3\u30de\u30fc\u306f\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u4e3b\u5f35\u3092\u5426\u5b9a\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33594,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2016-17\u5e74\u306e\u5317\u30e9\u30ab\u30a4\u30f3\u5dde\u3067\u306e\u885d\u7a81\u3002\u30a2\u30e9\u30ab\u30f3\u30fb\u30ed\u30d2\u30f3\u30ae\u30e3\u6551\u4e16\u8ecd\u306f\u3001\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u306e\u305f\u3081\u306b\u4eba\u9053\u652f\u63f4\u3092\u5bb9\u6613\u306b\u3059\u308b\u305f\u3081\u306b\u4e00\u65b9\u7684\u306a\u505c\u6226\u3092\u5ba3\u8a00\u3057\u307e\u3059\u3002",
+                "eng_text": "The Arakan Rohingya Salvation Army declares a unilateral ceasefire to allow humanitarian groups to facilitate aid for Rohingya refugees",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33634,
+                "date": "2017-09-12T00:00:00Z",
+                "text": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u3002\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u30b7\u30a7\u30a4\u30af\u30fb\u30cf\u30b7\u30ca\u9996\u76f8\u306f\u3001\u30d3\u30eb\u30de\u653f\u5e9c\u3092\u30ed\u30d2\u30f3\u30ae\u30e3\u4eba\u306b\u5bfe\u3059\u308b\u300c\u66b4\u884c\u300d\u3067\u975e\u96e3\u3057\u3001\u3053\u306e\u7591\u308f\u3057\u3044\u66b4\u884c\u3092\u6b62\u3081\u308b\u3088\u3046\u6c42\u3081\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of \"atrocities\" against the Rohingya people and calls for these alleged atrocities to stop",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33681,
+                "date": "2017-09-16T00:00:00Z",
+                "text": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u3002\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306f\u3001\u7d0440\u4e07\u4eba\u306e\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u3092\u53ce\u5bb9\u3059\u308b\u305f\u3081\u3001\u5c0f\u3055\u306a\u90fd\u5e02\u306e\u30b5\u30a4\u30ba\u306e\u5de8\u5927\u306a\u96e3\u6c11\u30ad\u30e3\u30f3\u30d7\u3092\u5efa\u8a2d\u3059\u308b\u8a08\u753b\u3092\u767a\u8868\u3057\u307e\u3059\u3002",
+                "eng_text": "Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33800,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "\u30df\u30e3\u30f3\u30de\u30fc\u306b\u304a\u3051\u308b\u66b4\u529b\u3092\u9003\u308c\u308b\u305f\u3081\u306b\u9003\u308c\u3066\u304d\u305f\u30ed\u30d2\u30f3\u30ae\u30e3\u96e3\u6c11\u306e\u5371\u6a5f\u3002\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u6cbf\u5cb8\u304b\u3089\u308f\u305a\u304b\u6570\u30e1\u30fc\u30c8\u30eb\u306e\u5834\u6240\u3067\u3001\u4e57\u3063\u3066\u3044\u305f\u8239\u304c\u6c34\u4e2d\u306e\u7269\u4f53\u306b\u885d\u7a81\u3057\u8ee2\u8986\u3057\u3001\u5c11\u306a\u304f\u3068\u308214\u4eba\uff08\u3046\u306110\u4eba\u306f\u5b50\u4f9b\uff09\u306e\u30ed\u30d2\u30f3\u30ae\u30e3\u4eba\u304c\u6b7b\u4ea1\u3057\u305f\u3068\u307f\u3089\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33563,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "2017\u5e74\u30c1\u30a2\u30d1\u30b9\u5730\u9707\u3002\u30e1\u30ad\u30b7\u30b3\u3001\u30c1\u30a2\u30d1\u30b9\u5dde\u306e\u30d4\u30d2\u30d2\u30e3\u30d1\u30f3\u304b\u3089\u5357\u306b96\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\uff0860\u30de\u30a4\u30eb\uff09\u306e\u5730\u70b9\u3067\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c98.1\u306e\u5730\u9707\u304c\u8a18\u9332\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u30011985\u5e74\u306b\u30e1\u30ad\u30b7\u30b3\u30b7\u30c6\u30a3\u8fd1\u90ca\u3067\u767a\u751f\u3057\u305f\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c98.0\u306e\u5730\u9707\u4ee5\u6765\u3001\u30e1\u30ad\u30b7\u30b3\u3067\u6700\u3082\u5f37\u3044\u5730\u9707\u3067\u3059\u3002\u5c11\u306a\u304f\u3068\u308226\u4eba\u306e\u6b7b\u4ea1\u304c\u78ba\u8a8d\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33576,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c1\u30a2\u30d1\u30b9\u5730\u9707\u3002\u6628\u65e5\u9045\u304f\u306b\u5730\u9707\u304c\u8d77\u3053\u3063\u305f\u969b\u3001\u30e1\u30ad\u30b7\u30b3\u3067\u6d25\u6ce2\u304c\u5831\u544a\u3055\u308c\u3001\u6700\u5927\u306e\u6ce2\u306f2.3\u30d5\u30a3\u30fc\u30c8\uff080.70\u30e1\u30fc\u30c8\u30eb\uff09\u306e\u9ad8\u3055\u3067\u3057\u305f\u3002",
+                "eng_text": "Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet (0.70\u00a0m)",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33577,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c1\u30a2\u30d1\u30b9\u5730\u9707\u3002\u6628\u65e5\u306e\u5730\u9707\u306b\u3088\u308b\u6b7b\u8005\u6570\u304c50\u4eba\u3092\u8d85\u3048\u308b\u3002",
+                "eng_text": "The death toll from yesterday's earthquake rises to over 50 people",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33600,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2017\u5e74\u306e\u30c1\u30a2\u30d1\u30b9\u5730\u9707\u3067\u306f\u3001\u30e1\u30ad\u30b7\u30b3\u306e\u30c1\u30a2\u30d1\u30b9\u5730\u57df\u3092\u8972\u3063\u305f\u5730\u9707\u306e\u6b7b\u8005\u6570\u304c90\u4eba\u306b\u4e0a\u6607\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33706,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "2017\u5e74\u306e\u4e2d\u90e8\u30e1\u30ad\u30b7\u30b3\u5730\u9707\u3002\u6628\u65e5\u4e2d\u90e8\u30e1\u30ad\u30b7\u30b3\u3092\u8972\u3063\u305f\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c97.1\u306e\u5730\u9707\u306e\u53ef\u80fd\u306a\u751f\u5b58\u8005\u3092\u63a2\u3059\u4f5c\u696d\u304c\u7d9a\u3044\u3066\u3044\u307e\u3059\u3002\u5348\u5f8c\u904e\u304e\u307e\u3067\u306b52\u4eba\u304c\u6551\u52a9\u3055\u308c\u3001\u5c11\u306a\u304f\u3068\u3082226\u4eba\u304c\u4ea1\u304f\u306a\u308a\u3001800\u4eba\u4ee5\u4e0a\u304c\u8ca0\u50b7\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33734,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5730\u9707\u3002\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c96.2\u306e\u5730\u9707\u304c\u30e1\u30ad\u30b7\u30b3\u4e2d\u90e8\u306e\u30aa\u30a2\u30cf\u30ab\u5dde\u3092\u8972\u3044\u3001\u5c11\u306a\u304f\u3068\u30825\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u706b\u66dc\u65e5\u306e2017\u5e74\u4e2d\u90e8\u30e1\u30ad\u30b7\u30b3\u5730\u9707\u3067\u65e2\u306b\u640d\u50b7\u3057\u305f\u4f4f\u5b85\u3084\u30a4\u30f3\u30d5\u30e9\u304c\u3055\u3089\u306b\u640d\u50b7\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca, killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33582,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306b\u95a2\u3059\u308b\u4e8b\u6545\u3002\u30c7\u30e5\u30fc\u30af\u5927\u5b66\u306e\u533b\u7642\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u304c\u5317\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u30d9\u30eb\u30f4\u30a3\u30c7\u30a2\u8fd1\u304f\u3067\u589c\u843d\u3057\u30014\u4eba\u304c\u4ea1\u304f\u306a\u308b\u3002",
+                "eng_text": "A Duke University medical helicopter crashes near Belvidere, North Carolina, killing four people",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33583,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u304c\u95a2\u308f\u308b\u4e8b\u6545\u3002\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u304c\u30cb\u30e5\u30fc\u30b8\u30e3\u30fc\u30b8\u30fc\u5dde\u30e1\u30c9\u30d5\u30a9\u30fc\u30c9\u3067\u589c\u843d\u3057\u3001\u30e2\u30f3\u30b4\u30e1\u30ea\u30fc\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u306e\u6b4c\u624b\u3067\u3042\u308b\u30c8\u30ed\u30a4\u30fb\u30b2\u30f3\u30c8\u30ea\u30fc\u3092\u542b\u30802\u4eba\u304c\u6b7b\u4ea1\u3002",
+                "eng_text": "A helicopter crashes in Medford, New Jersey, leaving two people dead, including singer Troy Gentry of Montgomery Gentry",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33512,
+                "date": "2017-09-03T00:00:00Z",
+                "text": "\u30cf\u30ea\u30b1\u30fc\u30f3\u30cf\u30fc\u30d3\u30fc\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30cf\u30fc\u30d3\u30fc\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u6b74\u53f2\u4e0a2\u756a\u76ee\u306b\u30b3\u30b9\u30c8\u306e\u304b\u304b\u308b\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u304a\u308a\u3001\u63a8\u5b9a\u984d\u306f720\u5104\u30c9\u30eb\u304b\u30891,250\u5104\u30c9\u30eb\u3092\u8d85\u3048\u308b\u3068\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u6bd4\u8f03\u3059\u308b\u3068\u3001\u30cf\u30ea\u30b1\u30fc\u30f3\u30ab\u30c8\u30ea\u30fc\u30ca\u306e\u7dcf\u640d\u5bb3\u984d\u306f\u7d041,180\u5104\u30c9\u30eb\u304b\u30891,600\u5104\u30c9\u30eb\u3068\u63a8\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33548,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30ab\u30c6\u30a3\u30a2\u3002\u30e1\u30ad\u30b7\u30b3\u306e\u6e7e\u5cb8\u306e\u30d9\u30e9\u30af\u30eb\u30b9\u5dde\u306b\u30cf\u30ea\u30b1\u30fc\u30f3\u8b66\u5831\u304c\u51fa\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30ab\u30c6\u30b4\u30ea\u30fc1\u306e\u30ab\u30c6\u30a3\u30a2\uff08\u6642\u901f75 mph/120 km/h\uff09\u306f\u30e1\u30ad\u30b7\u30b3\u6cbf\u5cb8\u304b\u3089\u7d04185\u30de\u30a4\u30eb\uff08298km\uff09\u96e2\u308c\u305f\u5834\u6240\u306b\u3042\u308a\u3001\u6642\u901f3\u30de\u30a4\u30eb\uff084.8 km/h\uff09\u3067\u3086\u3063\u304f\u308a\u3068\u79fb\u52d5\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hurricane watches are issued for the state of  Veracruz on Mexico's Gulf coast. Category 1 Katia (75 mph/120 km/h) is about 185 miles (298\u00a0km) off the Mexican coast, slowly moving at 3 miles per hour (4.8\u00a0km/h)",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33599,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30ab\u30c6\u30a3\u30a2\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30ab\u30c6\u30a3\u30a2\u304c\u30e1\u30ad\u30b7\u30b3\u306b\u30ab\u30c6\u30b4\u30ea\u30fc1\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u3068\u3057\u3066\u4e0a\u9678\u3057\u3001\u751a\u5927\u306a\u88ab\u5bb3\u3068\u5c11\u306a\u304f\u3068\u30822\u4eba\u306e\u6b7b\u8005\u3092\u51fa\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Katia makes landfall in Mexico as a Category 1 hurricane, causing heavy damage and at least two deaths",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33497,
+                "date": "2017-09-01T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30b7\u30fc\u30ba\u30f3\u3002 \u30ab\u30c6\u30b4\u30ea\u30fc2\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u3067\u3042\u308b\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a2\u30a4\u30eb\u30de\u306f\u3001\u6700\u5927\u6301\u7d9a\u98a8\u901f110\u30de\u30a4\u30eb\uff08175\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\uff09\u3067\u3042\u308a\u3001\u4eca\u9031\u672b\u306b\u518d\u3073\u5f37\u5316\u3055\u308c\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002 \u6765\u9031\u6728\u66dc\u65e5\u306b\u30ab\u30ea\u30d6\u6d77\u306e\u30eb\u30ef\u30fc\u30c9\u8af8\u5cf6\u306b\u63a5\u8fd1\u3059\u308b\u969b\u3001\u5371\u967a\u6027\u304c\u9ad8\u307e\u308b\u3067\u3057\u3087\u3046\u3002",
+                "eng_text": "Hurricane Irma, now a Category 2 hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the Leeward Islands in the Caribbean next Thursday",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33524,
+                "date": "2017-09-04T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u306f\u73fe\u5728\u3001\u6700\u5927\u6301\u7d9a\u98a8\u901f130 mph\uff08215 km/h\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc4\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u3067\u3059\u3002\u30ab\u30ea\u30d6\u6d77\u306e\u30eb\u30a4\u30ef\u30fc\u30c9\u8af8\u5cf6\u306b\u30cf\u30ea\u30b1\u30fc\u30f3\u8b66\u5831\u304c\u767a\u4ee4\u3055\u308c\u3066\u304a\u308a\u3001\u706b\u66dc\u65e5\u306b\u5f71\u97ff\u3092\u53d7\u3051\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u6700\u5927\u306710\u30a4\u30f3\u30c1\uff0825\u30bb\u30f3\u30c1\uff09\u306e\u96e8\u91cf\u304c\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30a2\u30fc\u30de\u306f\u6b21\u306e48\u6642\u9593\u3067\u5f37\u5316\u3055\u308c\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u5dde\u3068\u30d5\u30ed\u30ea\u30c0\u5dde\u306e\u77e5\u4e8b\u306f\u975e\u5e38\u4e8b\u614b\u3092\u5ba3\u8a00\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km/h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33532,
+                "date": "2017-09-05T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a2\u30fc\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a2\u30fc\u30de\u306f\u6700\u5927\u30ab\u30c6\u30b4\u30ea\u30fc5\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u307e\u3067\u5f37\u5316\u3055\u308c\u3001\u6700\u5927\u6301\u7d9a\u98a8\u901f\u3092\u57fa\u6e96\u306b\u3057\u30662005\u5e74\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a6\u30a3\u30eb\u30de\u4ee5\u6765\u306e\u6700\u5f37\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u3068\u3055\u308c\u3001\"\u975e\u5e38\u306b\u5371\u967a\"\u3068\u8868\u73fe\u3055\u308c\u307e\u3057\u305f\u3002\u56fd\u7acb\u30cf\u30ea\u30b1\u30fc\u30f3\u30bb\u30f3\u30bf\u30fc\uff08NHC\uff09\u306f\u3001\u30a2\u30fc\u30de\u304c\u6709\u5229\u306a\u6761\u4ef6\u306e\u305f\u3081\u3055\u3089\u306b\u5f37\u5316\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u4e88\u6e2c\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hurricane Irma strengthens to a maximum Category 5 hurricane, becoming the strongest Atlantic hurricane since 2005's Hurricane Wilma in terms of maximum sustained winds, described as \"extremely dangerous.\" The National Hurricane Center (NHC) predicts that Irma could strengthen even more due to favorable conditions",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33545,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30a4\u30eb\u30de\u3002\u30a2\u30a4\u30eb\u30de\u306f\u3001\u5317\u6771\u306e\u30ea\u30fc\u30ef\u30fc\u30c9\u8af8\u5cf6\u306e\u30d0\u30eb\u30d6\u30c0\u3001\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\u3001\u30a2\u30f3\u30ae\u30e9\u306b\u521d\u4e0a\u9678\u3092\u679c\u305f\u3057\u307e\u3057\u305f\u3002\u30a2\u30a4\u30eb\u30de\u306f24\u6642\u9593\u3001185\u30de\u30a4\u30eb\u6bce\u6642\uff08298 km/h\uff09\u306e\u98a8\u3092\u7dad\u6301\u3057\u7d9a\u3051\u3001\u5927\u897f\u6d0b\u3084\u6771\u592a\u5e73\u6d0b\u306e\u5d50\u306e\u4e2d\u3067\u3055\u3089\u306a\u308b\u8a18\u9332\u3092\u6253\u3061\u7acb\u3066\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 miles per hour (298\u00a0km/h) winds for 24 hours, setting another record for Atlantic and eastern Pacific storms",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33546,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30d0\u30eb\u30d6\u30c0\u3001\u30b5\u30f3\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u3001\u30b5\u30f3\u30de\u30eb\u30bf\u30f3\u306e\u5cf6\u3005\u3067\u5c11\u306a\u304f\u3068\u30827\u4eba\u304c\u6b7b\u4ea1\u3002\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6\u3068\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u5317\u6771\u90e8\u6d77\u5cb8\u306b\u306f\u6fc0\u3057\u3044\u96e8\u3068\u30ab\u30c6\u30b4\u30ea\u30fc5\u306e\u98a8\u304c\u8972\u3063\u305f\u3002",
+                "eng_text": "At least seven people are killed on the islands of Barbuda, St. Barts and St. Martin. Heavy rain and Category 5 winds hit the Virgin Islands and Puerto Rico\u2019s northeast coast",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33547,
+                "date": "2017-09-06T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a2\u30a4\u30eb\u30de\u3002\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0\u306e\u9996\u76f8\u3001\u30ac\u30b9\u30c8\u30f3\u30fb\u30d6\u30e9\u30a6\u30f3\u6c0f\u306f\u3001\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30a2\u30a4\u30eb\u30de\u306b\u3088\u3063\u3066\u30d0\u30fc\u30d6\u30fc\u30c0\u5cf6\u304c\u307b\u307c\u5168\u6ec5\u3057\u3001\u300c\u307b\u3068\u3093\u3069\u4f4f\u3081\u306a\u3044\u72b6\u614b\u300d\u3067\u3001\u300c\u5168\u5efa\u9020\u7269\u306e90\u30d1\u30fc\u30bb\u30f3\u30c8\u300d\u304c\u7834\u58ca\u3055\u308c\u305f\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "The Prime Minister of Antigua and Barbuda Gaston Browne says the island of Barbuda has been almost entirely wiped out by Hurricane Irma and is \"barely habitable\", with \"90 percent\" of all structures destroyed",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33560,
+                "date": "2017-09-07T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30a4\u30eb\u30de\u3002\u30a2\u30a4\u30eb\u30de\u306f\u5c11\u306a\u304f\u3068\u308214\u4eba\u306e\u4eba\u3005\u3092\u6bba\u3057\u307e\u3057\u305f\u3002\u6700\u5927\u6301\u7d9a\u98a8\u901f175mph\uff08280km/h\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc5\u306e\u52e2\u529b\u3092\u4fdd\u6301\u3057\u3066\u3044\u308b\u3053\u306e\u5d50\u306f\u3001\u6642\u901f16mph\uff0826km/h\uff09\u306e\u897f\u5317\u897f\u306b\u9032\u3093\u3067\u3044\u307e\u3059\u3002\u30cf\u30a4\u30b9\u30d1\u30cb\u30e7\u30fc\u30e9\u8af8\u5cf6\u306b\u5230\u9054\u3057\u3001\u30d0\u30cf\u30de\u3084\u30ad\u30e5\u30fc\u30d0\u306b\u5411\u304b\u3046\u9014\u4e2d\u3067\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6\u3092\u901a\u904e\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002\u30a2\u30a4\u306e\u76ee\u304c\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u3092\u76f4\u63a5\u8972\u3046\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u304c\u3001\u88ab\u5bb3\u304c\u5831\u544a\u3055\u308c\u3001340\u4e07\u4eba\u306e\u7d043\u5206\u306e2\u304c\u505c\u96fb\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33579,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u306e\u6b7b\u8005\u6570\u306f\u3001\u6700\u8fd1\u30ad\u30e5\u30fc\u30d0\u3068\u30d0\u30cf\u30de\u3092\u8972\u3063\u305f\u969b\u306b\u6700\u5927\u6301\u7d9a\u98a8\u901f155\u30de\u30a4\u30eb/\u6642\u9593\uff08250\u30ad\u30ed/\u6642\u9593\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc4\u306e\u66b4\u98a8\u3068\u306a\u308a\u3001\u5c11\u306a\u304f\u3068\u308221\u4eba\u306b\u4e0a\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hurricane Irma's death toll this week is at least 21 people after recently hitting Cuba and The Bahamas as a Category 4 storm with maximum sustained winds of 155 mph (250 km/h)",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33581,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3001\u30ab\u30ea\u30d6\u6d77\u306e\u30ab\u30de\u30b0\u30a8\u30a4\u8af8\u5cf6\u306b\u4e0a\u9678\u3059\u308b\u76f4\u524d\u306b\u30ab\u30c6\u30b4\u30ea\u30fc5\u306e\u5f37\u3055\u3092\u53d6\u308a\u623b\u3059\u3002",
+                "eng_text": "Hurricane Irma regains category 5 strength just before it makes landfall on Cuba's Camaguey Archipelago",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33580,
+                "date": "2017-09-08T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u30d5\u30ed\u30ea\u30c0\u5dde\u3068\u30b5\u30a6\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u306e\u7d04560\u4e07\u4eba\u306b\u907f\u96e3\u3092\u6c42\u3081\u3089\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Approximately 5.6 million people in the U.S. states of Florida and South Carolina have been asked to evacuate",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33598,
+                "date": "2017-09-09T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30a4\u30eb\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30a4\u30eb\u30de\u304c\u30ad\u30e5\u30fc\u30d0\u306b\u4e0a\u9678\u3057\u307e\u3059\u3002",
+                "eng_text": "Hurricane Irma makes landfall in Cuba",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33606,
+                "date": "2017-09-10T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u304c4\u30ab\u30c6\u30b4\u30ea\u30fc\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u3068\u3057\u3066\u30d5\u30ed\u30ea\u30c0\u306b\u4e0a\u9678\u3057\u3001\u5c11\u306a\u304f\u3068\u30823\u4eba\u3092\u6b7b\u4ea1\u3055\u305b\u3001100\u4e07\u4ee5\u4e0a\u306e\u5bb6\u5ead\u306b\u505c\u96fb\u3092\u3082\u305f\u3089\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33663,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30a4\u30eb\u30de\u306e\u5f71\u97ff\u3092\u53d7\u3051\u3066\u3001\u30d0\u30eb\u30d6\u30c0\u5cf6\u306f300\u5e74\u3076\u308a\u306b\u5b8c\u5168\u306a\u904e\u758e\u5316\u72b6\u614b\u3068\u306a\u308a\u307e\u3057\u305f\u3002",
+                "eng_text": "In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated for the first time in 300 years",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33687,
+                "date": "2017-09-17T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u306f\u71b1\u5e2f\u4f4e\u6c17\u5727\u304b\u3089\u30ab\u30c6\u30b4\u30ea\u30fc1\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u683c\u4e0a\u3052\u3055\u308c\u307e\u3057\u305f\u3002\u30ab\u30ea\u30d6\u6d77\u306e\u4e00\u90e8\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u8b66\u6212\u3068\u8b66\u5831\u304c\u767a\u8868\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u5c11\u306a\u304f\u3068\u308282\u4eba\u306e\u6b7b\u8005\u3092\u51fa\u3057\u305f\u30ab\u30c6\u30b4\u30ea\u30fc5\u30cf\u30ea\u30b1\u30fc\u30f3\u30a2\u30fc\u30de\u306b\u4f3c\u305f\u7d4c\u8def\u3092\u305f\u3069\u3063\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33697,
+                "date": "2017-09-18T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u306f\u30ea\u30fc\u30a6\u30a9\u30fc\u30c9\u8af8\u5cf6\u3001\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u3001\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd\u3092\u8105\u304b\u3059\u4e2d\u3067\u30ab\u30c6\u30b4\u30ea\u30fc5\u306b\u9054\u3057\u307e\u3057\u305f\u3002",
+                "eng_text": "Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33699,
+                "date": "2017-09-19T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u306f\u3001\u6700\u5927\u6301\u7d9a\u98a8\u901f\u304c160 mph\uff08260 km/h\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc5\u30cf\u30ea\u30b1\u30fc\u30f3\u3068\u3057\u3066\u30c9\u30df\u30cb\u30ab\u306b\u4e0a\u9678\u3057\u307e\u3059\u3002\u30de\u30ea\u30a2\u306f\u30012017\u5e74\u306e\u30b7\u30fc\u30ba\u30f3\u3067\u3053\u306e\u5f37\u5ea6\u3067\u306e\u4e0a\u9678\u3092\u679c\u305f\u3057\u305f2\u3064\u76ee\u306e\u30ab\u30c6\u30b4\u30ea\u30fc5\u30cf\u30ea\u30b1\u30fc\u30f3\u3067\u3042\u308a\u3001\u3053\u308c\u306f2007\u5e74\u3068\u4e00\u7dd2\u306b\u3001\u3053\u306e\u73fe\u8c61\u3092\u7279\u5fb4\u3065\u3051\u308b\u8a18\u9332\u4e0a\u552f\u4e00\u306e\u30b7\u30fc\u30ba\u30f3\u3067\u3059\u3002",
+                "eng_text": "Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurrence",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33707,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30ab\u30c6\u30b4\u30ea\u30fc4\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u3068\u3057\u3066\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306b\u4e0a\u9678\u3059\u308b\u3002\u5f71\u97ff\u306f\u58ca\u6ec5\u7684\u3067\u3001\u5cf6\u5168\u4f53\u304c\u505c\u96fb\u3059\u308b\u3002\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u3067\u306f7\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7\u3067\u306f2\u4eba\u304c\u6b7b\u4ea1\u3002\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u77e5\u4e8b\u3001\u30ea\u30ab\u30eb\u30c9\u30fb\u30ed\u30bb\u30ea\u30aa\u306f\u571f\u66dc\u65e5\u307e\u3067\u306e\u5348\u5f8c6\u6642\u304b\u3089\u5348\u524d6\u6642\u307e\u3067\u306e\u5916\u51fa\u7981\u6b62\u4ee4\u3092\u767a\u8868\u3059\u308b\u3002",
+                "eng_text": "Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossell\u00f3 declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33708,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u6700\u5927\u6301\u7d9a\u98a8\u901f110mph\uff08180km/h\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc2\u306e\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u306a\u3063\u305f\u30de\u30ea\u30a2\u306f\u3001\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd\u306e\u5317\u6771\u6d77\u5cb8\u306b\u5411\u304b\u3063\u3066\u79fb\u52d5\u3057\u3066\u304a\u308a\u3001\u6728\u66dc\u65e5\u306e\u591c\u306b\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6\u3068\u5357\u6771\u30d0\u30cf\u30de\u306b\u5f71\u97ff\u3092\u4e0e\u3048\u3001\u91d1\u66dc\u65e5\u306b\u5317\u90e8\u30cf\u30a4\u30c1\u306b\u5f71\u97ff\u3092\u4e0e\u3048\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Now a Category 2 hurricane with maximum sustained winds of 110\u00a0mph (180\u00a0km/h), Maria is moving toward the northeastern coast of the Dominican Republic, and is forecast to affect the Turks and Caicos Islands and the southeastern Bahamas Thursday night and northern Haiti Friday",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33709,
+                "date": "2017-09-20T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30fb\u30de\u30ea\u30a2\u3002\u5168\u7c73\u30cf\u30ea\u30b1\u30fc\u30f3\u30bb\u30f3\u30bf\u30fc\u306f\u3001\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u964d\u6c34\u91cf\u306f\u571f\u66dc\u65e5\u307e\u3067\u306b20\u301c30\u30a4\u30f3\u30c1\uff0851\u301c76cm\uff09\u3067\u3001\u5b64\u7acb\u3057\u305f\u5730\u57df\u3067\u306f35\u30a4\u30f3\u30c1\uff0889cm\uff09\u306b\u306a\u308b\u3068\u4e88\u6e2c\u3057\u3066\u3044\u307e\u3059\u3002\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6\u306f\u3055\u3089\u306b3\u301c5\u30a4\u30f3\u30c1\uff087.6\u301c12.7cm\uff09\u306e\u96e8\u3092\u53d7\u3051\u53d6\u308b\u3067\u3057\u3087\u3046\u3002",
+                "eng_text": "The National Hurricane Center predicts Puerto Rico's total rainfall through Saturday will be 20\u201330 inches (51\u201376\u00a0cm) inches with 35 inches (89\u00a0cm) in isolated areas. The Virgin Islands will receive an additional 3 to 5 inches (7.6 to 12.7\u00a0cm)",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33720,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30de\u30ea\u30a2\u306f\u73fe\u5728\u3001\u6700\u5927\u6301\u7d9a\u98a8\u901f125 mph\uff08205 km/h\uff09\u306e\u30ab\u30c6\u30b4\u30ea\u30fc3\u30cf\u30ea\u30b1\u30fc\u30f3\u3067\u3042\u308a\u3001\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd\u5317\u5cb8\u6c96\u3092\u901a\u904e\u3057\u3066\u304a\u308a\u3001\u4eca\u591c\u3068\u91d1\u66dc\u65e5\u306b\u306f\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6\u304a\u3088\u3073\u5357\u6771\u30d0\u30cf\u30de\u306b\u5f71\u97ff\u3092\u4e0e\u3048\u308b\u3068\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km/h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33722,
+                "date": "2017-09-21T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306f\u3001\u5cf6\u306e\u4e00\u90e8\u306b\u964d\u3063\u305f\u6570\u30d5\u30a3\u30fc\u30c8\u306e\u96e8\u306b\u52a0\u3048\u3066\u3001\u571f\u66dc\u65e5\u307e\u3067\u306b\u8ffd\u52a0\u30674\u30a4\u30f3\u30c1\uff0810cm\uff09\u304b\u30898\u30a4\u30f3\u30c1\uff0820cm\uff09\u306e\u96e8\u304c\u4e88\u5831\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30ab\u30b0\u30a2\u30b9\u306f\u6700\u3082\u591a\u304f\u300137.9\u30a4\u30f3\u30c1\uff0896cm\uff09\u3092\u53d7\u3051\u53d6\u3063\u3066\u3044\u307e\u3059\u3002\u5168\u7c73\u30cf\u30ea\u30b1\u30fc\u30f3\u30bb\u30f3\u30bf\u30fc\u306f\u3001\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd\u3001\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u3001\u5357\u6771\u30d0\u30cf\u30de\u306e\u30de\u30e4\u30b0\u30a2\u30ca\u306b8\u30a4\u30f3\u30c1\uff0820 cm\uff09\u304b\u308916\u30a4\u30f3\u30c1\uff0841cm\uff09\u306e\u96e8\u304c\u4e88\u60f3\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "Puerto Rico is forecast to get an additional 4 inches (10\u00a0cm) to 8 inches (20\u00a0cm) of rain through Saturday, on top of the several feet of rain that has fallen on parts of the island. Caguas has received the most, 37.9 inches (96\u00a0cm). The NHC expects 8 inches (20\u00a0cm) to 16 inches (41\u00a0cm) rain for the Dominican Republic, Turks and Caicos, and Mayaguana in the southeast Bahamas",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33728,
+                "date": "2017-09-22T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u306b\u3088\u308b\u6d2a\u6c34\u304c\u30b0\u30a2\u30cf\u30bf\u30ab\u30c0\u30e0\u3092\u640d\u50b7\u3055\u305b\u305f\u305f\u3081\u3001\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u5317\u90e8\u306e\u6570\u4e07\u4eba\u304c\u907f\u96e3\u3059\u308b\u3088\u3046\u547d\u4ee4\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Tens of thousands of people in northern Puerto Rico are ordered to evacuate after floodwaters from Hurricane Maria damage the Guajataca Dam",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33757,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u5f53\u5c40\u306f\u3001\u30cf\u30ea\u30b1\u30fc\u30f3\u306b\u3088\u308b\u4eba\u9053\u5371\u6a5f\u306e\u5f8c\u3001\u5cf6\u3067\u306e\u798f\u7949\u306e\u305f\u3081\u306b\u30a2\u30e1\u30ea\u30ab\u9023\u90a6\u653f\u5e9c\u304b\u3089\u652f\u63f4\u3092\u8981\u8acb\u3057\u307e\u3059\u3002",
+                "eng_text": "Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33784,
+                "date": "2017-09-27T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u56fd\u571f\u5b89\u5168\u4fdd\u969c\u7701\u306f\u3001\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u3067\u7d9a\u304f\u707d\u5bb3\u306b\u5bfe\u5fdc\u3057\u3066\u30011920\u5e74\u306e\u5546\u8239\u6cd5\uff08\u307e\u305f\u306f\u300c\u30b8\u30e7\u30fc\u30f3\u30ba\u6cd5\u300d\uff09\u3092\u9069\u7528\u3057\u306a\u3044\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                "eng_text": "The United States Department of Homeland Security says it will not waive the Merchant Marine Act of 1920 (or \"Jones Act\") in response to the ongoing disaster in Puerto Rico",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33798,
+                "date": "2017-09-28T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5927\u897f\u6d0b\u30cf\u30ea\u30b1\u30fc\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30cf\u30ea\u30b1\u30fc\u30f3\u30de\u30ea\u30a2\u3002\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u306e\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u3001\u8ffd\u52a0\u306e\u652f\u63f4\u3092\u6700\u521d\u306b\u62d2\u5426\u3057\u305f\u5f8c\u3001\u8239\u8236\u696d\u754c\u306e\u5229\u76ca\u3092\u7406\u7531\u306b\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u305f\u3081\u306b\u30b8\u30e7\u30fc\u30f3\u30ba\u6cd5\u3092\u514d\u9664\u3059\u308b\u3002\u30b8\u30e7\u30f3\u30fb\u30de\u30b1\u30a4\u30f3\u4e0a\u9662\u8b70\u54e1\u306f\u3001\u30b8\u30e7\u30fc\u30f3\u30ba\u6cd5\u306b\u3088\u3063\u3066\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u3067\u306e\u98df\u6599\u3001\u6c34\u3001\u305d\u306e\u4ed6\u306e\u7dca\u6025\u7269\u8cc7\u306e\u4fa1\u683c\u304c\u9ad8\u3059\u304e\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33525,
+                "date": "2017-09-04T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u97d3\u56fd\u306e\u56fd\u9632\u76f8\u30bd\u30f3\u30fb\u30e8\u30f3\u30e0\u306f\u3001\u7c73\u56fd\u306e\u6226\u7565\u7684\u8cc7\u7523\uff08\u7a7a\u6bcd\u3001\u6838\u6f5c\u6c34\u8266\u3001B-52\u7206\u6483\u6a5f\uff09\u3092\u97d3\u56fd\u306b\u3088\u308a\u983b\u7e41\u306b\u5c55\u958b\u3059\u308b\u4fa1\u5024\u304c\u3042\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33535,
+                "date": "2017-09-05T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u65e5\u672c\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3001\u97d3\u56fd\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u97d3\u56fd\u304b\u3089\u306e\u7dca\u5f35\u306e\u4e2d\u3001\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u306e\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u3001\u300c\u65e5\u672c\u3068\u97d3\u56fd\u306b\u30a2\u30e1\u30ea\u30ab\u304b\u3089\u9ad8\u5ea6\u306a\u8ecd\u4e8b\u88c5\u5099\u3092\u5927\u5e45\u306b\u8cfc\u5165\u3059\u308b\u3053\u3068\u3092\u8a31\u53ef\u3059\u308b\u300d\u3068\u767a\u8868\u3057\u307e\u3059\u3002",
+                "eng_text": "Amid tensions from South Korea, U.S. President Donald Trump announces that he is \"allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33737,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u5317\u671d\u9bae\u3068\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u95a2\u4fc2\u3002\u30a2\u30e1\u30ea\u30ab\u7a7a\u8ecd\u306e\u7206\u6483\u6a5f\u304c\u3001\u6226\u95d8\u6a5f\u306b\u8b77\u885b\u3055\u308c\u306a\u304c\u3089\u3001\u5317\u671d\u9bae\u306e\u6771\u306e\u56fd\u969b\u7a7a\u57df\u3092\u98db\u884c\u3059\u308b\u3002\u30da\u30f3\u30bf\u30b4\u30f3\u306e\u5e83\u5831\u62c5\u5f53\u8005\u306f\u3001\u3053\u306e\u98db\u884c\u30eb\u30fc\u30c8\u304c21\u4e16\u7d00\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u8ecd\u306e\u98db\u884c\u6a5f\u306e\u4e2d\u3067\u3001\u671d\u9bae\u534a\u5cf6\u306e\u975e\u6b66\u88c5\u5730\u5e2f\u30be\u30fc\u30f3\u306e\u6700\u5317\u7aef\u306b\u4f4d\u7f6e\u3057\u305f\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "U.S. Air Force bombers, escorted by fighter jets, fly in international airspace over waters east of North Korea. A Pentagon spokesperson says this flight's route was the farthest north of the peninsula's Demilitarized Zone of any U.S. aircraft in the 21st century",
+                "d2v_vecs": {}
+            },
+            {
+                "id": 33754,
+                "date": "2017-09-25T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u5317\u671d\u9bae\u306f\u3001\u6700\u8fd1\u5317\u671d\u9bae\u6cbf\u5cb8\u3067\u306e\u30a2\u30e1\u30ea\u30ab\u306e\u822a\u7a7a\u6a5f\u306e\u98db\u884c\u306f\u5ba3\u6226\u5e03\u544a\u306b\u5f53\u305f\u308b\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                "eng_text": "North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33667,
+                "date": "2017-09-15T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u30022017\u5e749\u6708\u3001\u5317\u671d\u9bae\u306e\u30df\u30b5\u30a4\u30eb\u304c\u65e5\u672c\u4e0a\u7a7a\u3092\u901a\u904e\u3059\u308b\u3002\u5317\u671d\u9bae\u306e\u30df\u30b5\u30a4\u30eb\u304c\u5317\u6d77\u9053\u4e0a\u7a7a\u3092\u901a\u904e\u3057\u30018\u670829\u65e5\u306b\u3082\u540c\u69d8\u306e\u4e8b\u4ef6\u304c\u767a\u751f\u3057\u305f\u5f8c\u3001J-Alert\u30b7\u30b9\u30c6\u30e0\u304c\u4f5c\u52d5\u3059\u308b\u3002",
+                "eng_text": "A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33738,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "2017\u5e74\u306e\u5317\u671d\u9bae\u5371\u6a5f\u3002\u5317\u671d\u9bae-\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u95a2\u4fc2\u3002\u5317\u671d\u9bae\u5916\u76f8\u30ea\u30fb\u30e8\u30f3\u30db\u306f\u3001\u56fd\u9023\u7dcf\u4f1a\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u304c\u8ecd\u4e8b\u30d7\u30ed\u30b0\u30e9\u30e0\u306b\u5bfe\u3059\u308b\u614b\u5ea6\u3092\u6fc0\u5316\u3055\u305b\u3066\u3044\u308b\u3053\u3068\u304b\u3089\u3001\u5f7c\u306e\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u672c\u571f\u3092\u6a19\u7684\u306b\u3059\u308b\u53ef\u80fd\u6027\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u3068\u8ff0\u3079\u305f\u3002\u3053\u306e\u6f14\u8aac\u306e\u5f8c\u3001\u56fd\u9023\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u30ea\u3068\u4f1a\u3044\u3001\u3053\u306e\u72b6\u6cc1\u306b\u5bfe\u3059\u308b\u61f8\u5ff5\u3092\u8868\u660e\u3057\u305f\u3002",
+                "eng_text": "North Korean Foreign Minister Ri Yong-ho, at the United Nations General Assembly, says his country targeting the U.S. mainland is becoming more likely given the U.S. President's escalating rhetoric over their military programs. After this speech, U.N. Secretary-General Ant\u00f3nio Guterres met with Ri to express his concern with this situation",
+                "d2v_vecs": {}
+            }
+        ],
+        [
+            {
+                "id": 33740,
+                "date": "2017-09-23T00:00:00Z",
+                "text": "\u30ed\u30f3\u30c9\u30f3\u306e\u72af\u7f6a\u3002\u30a4\u30fc\u30b9\u30c8\u30ed\u30f3\u30c9\u30f3\u306e\u30b9\u30c8\u30e9\u30c8\u30d5\u30a9\u30fc\u30c9\u306b\u3042\u308b\u30e2\u30fc\u30eb\u3068\u5730\u4e0b\u9244\u99c5\u4ed8\u8fd1\u3067\u9178\u653b\u6483\u304c\u3042\u308a\u30016\u4eba\u304c\u8ca0\u50b7\u300215\u6b73\u306e\u5c11\u5e74\u304c\u902e\u6355\u3055\u308c\u307e\u3057\u305f\u3002",
+                "eng_text": "Acid attacks around a mall and tube station in Stratford, East London, leave 6 injured. A 15-year-old is arrested",
+                "d2v_vecs": {}
+            }
+        ]
+    ]
+}

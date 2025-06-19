@@ -1,0 +1,826 @@
+{
+    "trees": [
+        {
+            "eventList0": [
+                {
+                    "id": 36762,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\u30a2\u30e1\u30ea\u30ab\u4e3b\u5c0e\u306e\u30a4\u30e9\u30af\u3078\u306e\u4ecb\u5165\u3002\u30a2\u30e1\u30ea\u30ab\u56fd\u9632\u7701\u306b\u3088\u308b\u3068\u3001ISIL\u306e\u6226\u95d8\u54e1\u304c\u30a2\u30eb\u30d3\u30eb\u8fd1\u304f\u3067\u6d77\u8ecd\u30b7\u30fc\u30eb\u30ba\u3092\u6bba\u5bb3\u3057\u305f\u3002\u305d\u306e\u6c34\u5175\u306f\u30af\u30eb\u30c9\u4eba\u30da\u30b7\u30e5\u30e1\u30eb\u30ac\u8ecd\u306b\u653b\u6483\u3092\u6483\u9000\u3059\u308b\u306e\u3092\u624b\u4f1d\u3063\u3066\u3044\u305f\u3002\u5f8c\u306b\u305d\u306e\u30b7\u30fc\u30eb\u30ba\u306f\u30a2\u30ea\u30be\u30ca\u5dde\u51fa\u8eab\u306e\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30ad\u30fc\u30c6\u30a3\u30f3\u30b04\u4e16\u3067\u3042\u308a\u3001\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30ad\u30fc\u30c6\u30a3\u30f3\u30b03\u4e16\u306e\u606f\u5b50\u3001\u305d\u3057\u3066\u6709\u7f6a\u3068\u306a\u3063\u305f\u8a55\u5224\u306e\u9ad8\u3044\u91d1\u878d\u5bb6\u3067\u3042\u308b\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30ad\u30fc\u30c6\u30a3\u30f3\u30b0Jr.\u306e\u5b6b\u3067\u3042\u308b\u3053\u3068\u304c\u5224\u660e\u3057\u305f\u30021980\u5e74\u4ee3\u306e\u8caf\u84c4\u8cb8\u4ed8\u91d1\u5eab\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb\u306b\u5dfb\u304d\u8fbc\u307e\u308c\u305f\u3002",
+                    "eng_text": "According to the United States Department of Defense, ISIL fighters killed a Navy SEAL near Erbil. The sailor was assisting Kurdish Peshmerga forces in repelling an attack on the area. The SEAL was later identified as Arizona native Charles Keating IV, the son of Charles Keating III, and the grandson of the convicted noted late financier Charles Keating Jr., who was embroiled in the 1980s savings and loan scandal",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36883,
+                    "date": "2016-05-11T00:00:00Z",
+                    "text": "2014\u5e74\u304b\u30892017\u5e74\u307e\u3067\u7d9a\u3044\u305f\u30a4\u30e9\u30af\u5185\u6226\u30022016\u5e745\u670811\u65e5\u306e\u30d0\u30b0\u30c0\u30c3\u30c9\u7206\u7834\u4e8b\u4ef6\u3002\u30d0\u30b0\u30c0\u30c3\u30c9\u306e\u30b5\u30c9\u30eb\u5e02\u306e\u5e02\u5834\u3067\u306e\u7206\u5f3e\u653b\u6483\u3067\u3001\u5c11\u306a\u304f\u3068\u308264\u4eba\u304c\u6b7b\u4ea1\u3057\u300187\u4eba\u304c\u8ca0\u50b7\u3002\u30a4\u30b9\u30e9\u30e0\u56fd\uff08ISIS\uff09\u304c\u72af\u884c\u58f0\u660e\u3092\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "At least 64 people are killed and 87 injured in a bomb attack on a market in Sadr City, Baghdad. Islamic State of Iraq and the Levant (ISIS) claims responsibility",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36884,
+                    "date": "2016-05-11T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\uff082014\u5e74-2017\u5e74\uff09\u3002ISIS\u304c\u3001\u6226\u95d8\u304b\u3089\u9003\u3052\u305f45\u4eba\u306e\u81ea\u3089\u306e\u6226\u95d8\u54e1\u3092\u30ab\u30a4\u30e4\u30e9\u3067\u751f\u304d\u57cb\u3081\u306b\u3059\u308b\u3002",
+                    "eng_text": "ISIS bury alive 45 of their own fighters in Qayyarah for fleeing a battle",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36908,
+                    "date": "2016-05-13T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\uff082014\u5e74\u301c2017\u5e74\uff09\u3002\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306e\u6cbb\u5b89\u8acb\u8ca0\u696d\u8005\u304c\u3001\u30d0\u30b0\u30c0\u30c3\u30c9\u306e\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u5927\u4f7f\u9928\u306e\u5916\u3067\u6bba\u5bb3\u3055\u308c\u305f\u3002\u5f7c\u304c\u6483\u305f\u308c\u305f\u3068\u3044\u3046\u672a\u78ba\u8a8d\u306e\u5831\u544a\u304c\u3042\u308a\u307e\u3059\u3002",
+                    "eng_text": "An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36909,
+                    "date": "2016-05-13T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\uff082014\u5e74\u304b\u30892017\u5e74\uff09\u3002\u30b5\u30de\u30e9\u306e\u5317\u30a4\u30e9\u30af\u306e\u30ab\u30d5\u30a7\u3067\u958b\u304b\u308c\u305f\u30ec\u30a2\u30eb\u30de\u30c9\u30ea\u30fc\u30c9\u30b5\u30dd\u30fc\u30bf\u30fc\u30af\u30e9\u30d6\u306e\u96c6\u307e\u308a\u306b3\u4eba\u306e\u9283\u6483\u624b\u304c\u4e71\u5c04\u3057\u3001\u5c11\u306a\u304f\u3068\u308214\u4eba\u304c\u6b7b\u4ea1\u3057\u300125\u4eba\u304c\u8ca0\u50b7\u3002\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304c\u653b\u6483\u3092\u4e3b\u5f35\u3057\u305f\u3002",
+                    "eng_text": "Three gunmen open fire on a Real Madrid supporters club meeting in a cafe in Samarra northern Iraq, killing at least 14 and wounding 25. Islamic State of Iraq and Syria claims responsibility for attack",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36924,
+                    "date": "2016-05-14T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\uff082014\u5e74\u304b\u30892017\u5e74\uff09\u3002\u5c11\u306a\u304f\u3068\u308214\u4eba\u306e\u81ea\u7206\u72af\u304c\u8907\u5408\u65bd\u8a2d\u3092\u8972\u6483\u3057\u3001\u81ea\u3089\u3082\u542b\u3081\u3066\u5c11\u306a\u304f\u3068\u30826\u4eba\u3092\u6bba\u5bb3\u3002",
+                    "eng_text": "At least 14 suicide bombers attack a complex, killing themselves and at least 6 people",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36933,
+                    "date": "2016-05-15T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002\u30d0\u30b0\u30c0\u30c3\u30c9\u5317\u90e8\u306e\u30bf\u30b8\u306b\u3042\u308b\u56fd\u6709\u306e\u30ac\u30b9\u5de5\u5834\u3067\u306e\u81ea\u7206\u653b\u6483\u3067\u5c11\u306a\u304f\u3068\u308218\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u4ed6\u306e11\u4eba\u304c\u56fd\u5185\u5404\u5730\u3067\u306e\u653b\u6483\u3067\u6b7b\u4ea1\u3057\u307e\u3059\u3002",
+                    "eng_text": "Suicide bomb attacks in a state owned cooking gas plant in Taji, north of Baghdad, kill at least 18 people, while 11 others die in attacks across the country",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36948,
+                    "date": "2016-05-17T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\uff5e2017\u5e74\uff09\u30022016\u5e745\u670817\u65e5\u306e\u30d0\u30b0\u30c0\u30c3\u30c9\u7206\u7834\u4e8b\u4ef6\u3002\u30a4\u30e9\u30af\u306e\u30d0\u30b0\u30c0\u30c3\u30c9\u3067\u30b7\u30fc\u30a2\u6d3e\u5730\u533a\u3092\u6a19\u7684\u306b\u3057\u305f\u7206\u5f3e\u653b\u6483\u306e\u4e00\u9023\u306e\u4e8b\u4ef6\u3067\u3001\u5c11\u306a\u304f\u3068\u308269\u4eba\u304c\u6b7b\u4ea1\u3057\u3001230\u4eba\u304c\u8ca0\u50b7\u3002\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304c\u653b\u6483\u306e\u4e00\u90e8\u3092\u72af\u884c\u3092\u4e3b\u5f35\u3057\u305f\u3002",
+                    "eng_text": "At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36958,
+                    "date": "2016-05-18T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u3067\u306e\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002\u30d0\u30b0\u30c0\u30c3\u30c9\u3067\u7591\u308f\u308c\u308bISIL\u306e\u904e\u6fc0\u6d3e\u306b\u5bfe\u3059\u308b\u8972\u6483\u30679\u4eba\u306e\u5175\u58eb\u304c\u6b7b\u4ea1\u3057\u30019\u4eba\u304c\u8ca0\u50b7\u3057\u305f\u3002",
+                    "eng_text": "Nine soldiers are killed and nine more wounded in a raid on suspected ISIL militants in Baghdad",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36972,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74-2017\u5e74\uff09\u3002\u30a4\u30e9\u30af\u306e\u30d0\u30b0\u30c0\u30c3\u30c9\u3067\u7206\u5f3e\u653b\u6483\u304c\u3042\u308a\u3001\u5c11\u306a\u304f\u3068\u30823\u4eba\u306e\u5e02\u6c11\u304c\u6b7b\u4ea1\u3057\u300110\u4eba\u304c\u8ca0\u50b7\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36986,
+                    "date": "2016-05-20T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002\u30a2\u30eb\u30fb\u30eb\u30c8\u30d0\u653b\u52e2\uff082016\u5e74\uff09\u3002\u30a4\u30e9\u30af\u8ecd\u306e\u90e8\u968a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u7a7a\u7206\u652f\u63f4\u3092\u53d7\u3051\u3066\u3001\u30a4\u30e9\u30af\u3068\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304b\u3089\u5357\u897f\u306e\u90fd\u5e02\u30a2\u30eb\u30fb\u30eb\u30c8\u30d0\u3092\u596a\u9084\u3057\u305f\u3002\u3053\u306e\u52dd\u5229\u306b\u3088\u308a\u3001\u30d0\u30b0\u30c0\u30c3\u30c9\u30fb\u30a2\u30f3\u30de\u30f3\u9ad8\u901f\u9053\u8def\u306e\u518d\u958b\u304c\u53ef\u80fd\u3068\u306a\u308b\u3067\u3057\u3087\u3046\u3002",
+                    "eng_text": "Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37004,
+                    "date": "2016-05-20T00:00:00Z",
+                    "text": "2015\u5e74\u304b\u30892016\u5e74\u306e\u30a4\u30e9\u30af\u306b\u304a\u3051\u308b\u6297\u8b70\u6d3b\u52d5\u3002\u30d0\u30b0\u30c0\u30c3\u30c9\u306e\u30b0\u30ea\u30fc\u30f3\u30be\u30fc\u30f3\u306b\u7a81\u5165\u3057\u3088\u3046\u3068\u3059\u308b\u6297\u8b70\u8005\u306b\u5bfe\u3057\u3001\u30a4\u30e9\u30af\u306e\u6cbb\u5b89\u90e8\u968a\u304c\u50ac\u6d99\u30ac\u30b9\u3068\u653e\u6c34\u7832\u3092\u4f7f\u7528\u3057\u3001\u5c11\u306a\u304f\u3068\u308233\u4eba\u304c\u8ca0\u50b7\u3057\u305f\u3002",
+                    "eng_text": "Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37026,
+                    "date": "2016-05-22T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\u3002 \u30d5\u30a1\u30eb\u30fc\u30b8\u30e3\u5305\u56f2\u6226\uff082016\u5e74\uff09\u3002 \u30a4\u30e9\u30af\u306e\u30cf\u30a4\u30c0\u30eb\u30fb\u30a2\u30eb\u30a2\u30d0\u30c7\u30a3\u9996\u76f8\u304c\u3001\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304b\u3089\u30d5\u30a1\u30eb\u30fc\u30b8\u30e3\u3092\u596a\u9084\u3059\u308b\u8ecd\u4e8b\u4f5c\u6226\u306e\u958b\u59cb\u3092\u767a\u8868\u3057\u307e\u3059\u3002",
+                    "eng_text": "Iraqi Prime Minister Haider al-Abadi announces the start of a military operation to recapture Falluja from Islamic State of Iraq and Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37040,
+                    "date": "2016-05-23T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002\u30a4\u30e9\u30af\u653f\u5e9c\u306f\u30012014\u5e74\u521d\u982d\u4ee5\u6765\u30a4\u30b9\u30e9\u30e0\u56fd\u5bb6\u30a4\u30e9\u30af\u304a\u3088\u3073\u30ec\u30d0\u30f3\u30c8\u96c6\u56e3\u306b\u3088\u3063\u3066\u652f\u914d\u3055\u308c\u3066\u3044\u305f\u30d5\u30a1\u30eb\u30fc\u30b8\u30e3\u5e02\u3092\u596a\u9084\u3059\u308b\u3053\u3068\u3092\u76ee\u6307\u3057\u305f\u4f5c\u6226\u300c\u30c6\u30ed\u30ea\u30ba\u30e0\u306e\u6253\u7834\u4f5c\u6226\u300d\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+                    "eng_text": "The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37085,
+                    "date": "2016-05-26T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\u3002\u4f5c\u6226\u30d6\u30ec\u30a4\u30ad\u30f3\u30b0\u30fb\u30c6\u30ed\u3002\u30a4\u30e9\u30af\u6cbb\u5b89\u90e8\u968a\u3068\u30b7\u30fc\u30a2\u6d3e\u5927\u8846\u52d5\u54e1\u90e8\u968a\u304c\u3001\u30d5\u30a1\u30eb\u30fc\u30b8\u30e3\u306e\u7d0416\u30ad\u30ed\uff0810\u30de\u30a4\u30eb\uff09\u5317\u6771\u306b\u4f4d\u7f6e\u3059\u308b\u30a2\u30eb\u30ab\u30eb\u30de\u3092\u53d6\u308a\u623b\u3059\u3002",
+                    "eng_text": "Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37102,
+                    "date": "2016-05-27T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u5185\u6226\u300cOperation Breaking Terrorism\u300d\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c70\u4eba\u306e\u6b66\u88c5\u52e2\u529b\u304cISIL\u6307\u63ee\u5b98\u306e\u30de\u30d8\u30eb\u30fb\u30a2\u30eb\uff1d\u30d3\u30e9\u30a6\u30a3\u3092\u542b\u3080\u3001Fallujah\u4e0a\u7a7a\u3067\u306e\u7a7a\u7206\u306b\u3088\u308a\u6bba\u5bb3\u3055\u308c\u305f\u3068\u5831\u544a\u3002",
+                    "eng_text": "The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah  airstrike  on Wednesday",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37146,
+                    "date": "2016-05-30T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002\u30d0\u30b0\u30c0\u30c3\u30c9\u5e02\u5185\u5916\u3067\u4e00\u9023\u306e\u653b\u6483\u3067\u5c11\u306a\u304f\u3068\u308224\u4eba\u304c\u6bba\u5bb3\u3055\u308c\u307e\u3057\u305f\u3002ISIL\u304c\u72af\u884c\u3092\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37147,
+                    "date": "2016-05-30T00:00:00Z",
+                    "text": "\u30a4\u30e9\u30af\u6226\u4e89\uff082013\u5e74\u301c2017\u5e74\uff09\u3002 \u30c6\u30ed\u3068\u306e\u6226\u3044\u4f5c\u6226\u3002 \u30a4\u30e9\u30af\u8ecd\u304c\u30d5\u30a1\u30eb\u30fc\u30b8\u30e3\u5e02\u306b\u9032\u5165\u3057\u305f\u3068\u5831\u3058\u3089\u308c\u3066\u3044\u307e\u3059\u3002 \u6570\u4e07\u4eba\u306e\u5e02\u6c11\u304c\u5e02\u5185\u306b\u9589\u3058\u8fbc\u3081\u3089\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Iraqi forces reportedly enter the city of Fallujah. Tens of thousands of civilians are trapped in the city",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 36895,
+                    "date": "2016-05-12T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5371\u6a5f\uff082011\u5e74\uff5e\u73fe\u5728\uff09\u3002\u30a2\u30eb\u30ab\u30a4\u30c0\u306e\u904e\u6fc0\u6d3e\u304c\u30e2\u30ab\u30c3\u30e9\u8fd1\u304f\u3067\u5c11\u306a\u304f\u3068\u308213\u4eba\u306e\u30a4\u30a8\u30e1\u30f3\u653f\u5e9c\u8ecd\u3092\u6bba\u5bb3\u3002",
+                    "eng_text": "Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36934,
+                    "date": "2016-05-15T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5185\u6226\uff082015\u5e74\uff5e\u73fe\u5728\uff09\u3002\u30a4\u30a8\u30e1\u30f3\u306e\u5357\u90e8\u90fd\u5e02\u30e0\u30ab\u30c3\u30e9\u3067\u81ea\u7206\u30c6\u30ed\u304c\u767a\u751f\u3057\u3001\u5c11\u306a\u304f\u3068\u308230\u4eba\u304c\u6b7b\u4ea1\u300170\u4eba\u304c\u8ca0\u50b7\u3059\u308b\u3002\u30a4\u30e9\u30af\u3068\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u304c\u653b\u6483\u3092\u62c5\u5f53\u3057\u305f\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37039,
+                    "date": "2016-05-23T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5185\u6226\uff082015\u5e74\u4ee5\u964d\uff09\u3002\u30a4\u30a8\u30e1\u30f3\u306e\u30a2\u30c7\u30f3\u3067\u306e\u8972\u6483\u3067\u3001\u5c11\u306a\u304f\u3068\u308213\u4eba\u306e\u30a2\u30eb\u30ab\u30a4\u30c0\u5bb9\u7591\u8005\u30682\u4eba\u306e\u5175\u58eb\u304c\u6bba\u5bb3\u3055\u308c\u305f\u3002",
+                    "eng_text": "At least 13 suspected Al-Qaeda militants and two soldiers are killed in a raid in Aden, Yemen",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37137,
+                    "date": "2016-05-29T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5185\u6226\uff082015\u5e74 - \u73fe\u5728\uff09\u3002\u6700\u4f4e69\u4eba\u304c\u30d5\u30fc\u30b7\u6d3e\u3068\u30a4\u30a8\u30e1\u30f3\u5927\u7d71\u9818\u30a2\u30d6\u30c9\u30fb\u30e9\u30d6\u30fb\u30de\u30f3\u30b9\u30fc\u30eb\u30fb\u30cf\u30fc\u30c7\u30a3\u306b\u5fe0\u5b9f\u306a\u653f\u5e9c\u8ecd\u3068\u306e\u6226\u95d8\u3067\u6bba\u5bb3\u3055\u308c\u300125\u4eba\u304c\u8ca0\u50b7\u3057\u305f\u3002",
+                    "eng_text": "At least 69  people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                4,
+                1
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36828,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u306e\u652f\u914d\u653f\u515a\u3067\u3042\u308b\u671d\u9bae\u52b4\u50cd\u515a\u304c40\u5e74\u3076\u308a\u306b\u515a\u5927\u4f1a\u3092\u958b\u50ac\u3059\u308b\u3002\u3053\u306e\u4f1a\u8b70\u306f\u3001\u6700\u8fd1\u306e\u30df\u30b5\u30a4\u30eb\u767a\u5c04\u306b\u5bfe\u3059\u308b\u3088\u308a\u53b3\u3057\u3044\u5236\u88c1\u3092\u53d7\u3051\u3066\u3044\u308b\u56fd\u304c\u76f4\u9762\u3057\u3066\u3044\u308b\u4e2d\u3067\u884c\u308f\u308c\u308b\u3002",
+                    "eng_text": "The Workers' Party of Korea, the ruling party of North Korea, holds its first party congress in nearly 40 years. The meeting comes as the country is facing tougher sanctions for its recent missile launches",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36847,
+                    "date": "2016-05-08T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u306e\u6307\u5c0e\u8005\u3001\u91d1\u6b63\u6069\u306f\u3001\u5317\u671d\u9bae\u306e\u4e3b\u6a29\u304c\u4fb5\u5bb3\u3055\u308c\u308b\u5834\u5408\u3092\u9664\u3044\u3066\u3001\u6838\u5148\u5236\u653b\u6483\u3092\u6392\u9664\u3059\u308b\u3002",
+                    "eng_text": "North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36951,
+                    "date": "2016-05-17T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u5317\u671d\u9bae\u306e\u5f3e\u9053\u30df\u30b5\u30a4\u30eb\u80fd\u529b\u306b\u3064\u3044\u3066\u61f8\u5ff5\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u4e2d\u3001\u97d3\u56fd\u3001\u65e5\u672c\u3001\u30a2\u30e1\u30ea\u30ab\u306f\u6765\u6708\u521d\u3081\u3066\u5171\u540c\u306e\u5bfe\u30df\u30b5\u30a4\u30eb\u6f14\u7fd2\u3092\u884c\u3046\u4e88\u5b9a\u3067\u3042\u308a\u3001\u3053\u308c\u306f\u97d3\u56fd\u56fd\u9632\u90e8\u304c\u767a\u8868\u3057\u305f\u3002\u4e09\u30ab\u56fd\u306f\u300c\u4eee\u60f3\u306e\u5317\u671d\u9bae\u30df\u30b5\u30a4\u30eb\u3092\u691c\u51fa\u3057\u3001\u8ffd\u8de1\u3059\u308b\u300d\u7df4\u7fd2\u3092\u884c\u3046\u4e88\u5b9a\u3060\u3068\u3001\u7701\u5e81\u306e\u95a2\u4fc2\u8005\u304c\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice \"detecting and tracing a hypothetical North Korean missile,\" said a ministry official",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37169,
+                    "date": "2016-05-31T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u5317\u671d\u9bae\u306f\u518d\u3073\u3001\u97d3\u56fd\u3084\u65e5\u672c\u3092\u653b\u6483\u3059\u308b\u80fd\u529b\u3092\u6301\u3064BM25\u30df\u30e5\u30fc\u30b5\u30c0\u30f3\u4e2d\u8ddd\u96e2\u5f3e\u9053\u30df\u30b5\u30a4\u30eb\u306e\u767a\u5c04\u3092\u8a66\u307f\u307e\u3059\u304c\u3001\u5931\u6557\u3057\u307e\u3059\u3002",
+                    "eng_text": "North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 37106,
+                    "date": "2016-05-27T00:00:00Z",
+                    "text": "42\u56de\u76ee\u306eG7\u30b5\u30df\u30c3\u30c8\u3002\u65e5\u672c\u306e\u4e09\u91cd\u770c\u3067\u958b\u50ac\u3055\u308c\u305f42\u56de\u76ee\u306eG7\u30b5\u30df\u30c3\u30c8\u306f\u3001\u30a4\u30ae\u30ea\u30b9\u304c\u6b27\u5dde\u9023\u5408\u3092\u96e2\u8131\u3059\u308b\u3053\u3068\u304c\u300c\u4e16\u754c\u306e\u6210\u9577\u306b\u91cd\u5927\u306a\u8105\u5a01\u3092\u3082\u305f\u3089\u3059\u300d\u3068\u3059\u308b\u5ba3\u8a00\u3067\u7d50\u3073\u3064\u3051\u3089\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "The 42nd G7 summit held at Ise-Shima in Japan's Mie Prefecture concludes with a declaration that the United Kingdom leaving the European Union would pose a \"serious threat to world growth\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37107,
+                    "date": "2016-05-27T00:00:00Z",
+                    "text": "\u7b2c42\u56deG7\u30b5\u30df\u30c3\u30c8\u3002\u30b5\u30df\u30c3\u30c8\u5f8c\u3001\u30d0\u30e9\u30af\u30fb\u30aa\u30d0\u30de\u306f\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u3068\u3057\u3066\u306f\u521d\u3081\u3066\u3001\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u4e2d\u306b\u30a2\u30e1\u30ea\u30ab\u304c\u521d\u3081\u3066\u539f\u5b50\u7206\u5f3e\u3092\u4f7f\u7528\u3057\u305f\u5e83\u5cf6\u3092\u8a2a\u308c\u307e\u3057\u305f\u3002\u30aa\u30d0\u30de\u306f\u3001\u56fd\u3005\u306b\u5bfe\u3057\u3066\u6838\u5175\u5668\u306e\u958b\u767a\u3092\u518d\u8003\u3057\u3001\u6700\u7d42\u7684\u306b\u5ec3\u7d76\u3059\u308b\u3088\u3046\u547c\u3073\u304b\u3051\u307e\u3057\u305f\u3002",
+                    "eng_text": "Following the summit, Barack Obama becomes the first sitting President of the United States to visit Hiroshima, the site of the first use of an atomic bomb by the U.S. during World War II. Obama calls for nations to reconsider the development of nuclear weapons and eventually  eliminate them",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                2,
+                1
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36720,
+                    "date": "2016-05-01T00:00:00Z",
+                    "text": "\u30c8\u30eb\u30b3\u3068ISIL\u306e\u7d1b\u4e89\u3002\u30b7\u30ea\u30a2\u5185\u6226\u306e\u5f71\u97ff\u30022016\u5e74\u3001\u30ac\u30ba\u30a3\u30a2\u30f3\u30c6\u30d7\u7206\u5f3e\u30c6\u30ed\u3002\u5357\u90e8\u30c8\u30eb\u30b3\u306e\u90fd\u5e02\u30ac\u30ba\u30a3\u30a2\u30f3\u30c6\u30d7\u306e\u8b66\u5bdf\u7f72\u306b\u7206\u767a\u304c\u8d77\u304d\u30011\u4eba\u306e\u8b66\u5b98\u304c\u6b7b\u4ea1\u3057\u300113\u4eba\u304c\u8ca0\u50b7\u3002",
+                    "eng_text": "A blast hits a police station in the southern Turkish city of Gaziantep leaving one officer dead and 13 injured",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36761,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30b1\u30c3\u30c8\u653b\u6483\u304c\u30b7\u30ea\u30a2\u306e\u90fd\u5e02\u30a2\u30ec\u30c3\u30dd\u306e\u75c5\u9662\u306b\u547d\u3092\u843d\u3068\u30593\u4eba\u306e\u5e02\u6c11\u3092\u6bba\u5bb3\u3057\u307e\u3057\u305f\u3002\u30b7\u30ea\u30a2\u4eba\u6a29\u76e3\u8996\u56e3\u306f\u3001\u3053\u306e\u653b\u6483\u306f19\u4eba\u306e\u3055\u3089\u306a\u308b\u72a0\u7272\u8005\u3092\u51fa\u3057\u305f\u5927\u898f\u6a21\u306a\u7832\u6483\u306e\u4e00\u90e8\u3060\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "A rocket attack hits a hospital in the Syrian city of Aleppo, killing three civilians. The Syrian Observatory for Human Rights said the attack was part of a bigger shelling that killed 19 more people",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36797,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u4e2d\u90e8\u30b7\u30ea\u30a2\u3067\u4e21\u65b9\u306e\u7206\u767a\u3067\u5c11\u306a\u304f\u3068\u308212\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u591a\u304f\u306e\u4eba\u3005\u304c\u8ca0\u50b7\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "At least 12 people are killed and many are wounded in twin blasts in central Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36798,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u3068\u30c8\u30eb\u30b3\u306e\u56fd\u5883\u8fd1\u304f\u306e\u6226\u4e89\u96e3\u6c11\u30ad\u30e3\u30f3\u30d7\u306b\u5bfe\u3059\u308b\u7a7a\u7206\u3067\u3001\u5973\u6027\u3084\u5b50\u4f9b\u3092\u542b\u308028\u4eba\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "Airstrikes on a camp for war refugees in Syria near the Syria\u2013Turkey border kills 28 people, including women and children",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36820,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30a2\u30ec\u30c3\u30dd\u653b\u52e2\uff082016\u5e745\u6708\uff09\u3002\u30a2\u30ec\u30c3\u30dd\u306e\u5357\u306b\u4f4d\u7f6e\u3059\u308b\u30ab\u30fc\u30f3\u30fb\u30c8\u30a5\u30de\u30f3\u3067\u3001\u30a2\u30eb\uff1d\u30cc\u30b9\u30e9\u6226\u7dda\u3068\u30b7\u30ea\u30a2\u653f\u5e9c\u8ecd\u306e\u9593\u3067\u306e\u885d\u7a81\u306b\u3088\u308a72\u4eba\u4ee5\u4e0a\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36834,
+                    "date": "2016-05-07T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30a2\u30ec\u30c3\u30dd\u653b\u52e2\uff082016\u5e745\u6708\uff09\u3002\u30b7\u30ea\u30a2\u306e\u30a2\u30ec\u30c3\u30dd\u8fd1\u304f\u306e\u6751\u3067\u3001\u30a4\u30b9\u30e9\u30e0\u904e\u6fc0\u6d3e\u3068\u306e\u6226\u95d8\u3067\u5c11\u306a\u304f\u3068\u308213\u4eba\u306e\u30a4\u30e9\u30f3\u5175\u58eb\u304c\u6b7b\u4ea1\u3002\u3053\u308c\u306f\u7d1b\u4e89\u304c\u59cb\u307e\u3063\u3066\u4ee5\u6765\u3001\u30a4\u30e9\u30f3\u4eba\u306b\u3068\u3063\u3066\u6700\u5927\u306e\u4e00\u65e5\u306e\u72a0\u7272\u8005\u6570\u3068\u306a\u3063\u305f\u3002",
+                    "eng_text": "At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36844,
+                    "date": "2016-05-08T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u30022015\u5e747\u670813\u65e5\u4ee5\u6765\u3001\u30a2\u30eb\u30fb\u30cc\u30b9\u30e9\u6226\u7dda\u306b\u3088\u3063\u3066\u30a2\u30ec\u30c3\u30dd\u5468\u8fba\u3067\u8a98\u62d0\u3055\u308c\u3001\u4eba\u8cea\u306b\u3055\u308c\u3066\u3044\u305f3\u4eba\u306e\u30b9\u30da\u30a4\u30f3\u4eba\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u89e3\u653e\u3055\u308c\u305f\u3002",
+                    "eng_text": "Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36900,
+                    "date": "2016-05-12T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30c8\u30eb\u30b3\u5927\u7d71\u9818\u30ec\u30b8\u30a7\u30c3\u30d7\u30fb\u30bf\u30a4\u30a4\u30c3\u30d7\u30fb\u30a8\u30eb\u30c9\u30a2\u30f3\u306f\u3001\u30b7\u30ea\u30a2\u5185\u306b\u304a\u3051\u308b\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u3078\u306e\u4e00\u65b9\u7684\u306a\u884c\u52d5\u3092\u8105\u8feb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Turkish president Recep Tayyip Erdo\u011fan threatens unilateral action against Islamic State of Iraq and Syria inside Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36910,
+                    "date": "2016-05-13T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30d2\u30ba\u30dc\u30e9\u306f\u3001\u30b7\u30ea\u30a2\u3067\u306e\u8ecd\u4e8b\u4f5c\u6226\u3092\u62c5\u5f53\u3057\u3066\u3044\u305f\u30d2\u30ba\u30dc\u30e9\u306e\u6700\u9ad8\u5e79\u90e8\u306e\u4e00\u4eba\u3067\u3042\u308b\u30e0\u30b9\u30bf\u30d5\u30a1\u30fb\u30d0\u30c9\u30ec\u30c7\u30a3\u30f3\u304c\u3001\u30b7\u30ea\u30a2\u306e\u53cd\u653f\u5e9c\u52e2\u529b\u306b\u3088\u308b\u7832\u6483\u3067\u6b7b\u4ea1\u3057\u305f\u3068\u767a\u8868\u3057\u305f\u3002",
+                    "eng_text": "Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials  believed  responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36923,
+                    "date": "2016-05-14T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u7c73\u56fd\u306e\u5f53\u5c40\u8005\u306f\u3001\u30a4\u30e9\u30af\u3068\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd(ISIL)\u304c\u81ea\u5df1\u5ba3\u8a00\u3057\u305f\u9996\u90fd\u30a2\u30eb\uff1d\u30e9\u30c3\u30ab\u3067\u975e\u5e38\u4e8b\u614b\u3092\u5ba3\u8a00\u3057\u305f\u3068\u4fe1\u3058\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. officials believe the Islamic State of Iraq and the Levant has declared a state of emergency in its self-declared capital, Al-Raqqah",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36969,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u653f\u5e9c\u8ecd\u3084\u30ec\u30d0\u30ce\u30f3\u306e\u30d2\u30ba\u30dc\u30e9\u3068\u3044\u3063\u305f\u540c\u76df\u56fd\u304c\u3001\u30c0\u30de\u30b9\u30ab\u30b9\u5357\u6771\u90e8\u306e\u5927\u898f\u6a21\u306a\u5730\u57df\u3092\u596a\u9084\u3057\u3001\u30c7\u30a4\u30eb\u30fb\u30a2\u30eb\u30fb\u30a2\u30b5\u30d5\u30a3\u30fc\u30eb\u3068\u3044\u3046\u91cd\u8981\u306a\u753a\u3082\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36970,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30c0\u30de\u30b9\u30ab\u30b9\u8fd1\u90ca\u306e\u30b0\u30fc\u30bf\u3067\u30a2\u30eb\u30ab\u30a4\u30c0\u306e\u30cc\u30b9\u30e9\u6226\u7dda\u7387\u3044\u308b\u30e9\u30a4\u30d0\u30eb\u6d3e\u95a5\u3068\u30b8\u30e3\u30a4\u30b7\u30e5\u30fb\u30a2\u30eb\u30fb\u30a4\u30b9\u30e9\u30fc\u30e0\u3068\u306e\u6226\u95d8\u304c50\u4eba\u4ee5\u4e0a\u306e\u6b7b\u8005\u3092\u51fa\u3059\u3002",
+                    "eng_text": "Fighting between Jaysh al-Islam and rival factions led by al-Qaeda\u2019s Nusra Front in Ghouta, near Damascus, leaves more than 50 people dead",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37037,
+                    "date": "2016-05-23T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30a4\u30bf\u30fc\u306b\u3088\u308b\u3068\u3001\u30b7\u30ea\u30a2\u306e\u30b8\u30e3\u30d6\u30ec\u30d5\u3068\u30bf\u30eb\u30c8\u30a5\u30b9\u306e\u90fd\u5e02\u3067\u3001\u30ed\u30b7\u30a2\u8ecd\u57fa\u5730\u304c\u3042\u308b\u653f\u5e9c\u7ba1\u7406\u5730\u57df\u3067\u3001\u4e00\u9023\u306e\u81ea\u7206\u30c6\u30ed\u3068\u81ea\u7206\u653b\u6483\u3067\u3001\u7d04150\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u5c11\u306a\u304f\u3068\u3082200\u4eba\u304c\u8ca0\u50b7\u3057\u3066\u3044\u307e\u3059\u3002\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u5bb6\u96c6\u56e3\u304c\u8cac\u4efb\u3092\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Reuters reports nearly 150 people are killed and  at least 200 wounded in a series of car bomb and suicide attacks in the Syrian cities of Jableh and Tartus in government-controlled territory that hosts Russian military bases. The Islamic State of Iraq and the Levant group claims responsibility",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37065,
+                    "date": "2016-05-24T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b9\u30c8\u30e9\u30c8\u30d5\u30a9\u30a2\u306e\u65b0\u3057\u3044\u885b\u661f\u753b\u50cf\u306b\u3088\u308b\u3068\u3001\u5148\u9031ISIL\u306b\u3088\u3063\u3066\u884c\u308f\u308c\u305f\u5831\u544a\u3055\u308c\u305f\u653b\u6483\u306e\u5f8c\u3001\u30c6\u30a3\u30a2\u30b9\u8ecd\u4e8b\u57fa\u5730\u30674\u6a5f\u306e\u30ed\u30b7\u30a2\u306e\u653b\u6483\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306820\u53f0\u306e\u30c8\u30e9\u30c3\u30af\u304c\u7834\u58ca\u3055\u308c\u305f\u3088\u3046\u3067\u3059\u3002",
+                    "eng_text": "New satellite imagery from Stratfor appears to reveal the destruction of four Russian attack helicopters and 20 lorries at the Tiyas military airbase after a reported attack which was conducted last week by the ISIL",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37162,
+                    "date": "2016-05-31T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u306e\u30a4\u30c9\u30ea\u30d6\u3067\u306e\u591c\u9593\u306e\u7a7a\u7206\u3067\u5c11\u306a\u304f\u3068\u308223\u4eba\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "At least 23 people are killed in  overnight air strikes in Idlib, Syria",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 37064,
+                    "date": "2016-05-24T00:00:00Z",
+                    "text": "\u30af\u30eb\u30c9\u4eba-\u30c8\u30eb\u30b3\u306e\u7d1b\u4e89\uff082015\u5e74\u301c\u73fe\u5728\uff09\u3002\u30c8\u30eb\u30b3\u6771\u90e8\u306e\u30f4\u30a1\u30f3\u5dde\u3067\u3001\u5c11\u306a\u304f\u3068\u30826\u4eba\u306e\u30c8\u30eb\u30b3\u5175\u58eb\u304cPKK\u306e\u653b\u6483\u3067\u6bba\u5bb3\u3055\u308c\u30014\u4eba\u304c\u8ca0\u50b7\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "At least six Turkish soldiers are killed and four others are wounded in a PKK attack in Turkey's eastern Van Province",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37149,
+                    "date": "2016-05-30T00:00:00Z",
+                    "text": "\u30af\u30eb\u30c9\u301c\u30c8\u30eb\u30b3\u306e\u5bfe\u7acb\uff082015\u5e74\u301c\u73fe\u5728\uff09\u3002\u30c8\u30eb\u30b3\u306e\u30d0\u30f3\u5dde\u3067\u3001\u30af\u30eb\u30c9\u52b4\u50cd\u8005\u515a\uff08PKK\uff09\u306b\u3088\u308b\u7206\u5f3e\u653b\u6483\u30672\u4eba\u306e\u30c8\u30eb\u30b3\u8b66\u5bdf\u5b98\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "Two Turkish police officers are killed in a suspected Kurdistan Workers\u2019 Party (PKK) bomb attack in the eastern province of Van",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                7,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36735,
+                    "date": "2016-05-01T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5168\u571f\u3067\u79fb\u6c11\u3084\u52b4\u50cd\u8005\u306e\u6a29\u5229\u3001\u5927\u7d71\u9818\u9078\u6319\u904b\u52d5\u306e\u6587\u8a00\u306e\u793c\u5100\u6b63\u3057\u3055\u306e\u305f\u3081\u306b5\u67081\u65e5\u306e\u30c7\u30e2\u304c\u8a08\u753b\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u306e\u4e3b\u50ac\u8005\u3084\u5f53\u5c40\u306f\u3001\u4eca\u9031\u306e\u5927\u7d71\u9818\u9078\u6319\u904b\u52d5\u3078\u306e\u6297\u8b70\u30c7\u30e2\u306b\u95a2\u9023\u3057\u305f\u66b4\u529b\u884c\u70ba\u3092\u8003\u616e\u3057\u3001\u53c2\u52a0\u8005\u306b\u51b7\u9759\u3067\u3044\u3066\u304f\u308c\u308b\u3088\u3046\u547c\u3073\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Thousands  are set for May Day demonstrations across the United States   for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 36779,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3067\u3001\u30d0\u30fc\u30e2\u30f3\u30c8\u5dde\u9078\u51fa\u306e\u4e0a\u9662\u8b70\u54e1\u3067\u3042\u308b\u30d0\u30fc\u30cb\u30fc\u30fb\u30b5\u30f3\u30c0\u30fc\u30b9\u304c\u3001\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u3067\u306e\u6c11\u4e3b\u515a\u4e88\u5099\u9078\u6319\u306b\u52dd\u5229\u3057\u307e\u3059\u3002",
+                    "eng_text": "Vermont Senator Bernie Sanders wins the Indiana Democratic primary",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36776,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u30022016\u5e74\u306e\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u3067\u884c\u308f\u308c\u305f\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u306e\u6709\u6a29\u8005\u306f\u3001\u6c11\u4e3b\u515a\u3068\u5171\u548c\u515a\u306e\u5927\u7d71\u9818\u4e88\u5099\u9078\u6319\u3067\u6295\u7968\u3059\u308b\u305f\u3081\u306b\u6295\u7968\u6240\u306b\u5411\u304b\u3044\u307e\u3059\u3002",
+                    "eng_text": "Voters in the U.S. state of Indiana head to the polls to vote in Democratic and Republican presidential primaries",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36777,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u306e\u4e2d\u3067\u3001\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u306e\u5171\u548c\u515a\u4e88\u5099\u9078\u6319\u3067\u306f\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u304c\u52dd\u5229\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Donald Trump wins the Indiana Republican Primary",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36794,
+                    "date": "2016-05-04T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30aa\u30cf\u30a4\u30aa\u5dde\u77e5\u4e8b\u306e\u30b8\u30e7\u30f3\u30fb\u30ab\u30b7\u30c3\u30af\u304c\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u3092\u4e2d\u6b62\u3059\u308b\u3002\u5f7c\u306f\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306b\u5bfe\u6297\u3059\u308b\u5171\u548c\u515a\u5927\u7d71\u9818\u5019\u88dc\u3068\u3057\u3066\u6700\u5f8c\u306e\u30c1\u30e3\u30ec\u30f3\u30b8\u30e3\u30fc\u3060\u3063\u305f\u3002",
+                    "eng_text": "Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36818,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "2016\u5e74\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30c6\u30ad\u30b5\u30b9\u5dde\u306e\u5143\u77e5\u4e8b\u3067\u5171\u548c\u515a\u5927\u7d71\u9818\u5019\u88dc\u3060\u3063\u305f\u30ea\u30c3\u30af\u30fb\u30da\u30ea\u30fc\u304c\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u3092\u5927\u7d71\u9818\u5019\u88dc\u3068\u3057\u3066\u652f\u6301\u3057\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u526f\u5927\u7d71\u9818\u5019\u88dc\u3068\u3057\u3066\u306e\u53ef\u80fd\u6027\u306b\u958b\u304b\u308c\u3066\u3044\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36876,
+                    "date": "2016-05-10T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3067\u306f\u3001\u30a6\u30a7\u30b9\u30c8\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde\u304a\u3088\u3073\u30cd\u30d6\u30e9\u30b9\u30ab\u5dde\u3067\u306e\u5927\u7d71\u9818\u9078\u6319\u304c\u884c\u308f\u308c\u307e\u3057\u305f\u3002\u30c8\u30e9\u30f3\u30d7\u6c0f\u306f\u30a6\u30a7\u30b9\u30c8\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde\u306e\u5171\u548c\u515a\u4e88\u5099\u9078\u3067\u52dd\u5229\u3059\u308b\u3068\u4e88\u6e2c\u3055\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u30d0\u30fc\u30cb\u30fc\u30fb\u30b5\u30f3\u30c0\u30fc\u30b9\u6c0f\u306f\u6c11\u4e3b\u515a\u4e88\u5099\u9078\u3067\u52dd\u5229\u3059\u308b\u3068\u4e88\u6e2c\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Trump is projected as the winner in the Republican primary in West Virginia while Bernie Sanders is projected to win the Democratic Primary",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36875,
+                    "date": "2016-05-10T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u7c73\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30a6\u30a7\u30b9\u30c8\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde\u30012016\u5e74\u306e\u7c73\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30cd\u30d6\u30e9\u30b9\u30ab\u5dde\u30012016\u5e74\u306e\u7c73\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30a6\u30a7\u30b9\u30c8\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde\u306e\u6709\u6a29\u8005\u306f\u3001\u6c11\u4e3b\u515a\u3068\u5171\u548c\u515a\u306e\u5927\u7d71\u9818\u4e88\u5099\u9078\u6319\u3067\u6295\u7968\u3059\u308b\u305f\u3081\u306b\u6295\u7968\u6240\u306b\u5411\u304b\u3044\u307e\u3059\u3002\u30cd\u30d6\u30e9\u30b9\u30ab\u5dde\u306e\u6709\u6a29\u8005\u306f\u3001\u5171\u548c\u515a\u306e\u5927\u7d71\u9818\u4e88\u5099\u9078\u6319\u3067\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u304c\u6307\u540d\u3092\u78ba\u4fdd\u3059\u308b\u305f\u3081\u306b169\u4eba\u306e\u4ee3\u8b70\u54e1\u304c\u4e0d\u8db3\u3057\u3066\u3044\u308b\u72b6\u6cc1\u3067\u6295\u7968\u3057\u307e\u3059\u3002",
+                    "eng_text": "Voters in the state of West Virginia head to the polls to vote in the Democratic  and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36904,
+                    "date": "2016-05-12T00:00:00Z",
+                    "text": "\u30e1\u30ea\u30fc\u30e9\u30f3\u30c9\u5dde\u30dc\u30eb\u30c1\u30e2\u30a2\u5e02\u306e2016\u5e74\u306e\u4e88\u5099\u9078\u6319\u3067\u3001\u5dde\u306e\u9078\u6319\u62c5\u5f53\u8005\u306f\u3001\u4f8b\u3048\u3070\u3001\u6709\u6a29\u8005\u306e\u6570\u3088\u308a\u3082\u4f55\u767e\u3082\u591a\u3044\u6295\u7968\u304c\u884c\u308f\u308c\u305f\u305f\u3081\u30012016\u5e744\u670826\u65e5\u306e\u30dc\u30eb\u30c1\u30e2\u30a2\u5e02\u306e\u4e88\u5099\u9078\u6319\u306e\u7d50\u679c\u3092\u7121\u52b9\u306b\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Maryland state elections officials decertify the results of Baltimore\u2019s April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36953,
+                    "date": "2016-05-17T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30aa\u30ec\u30b4\u30f3\u5dde\u306e\u6709\u6a29\u8005\u306f\u3001\u90f5\u9001\u6295\u7968\u7528\u7d19\u3092\u4f7f\u3063\u3066\u6c11\u4e3b\u515a\u3068\u5171\u548c\u515a\u306e\u4e88\u5099\u9078\u6319\u306e\u6295\u7968\u3092\u884c\u3063\u305f\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u304c\u5171\u548c\u515a\u306e\u5019\u88dc\u3068\u3057\u3066\u52dd\u8005\u3068\u3057\u3066\u4e88\u60f3\u3055\u308c\u3066\u3044\u308b\u4e00\u65b9\u3001\u30d0\u30fc\u30cb\u30fc\u30fb\u30b5\u30f3\u30c0\u30fc\u30b9\u304c\u6c11\u4e3b\u515a\u306e\u7af6\u4e89\u3067\u52dd\u5229\u3059\u308b\u3068\u4e88\u6e2c\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36954,
+                    "date": "2016-05-17T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u5dde\u306e\u6709\u6a29\u8005\u304c\u6c11\u4e3b\u515a\u4e88\u5099\u9078\u6319\u306e\u305f\u3081\u306b\u6295\u7968\u3057\u3001\u30d2\u30e9\u30ea\u30fc\u30fb\u30af\u30ea\u30f3\u30c8\u30f3\u3068\u30d0\u30fc\u30cb\u30fc\u30fb\u30b5\u30f3\u30c0\u30fc\u30b9\u304c\u540c\u3058\u6570\u306e\u4ee3\u8b70\u54e1\u3092\u7372\u5f97\u3057\u3001\u308f\u305a\u304b\u306b\u30af\u30ea\u30f3\u30c8\u30f3\u304c\u7dcf\u5f97\u7968\u6570\u3067\u52dd\u5229\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Voters in the American state of Kentucky go to the polls for a Democratic Party primary with Hillary Clinton and Bernie Sanders winning an equal number of delegates and Clinton winning the popular vote narrowly",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37115,
+                    "date": "2016-05-27T00:00:00Z",
+                    "text": "\u7c73\u56fd\u5927\u7d71\u9818\u306e\u5171\u548c\u515a\u5019\u88dc\u3067\u3042\u308b\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u6c0f\u306f\u3001\u7c73\u56fd\u4e0a\u9662\u8b70\u54e1\u306e\u30de\u30eb\u30b3\u30fb\u30eb\u30d3\u30aa\u6c0f\u306b\u518d\u9078\u3092\u7acb\u5019\u88dc\u3059\u308b\u3088\u3046\u4fc3\u3057\u3066\u3044\u307e\u3059\u3002\u30eb\u30d3\u30aa\u6c0f\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u6c0f\u304b\u3089\u306e\u4f9d\u983c\u304c\u3042\u308c\u3070\u3001\u5171\u548c\u515a\u5927\u4f1a\u3067\u30c8\u30e9\u30f3\u30d7\u6c0f\u3092\u652f\u6301\u3059\u308b\u610f\u5411\u3092\u8868\u660e\u3057\u3066\u3044\u307e\u3057\u305f\u3002",
+                    "eng_text": "Republican candidate for U.S. President Donald Trump urges U.S. senator Marco Rubio to run for re-election after Rubio stated he would speak on Trump's behalf at the Republican Convention, if asked",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37131,
+                    "date": "2016-05-28T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u9078\u6319\u3002\u30ef\u30b7\u30f3\u30c8\u30f3\u30fb\u30dd\u30b9\u30c8\u304c\u8981\u8acb\u3057\u305f\u66f8\u985e\u3092\u3001\u9023\u90a6\u5730\u88c1\u5224\u4e8b\u30b4\u30f3\u30b6\u30ed\u30fb\u30af\u30ea\u30a8\u30eb\u304c\u958b\u793a\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u3089\u306e\u66f8\u985e\u306f\u3001\u6c11\u4e8b\u8a34\u8a1f\u4e2d\u306e\u30c8\u30e9\u30f3\u30d7\u5927\u5b66\u306b\u95a2\u9023\u3059\u308b\u3082\u306e\u3067\u3001\u5171\u548c\u515a\u306e\u5927\u7d71\u9818\u5019\u88dc\u3067\u3042\u308b\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306e\u5143\u306e\u30d3\u30b8\u30cd\u30b9\u3068\u95a2\u4fc2\u304c\u3042\u308a\u307e\u3059\u3002\u5224\u4e8b\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u5019\u88dc\u8005\u3068\u3057\u3066\u306e\u7acb\u5019\u88dc\u306b\u3088\u3063\u3066\u3053\u308c\u3089\u306e\u4e8b\u4ef6\u306b\u5bfe\u3059\u308b\u95a2\u5fc3\u304c\u9ad8\u307e\u3063\u305f\u3053\u3068\u3092\u6307\u6458\u3057\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u30b3\u30e1\u30f3\u30c8\u304c\u300c\u3053\u308c\u3089\u306e\u88c1\u5224\u624b\u7d9a\u304d\u306e\u4fe1\u983c\u6027\u3092\u554f\u984c\u306b\u3057\u3066\u3044\u308b\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Federal District Judge Gonzalo Curiel unseals documents requested by The Washington Post that had been filed with the court in connection  with pending civil cases against Trump University, a former business of the Republican Party's presumptive presidential nominee Donald Trump. The judge noted that Trump's candidacy has increased interest in these cases, and that Trump's comments \"... (have) placed the integrity of these court proceedings at issue",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37174,
+                    "date": "2016-05-31T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab2016\u5e74\u5927\u7d71\u9818\u9078\u6319\u3002 \u516c\u7d04\u5927\u7d71\u9818\u5019\u88dc\u306e\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u6c0f\u306b\u4ee3\u308f\u308b\u4fdd\u5b88\u6d3e\u6307\u5c0e\u8005\u305f\u3061\u306f\u3001\u30c6\u30cd\u30b7\u30fc\u5dde\u306e\u5f01\u8b77\u58eb\u3067\u3042\u308a\u3001National Review\u306e\u30e9\u30a4\u30bf\u30fc\u3067\u3042\u308b\u30c7\u30a4\u30d3\u30c3\u30c9\u30fb\u30d5\u30ec\u30f3\u30c1\u6c0f\u306b2016\u5e74\u306e\u5927\u7d71\u9818\u9078\u6319\u306b\u72ec\u7acb\u5019\u88dc\u3068\u3057\u3066\u7acb\u5019\u88dc\u3059\u308b\u3088\u3046\u8981\u8acb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and National Review writer David French to enter the 2016 presidential race as an independent candidate",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36734,
+                    "date": "2016-05-01T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u7dcf\u9078\u6319\u3067\u3001CPP-NPA-NDF\u8702\u8d77\u304c\u8d77\u304d\u307e\u3057\u305f\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u30b2\u30ea\u30e9\u5171\u7523\u515a\u306e\u6307\u5c0e\u8005\u3067\u3042\u308b\u30db\u30bb\u30fb\u30de\u30ea\u30a2\u30fb\u30b7\u30bd\u30f3\u306f\u3001\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u5927\u7d71\u9818\u306e\u4efb\u671f\u306f\u300c\u56fd\u5bb6\u7d71\u4e00\u306b\u826f\u3044\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is \"good for national unity",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36765,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u91d1\u878d\u5e02\u5834\u306f\u5f15\u304d\u7d9a\u304d\u82e6\u5883\u306b\u3042\u308a\u3001\u30ed\u30c9\u30ea\u30b4\u30fb \u30c9\u30a5\u30c6\u30eb\u30c6\u304c\u4eca\u5f8c\u306e\u9078\u6319\u306b\u52dd\u3064\u53ef\u80fd\u6027\u306b\u3064\u3044\u3066\u306e\u61b6\u6e2c\u304c\u5e83\u304c\u3063\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36769,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "\u30a4\u30b0\u30ec\u30b7\u30a2\u30fb\u30cb\u30fb\u30af\u30ea\u30b9\u30c8\u6559\u56e3\u306f\u3001\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u652f\u6301\u8005\u3092\u63d0\u8a34\u3057\u3066\u304a\u308a\u3001\u305d\u306e\u6559\u56e3\u304b\u3089\u306e\u507d\u306e\u652f\u6301\u3092\u5e83\u3081\u305f\u3068\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The sect Iglesia ni Cristo is suing supporters of Rodrigo Duterte for spreading a fake endorsement by the denomination",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36814,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u7dcf\u9078\u6319\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u4e0a\u9662\u8b70\u54e1\u3067\u5143\u30af\u30fc\u30c7\u30bf\u30fc\u8a08\u753b\u8005\u306e\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c8\u30ea\u30ea\u30a2\u30cd\u30b9\u6c0f\u306f\u3001\u30ed\u30c9\u30ea\u30b4\u30fb\u30c7\u30e5\u30c6\u30eb\u30c6\u6c0f\u304c\u5927\u7d71\u9818\u9078\u6319\u306b\u52dd\u5229\u3057\u305f\u5834\u5408\u3001\u30af\u30fc\u30c7\u30bf\u30fc\u304c\u8d77\u3053\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Philippine senator and former coup plotter Antonio Trillanes warns that a coup d'etat may occur if Rodrigo Duterte wins the presidential elections",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36816,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u7dcf\u9078\u6319\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u5927\u7d71\u9818\u5019\u88dc\u3067\u3042\u308b\u30b0\u30ec\u30fc\u30b9\u30fb\u30dd\u30fc\u304c\u3001\u5f7c\u5973\u306e\u5168\u8ca1\u7523\u3001\u8ca0\u50b5\u3001\u7d14\u8cc7\u7523\u4fa1\u5024\u306e\u58f0\u660e\u3092\u767a\u8868\u3057\u307e\u3059\u3002",
+                    "eng_text": "Philippine presidential candidate Grace Poe releases her full statement of assets, liabilities, and net worth",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36823,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u526f\u5927\u7d71\u9818\u5019\u88dc\u306e\u30ec\u30cb\u30fb\u30ed\u30d6\u30ec\u30c9\u306f\u3001\u5927\u7d71\u9818\u5019\u88dc\u30b0\u30ec\u30fc\u30b9\u30fb\u30dd\u30fc\u3068\u306e\u300c\u30dd\u30fc\u30ed\u30d6\u30ec\u30c9\u30fb\u30bf\u30f3\u30c7\u30e0\u300d\u306b\u652f\u6301\u3092\u611f\u8b1d\u3057\u307e\u3059\u304c\u3001\u30e9\u30f3\u30cb\u30f3\u30b0\u30e1\u30a4\u30c8\u306e\u30de\u30fc\u30fb\u30ed\u30af\u30b5\u30b9\u306b\u5fe0\u5b9f\u3067\u3042\u308b\u3068\u5f37\u8abf\u3057\u307e\u3059\u3002",
+                    "eng_text": "Vice presidential candidate Leni Robredo thanks supporters for the \"Poe-Robredo tandem\" pairing her with presidential candidate Grace Poe but insists she is loyal to her running-mate Mar Roxas",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36825,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u30b0\u30ec\u30a4\u30b9\u30fb\u30dd\u30fc\u306f\u3001\u30de\u30eb\u30fb\u30ed\u30cf\u30b9\u306e\u7533\u3057\u51fa\u3092\u62d2\u5426\u3057\u3001\u64a4\u9000\u3059\u308b\u3064\u3082\u308a\u306f\u306a\u3044\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30b8\u30e7\u30b8\u30e7\u30de\u30fc\u30eb\u30fb\u30d3\u30ca\u30a4\u3082\u3001\u64a4\u9000\u3059\u308b\u3088\u3046\u306b\u6c42\u3081\u3089\u308c\u305f\u304c\u62d2\u5426\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Grace Poe rejects Mar Roxas' offer saying she is not willing to withdraw. Jejomar Binay also rejects calls for him to withdraw",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36824,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002Mar Roxas\u3068\u73fe\u8077\u5927\u7d71\u9818\u30d9\u30cb\u30b0\u30ce\u30fb\u30a2\u30ad\u30ceIII\u306f\u3001\u653f\u6cbb\u7684\u30e9\u30a4\u30d0\u30eb\u3067\u3042\u308bJejomar Binay\u3001Miriam Defensor Santiago\u3001\u305d\u3057\u3066Grace Poe\u306b\u5bfe\u3057\u3001\u56e3\u7d50\u3057\u3066\u9023\u5408\u3092\u7d44\u307f\u3001\u4eca\u5f8c\u306e\u9078\u6319\u3067\u7acb\u3061\u5411\u304b\u3046\u3088\u3046\u547c\u3073\u304b\u3051\u308b\u3002",
+                    "eng_text": "Mar Roxas and current President Benigno Aquino III call on political rivals Jejomar Binay, Miriam Defensor Santiago, and Grace Poe to unite and form a unity coalition in the upcoming elections",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36860,
+                    "date": "2016-05-09T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u6709\u6a29\u8005\u306f\u3001\u30c0\u30d0\u30aa\u5e02\u5e02\u9577\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u304c\u5727\u5012\u7684\u306a\u30ea\u30fc\u30c9\u3092\u793a\u3057\u3066\u3044\u308b\u3068\u3055\u308c\u308b\u5927\u7d71\u9818\u9078\u6319\u306e\u305f\u3081\u306b\u6295\u7968\u306b\u884c\u304f\u3002",
+                    "eng_text": "Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36874,
+                    "date": "2016-05-10T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002 \u30ed\u30c9\u30ea\u30b4\u30fb\u30c7\u30e5\u30c6\u30eb\u30c6\u306f\u5927\u7d71\u9818\u9078\u6319\u3067\u5f15\u304d\u7d9a\u304d\u30ea\u30fc\u30c9\u3092\u7d9a\u3051\u3001\u4e00\u65b9\u3067\u30ec\u30cb\u30fb\u30ed\u30d6\u30ec\u30c9\u306f\u30f4\u30a1\u30a4\u30b9\u5927\u7d71\u9818\u9078\u6319\u3067\u50c5\u304b\u306a\u5dee\u3067\u30dc\u30f3\u30dc\u30f3\u30fb\u30de\u30eb\u30b3\u30b9\u3092\u30ea\u30fc\u30c9\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36936,
+                    "date": "2016-05-15T00:00:00Z",
+                    "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u306b\u304a\u3051\u308b\u6b7b\u5211\u5236\u5ea6\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u6b21\u671f\u5927\u7d71\u9818\u3067\u3042\u308b\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u6c0f\u306f\u3001\u6b7b\u5211\u3092\u5fa9\u6d3b\u3055\u305b\u308b\u3053\u3068\u3092\u8a93\u3044\u3001\u7d44\u7e54\u72af\u7f6a\u8005\u3084\u902e\u6355\u306b\u62b5\u6297\u3059\u308b\u4eba\u3005\u306b\u5bfe\u3057\u3066\u8b66\u5bdf\u306b\u5c04\u6bba\u3059\u308b\u6a29\u9650\u3092\u4e0e\u3048\u308b\u3053\u3068\u3092\u7d04\u675f\u3057\u3066\u3044\u307e\u3059\u3002\u30c9\u30a5\u30c6\u30eb\u30c6\u6c0f\u306f2016\u5e746\u670830\u65e5\u306b\u5c31\u4efb\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37113,
+                    "date": "2016-05-27T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u304c\u5927\u7d71\u9818\u306b\u3001\u30ec\u30cb\u30fb\u30ed\u30d6\u30ec\u30c9\u304c\u526f\u5927\u7d71\u9818\u306b\u6b63\u5f0f\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 36744,
+                    "date": "2016-05-02T00:00:00Z",
+                    "text": "\u30d5\u30a3\u30ea\u30d4\u30f3\u682a\u5f0f\u5e02\u5834\u306f\u3001\u8fd1\u65e5\u884c\u308f\u308c\u308b\u9078\u6319\u306b\u5bfe\u3059\u308b\u4e0d\u78ba\u5b9f\u6027\u306e\u4e2d\u3067\u30012\u6708\u4ee5\u6765\u6700\u5927\u306e\u4e0b\u843d\u3092\u7d4c\u9a13\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Philippines stock market suffers the biggest drop since February amid uncertainty about the upcoming elections",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36801,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u30fb\u30da\u30bd\u306f0.3\uff05\u4e0b\u843d\u3057\u30013\u9031\u9023\u7d9a\u306e\u4e0b\u843d\u3092\u7d9a\u3051\u305f\u3002",
+                    "eng_text": "The Philippine peso fell 0.3% continuing its drop three weeks in a row",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36802,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "2016\u5e74\u306e\u30d5\u30a3\u30ea\u30d4\u30f3\u5927\u7d71\u9818\u9078\u6319\u76f4\u524d\u3001\u30de\u30cb\u30e9\u306e\u682a\u5f0f\u5e02\u5834\u306f1.2\uff05\u4e0b\u843d\u3057\u3001\u6708\u66dc\u65e5\u306e\u5927\u7d71\u9818\u9078\u6319\u524d\u306b2\u304b\u6708\u3076\u308a\u306e\u6700\u4f4e\u6c34\u6e96\u3092\u8a18\u9332\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "The stock exchange in Manila slid 1.2%, set for its lowest close in two months, before Monday's presidential elections",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36774,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "\u30cf\u30f3\u30ac\u30ea\u30fc\u653f\u5e9c\u306f\u3001\u5c06\u6765\u306e\u6b27\u5dde\u9023\u5408\u306b\u3088\u308b\u96e3\u6c11\u306e\u518d\u5b9a\u4f4f\u306e\u5272\u308a\u5f53\u3066\u306b\u95a2\u3059\u308b\u56fd\u6c11\u6295\u7968\u3092\u884c\u3046\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u6295\u7968\u306f\u4eca\u5e74\u306e9\u6708\u304b10\u6708\u306b\u884c\u308f\u308c\u308b\u4e88\u5b9a\u3067\u300150\uff05\u4ee5\u4e0a\u306e\u6295\u7968\u7387\u304c\u3042\u308c\u3070\u6709\u52b9\u3068\u3055\u308c\u307e\u3059\u3002",
+                    "eng_text": "The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36791,
+                    "date": "2016-05-04T00:00:00Z",
+                    "text": "\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u79fb\u6c11\u5371\u6a5f\u3068EU-\u30c8\u30eb\u30b3\u95a2\u4fc2\u3002\u6b27\u5dde\u9023\u5408\u306f\u3001\u30c8\u30eb\u30b3\u5e02\u6c11\u306b\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u30b7\u30a7\u30f3\u30b2\u30f3\u570f\u5185\u3067\u306e\u30d3\u30b6\u514d\u9664\u3092\u63d0\u6848\u3057\u3001\u52a0\u76df\u56fd\u3068EU\u306e\u8b70\u54e1\u306b6\u670830\u65e5\u307e\u3067\u306b\u3053\u306e\u63d0\u6848\u3092\u627f\u8a8d\u3059\u308b\u3088\u3046\u547c\u3073\u304b\u3051\u3066\u3044\u307e\u3059\u3002EU\u306f\u3001\u30c8\u30eb\u30b3\u304c\u6b27\u5dde\u306b\u5230\u9054\u3059\u308b\u96e3\u6c11\u306e\u6d41\u5165\u3092\u963b\u6b62\u3059\u308b\u53d6\u308a\u7d44\u307f\u3068\u5f15\u304d\u63db\u3048\u306b\u5408\u610f\u306b\u542b\u307e\u308c\u308b72\u306e\u57fa\u6e96\u306e\u3046\u30615\u3064\u3092\u9664\u3044\u305f\u5168\u3066\u3092\u6e80\u305f\u3057\u3066\u3044\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u30d3\u30b6\u53d6\u5f15\u306b\u306f\u3001\u6b27\u5dde\u8b70\u4f1a\u304b\u3089\u306e\u627f\u8a8d\u3082\u5fc5\u8981\u3067\u3059\u3002",
+                    "eng_text": "The European Union proposes visa-free travel for Turkish citizens within Europe's Schengen Area and invites member states and EU lawmakers to endorse the move by June 30.  The EU says Turkey has met all but five of the 72 criteria included in the agreement in exchange for its efforts to stop asylum seekers from reaching Europe. This visa deal also needs approval from the European Parliament",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37071,
+                    "date": "2016-05-24T00:00:00Z",
+                    "text": "\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u79fb\u6c11\u5371\u6a5f\u3002\u30ae\u30ea\u30b7\u30e3\u5f53\u5c40\u304c\u30de\u30b1\u30c9\u30cb\u30a2\u3068\u306e\u56fd\u5883\u306b\u3042\u308b\u30a4\u30c9\u30e1\u30cb\u96e3\u6c11\u30ad\u30e3\u30f3\u30d7\u3092\u64a4\u53bb\u3059\u308b\u4f5c\u696d\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+                    "eng_text": "Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37081,
+                    "date": "2016-05-25T00:00:00Z",
+                    "text": "\u6b27\u5dde\u306e\u79fb\u6c11\u5371\u6a5f\u3002\u30ea\u30d3\u30a2\u6cbf\u5cb8\u306e\u5357\u90e8\u5730\u4e2d\u6d77\u3067\u904e\u7a4d\u8f09\u306e\u6539\u88c5\u6f01\u8239\u304c\u8ee2\u8986\u3057\u3001\u5c11\u306a\u304f\u3068\u30825\u4eba\u304c\u6b7b\u4ea1\u3002\u30a4\u30bf\u30ea\u30a2\u6d77\u8ecd\u306f562\u4eba\u3092\u6551\u51fa\u3057\u305f\u3002",
+                    "eng_text": "At least five die  after their overcrowded,  repurposed trawler  capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37089,
+                    "date": "2016-05-26T00:00:00Z",
+                    "text": "\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u79fb\u6c11\u5371\u6a5f\u3002\u30ea\u30d3\u30a2\u306e\u30ba\u30ef\u30e9\u306e\u531735\u6d77\u91cc\u3067\u518d\u5229\u7528\u3055\u308c\u305f\u6f01\u8239\u304c\u6c88\u6ca1\u3057\u3001\u5357\u5730\u4e2d\u6d77\u3067\u5c11\u306a\u304f\u3068\u308220\u4eba\u304c\u6eba\u308c\u308b\u3002",
+                    "eng_text": "At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37140,
+                    "date": "2016-05-29T00:00:00Z",
+                    "text": "\u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u79fb\u6c11\u5371\u6a5f\u3002\u56fd\u9023\u306f\u3001\u904e\u53bb\u6570\u65e5\u9593\u306b\u5730\u4e2d\u6d77\u3067\u767a\u751f\u3057\u305f3\u3064\u306e\u8239\u96e3\u3067\u7d04700\u4eba\u306e\u79fb\u6c11\u304c\u6eba\u308c\u305f\u53ef\u80fd\u6027\u3092\u6050\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 36720,
+                    "date": "2016-05-01T00:00:00Z",
+                    "text": "\u30c8\u30eb\u30b3\u3068ISIL\u306e\u7d1b\u4e89\u3002\u30b7\u30ea\u30a2\u5185\u6226\u306e\u5f71\u97ff\u30022016\u5e74\u3001\u30ac\u30ba\u30a3\u30a2\u30f3\u30c6\u30d7\u7206\u5f3e\u30c6\u30ed\u3002\u5357\u90e8\u30c8\u30eb\u30b3\u306e\u90fd\u5e02\u30ac\u30ba\u30a3\u30a2\u30f3\u30c6\u30d7\u306e\u8b66\u5bdf\u7f72\u306b\u7206\u767a\u304c\u8d77\u304d\u30011\u4eba\u306e\u8b66\u5b98\u304c\u6b7b\u4ea1\u3057\u300113\u4eba\u304c\u8ca0\u50b7\u3002",
+                    "eng_text": "A blast hits a police station in the southern Turkish city of Gaziantep leaving one officer dead and 13 injured",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36761,
+                    "date": "2016-05-03T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30b1\u30c3\u30c8\u653b\u6483\u304c\u30b7\u30ea\u30a2\u306e\u90fd\u5e02\u30a2\u30ec\u30c3\u30dd\u306e\u75c5\u9662\u306b\u547d\u3092\u843d\u3068\u30593\u4eba\u306e\u5e02\u6c11\u3092\u6bba\u5bb3\u3057\u307e\u3057\u305f\u3002\u30b7\u30ea\u30a2\u4eba\u6a29\u76e3\u8996\u56e3\u306f\u3001\u3053\u306e\u653b\u6483\u306f19\u4eba\u306e\u3055\u3089\u306a\u308b\u72a0\u7272\u8005\u3092\u51fa\u3057\u305f\u5927\u898f\u6a21\u306a\u7832\u6483\u306e\u4e00\u90e8\u3060\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "A rocket attack hits a hospital in the Syrian city of Aleppo, killing three civilians. The Syrian Observatory for Human Rights said the attack was part of a bigger shelling that killed 19 more people",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36797,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u4e2d\u90e8\u30b7\u30ea\u30a2\u3067\u4e21\u65b9\u306e\u7206\u767a\u3067\u5c11\u306a\u304f\u3068\u308212\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u591a\u304f\u306e\u4eba\u3005\u304c\u8ca0\u50b7\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "At least 12 people are killed and many are wounded in twin blasts in central Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36798,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u3068\u30c8\u30eb\u30b3\u306e\u56fd\u5883\u8fd1\u304f\u306e\u6226\u4e89\u96e3\u6c11\u30ad\u30e3\u30f3\u30d7\u306b\u5bfe\u3059\u308b\u7a7a\u7206\u3067\u3001\u5973\u6027\u3084\u5b50\u4f9b\u3092\u542b\u308028\u4eba\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "Airstrikes on a camp for war refugees in Syria near the Syria\u2013Turkey border kills 28 people, including women and children",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36820,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30a2\u30ec\u30c3\u30dd\u653b\u52e2\uff082016\u5e745\u6708\uff09\u3002\u30a2\u30ec\u30c3\u30dd\u306e\u5357\u306b\u4f4d\u7f6e\u3059\u308b\u30ab\u30fc\u30f3\u30fb\u30c8\u30a5\u30de\u30f3\u3067\u3001\u30a2\u30eb\uff1d\u30cc\u30b9\u30e9\u6226\u7dda\u3068\u30b7\u30ea\u30a2\u653f\u5e9c\u8ecd\u306e\u9593\u3067\u306e\u885d\u7a81\u306b\u3088\u308a72\u4eba\u4ee5\u4e0a\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36834,
+                    "date": "2016-05-07T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30a2\u30ec\u30c3\u30dd\u653b\u52e2\uff082016\u5e745\u6708\uff09\u3002\u30b7\u30ea\u30a2\u306e\u30a2\u30ec\u30c3\u30dd\u8fd1\u304f\u306e\u6751\u3067\u3001\u30a4\u30b9\u30e9\u30e0\u904e\u6fc0\u6d3e\u3068\u306e\u6226\u95d8\u3067\u5c11\u306a\u304f\u3068\u308213\u4eba\u306e\u30a4\u30e9\u30f3\u5175\u58eb\u304c\u6b7b\u4ea1\u3002\u3053\u308c\u306f\u7d1b\u4e89\u304c\u59cb\u307e\u3063\u3066\u4ee5\u6765\u3001\u30a4\u30e9\u30f3\u4eba\u306b\u3068\u3063\u3066\u6700\u5927\u306e\u4e00\u65e5\u306e\u72a0\u7272\u8005\u6570\u3068\u306a\u3063\u305f\u3002",
+                    "eng_text": "At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36844,
+                    "date": "2016-05-08T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u30022015\u5e747\u670813\u65e5\u4ee5\u6765\u3001\u30a2\u30eb\u30fb\u30cc\u30b9\u30e9\u6226\u7dda\u306b\u3088\u3063\u3066\u30a2\u30ec\u30c3\u30dd\u5468\u8fba\u3067\u8a98\u62d0\u3055\u308c\u3001\u4eba\u8cea\u306b\u3055\u308c\u3066\u3044\u305f3\u4eba\u306e\u30b9\u30da\u30a4\u30f3\u4eba\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u89e3\u653e\u3055\u308c\u305f\u3002",
+                    "eng_text": "Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36900,
+                    "date": "2016-05-12T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30c8\u30eb\u30b3\u5927\u7d71\u9818\u30ec\u30b8\u30a7\u30c3\u30d7\u30fb\u30bf\u30a4\u30a4\u30c3\u30d7\u30fb\u30a8\u30eb\u30c9\u30a2\u30f3\u306f\u3001\u30b7\u30ea\u30a2\u5185\u306b\u304a\u3051\u308b\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u3078\u306e\u4e00\u65b9\u7684\u306a\u884c\u52d5\u3092\u8105\u8feb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Turkish president Recep Tayyip Erdo\u011fan threatens unilateral action against Islamic State of Iraq and Syria inside Syria",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36910,
+                    "date": "2016-05-13T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30d2\u30ba\u30dc\u30e9\u306f\u3001\u30b7\u30ea\u30a2\u3067\u306e\u8ecd\u4e8b\u4f5c\u6226\u3092\u62c5\u5f53\u3057\u3066\u3044\u305f\u30d2\u30ba\u30dc\u30e9\u306e\u6700\u9ad8\u5e79\u90e8\u306e\u4e00\u4eba\u3067\u3042\u308b\u30e0\u30b9\u30bf\u30d5\u30a1\u30fb\u30d0\u30c9\u30ec\u30c7\u30a3\u30f3\u304c\u3001\u30b7\u30ea\u30a2\u306e\u53cd\u653f\u5e9c\u52e2\u529b\u306b\u3088\u308b\u7832\u6483\u3067\u6b7b\u4ea1\u3057\u305f\u3068\u767a\u8868\u3057\u305f\u3002",
+                    "eng_text": "Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials  believed  responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36923,
+                    "date": "2016-05-14T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u7c73\u56fd\u306e\u5f53\u5c40\u8005\u306f\u3001\u30a4\u30e9\u30af\u3068\u30ec\u30d0\u30f3\u30c8\u306e\u30a4\u30b9\u30e9\u30e0\u56fd(ISIL)\u304c\u81ea\u5df1\u5ba3\u8a00\u3057\u305f\u9996\u90fd\u30a2\u30eb\uff1d\u30e9\u30c3\u30ab\u3067\u975e\u5e38\u4e8b\u614b\u3092\u5ba3\u8a00\u3057\u305f\u3068\u4fe1\u3058\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. officials believe the Islamic State of Iraq and the Levant has declared a state of emergency in its self-declared capital, Al-Raqqah",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36969,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u653f\u5e9c\u8ecd\u3084\u30ec\u30d0\u30ce\u30f3\u306e\u30d2\u30ba\u30dc\u30e9\u3068\u3044\u3063\u305f\u540c\u76df\u56fd\u304c\u3001\u30c0\u30de\u30b9\u30ab\u30b9\u5357\u6771\u90e8\u306e\u5927\u898f\u6a21\u306a\u5730\u57df\u3092\u596a\u9084\u3057\u3001\u30c7\u30a4\u30eb\u30fb\u30a2\u30eb\u30fb\u30a2\u30b5\u30d5\u30a3\u30fc\u30eb\u3068\u3044\u3046\u91cd\u8981\u306a\u753a\u3082\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36970,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30c0\u30de\u30b9\u30ab\u30b9\u8fd1\u90ca\u306e\u30b0\u30fc\u30bf\u3067\u30a2\u30eb\u30ab\u30a4\u30c0\u306e\u30cc\u30b9\u30e9\u6226\u7dda\u7387\u3044\u308b\u30e9\u30a4\u30d0\u30eb\u6d3e\u95a5\u3068\u30b8\u30e3\u30a4\u30b7\u30e5\u30fb\u30a2\u30eb\u30fb\u30a4\u30b9\u30e9\u30fc\u30e0\u3068\u306e\u6226\u95d8\u304c50\u4eba\u4ee5\u4e0a\u306e\u6b7b\u8005\u3092\u51fa\u3059\u3002",
+                    "eng_text": "Fighting between Jaysh al-Islam and rival factions led by al-Qaeda\u2019s Nusra Front in Ghouta, near Damascus, leaves more than 50 people dead",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37037,
+                    "date": "2016-05-23T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30ed\u30a4\u30bf\u30fc\u306b\u3088\u308b\u3068\u3001\u30b7\u30ea\u30a2\u306e\u30b8\u30e3\u30d6\u30ec\u30d5\u3068\u30bf\u30eb\u30c8\u30a5\u30b9\u306e\u90fd\u5e02\u3067\u3001\u30ed\u30b7\u30a2\u8ecd\u57fa\u5730\u304c\u3042\u308b\u653f\u5e9c\u7ba1\u7406\u5730\u57df\u3067\u3001\u4e00\u9023\u306e\u81ea\u7206\u30c6\u30ed\u3068\u81ea\u7206\u653b\u6483\u3067\u3001\u7d04150\u4eba\u304c\u6b7b\u4ea1\u3057\u3001\u5c11\u306a\u304f\u3068\u3082200\u4eba\u304c\u8ca0\u50b7\u3057\u3066\u3044\u307e\u3059\u3002\u30a4\u30e9\u30af\u3068\u30b7\u30ea\u30a2\u306e\u30a4\u30b9\u30e9\u30e0\u56fd\u5bb6\u96c6\u56e3\u304c\u8cac\u4efb\u3092\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Reuters reports nearly 150 people are killed and  at least 200 wounded in a series of car bomb and suicide attacks in the Syrian cities of Jableh and Tartus in government-controlled territory that hosts Russian military bases. The Islamic State of Iraq and the Levant group claims responsibility",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37065,
+                    "date": "2016-05-24T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b9\u30c8\u30e9\u30c8\u30d5\u30a9\u30a2\u306e\u65b0\u3057\u3044\u885b\u661f\u753b\u50cf\u306b\u3088\u308b\u3068\u3001\u5148\u9031ISIL\u306b\u3088\u3063\u3066\u884c\u308f\u308c\u305f\u5831\u544a\u3055\u308c\u305f\u653b\u6483\u306e\u5f8c\u3001\u30c6\u30a3\u30a2\u30b9\u8ecd\u4e8b\u57fa\u5730\u30674\u6a5f\u306e\u30ed\u30b7\u30a2\u306e\u653b\u6483\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306820\u53f0\u306e\u30c8\u30e9\u30c3\u30af\u304c\u7834\u58ca\u3055\u308c\u305f\u3088\u3046\u3067\u3059\u3002",
+                    "eng_text": "New satellite imagery from Stratfor appears to reveal the destruction of four Russian attack helicopters and 20 lorries at the Tiyas military airbase after a reported attack which was conducted last week by the ISIL",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37162,
+                    "date": "2016-05-31T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3002\u30b7\u30ea\u30a2\u306e\u30a4\u30c9\u30ea\u30d6\u3067\u306e\u591c\u9593\u306e\u7a7a\u7206\u3067\u5c11\u306a\u304f\u3068\u308223\u4eba\u304c\u6b7b\u4ea1\u3002",
+                    "eng_text": "At least 23 people are killed in  overnight air strikes in Idlib, Syria",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                1,
+                3
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36786,
+                    "date": "2016-05-04T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u30fb\u30d1\u30ec\u30b9\u30c1\u30ca\u7d1b\u4e89\u3002\u30cf\u30de\u30b9\u306f\u3001\u30ac\u30b6\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd\u5883\u6cbf\u3044\u3067\u306e\u6575\u5bfe\u884c\u70ba\u306b\u7d9a\u3044\u3066\u3001\u30a4\u30b9\u30e9\u30a8\u30eb\u8ecd\u3068\u505c\u6226\u5354\u5b9a\u306b\u9054\u3057\u305f\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u8ca0\u50b7\u8005\u306f\u3044\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+                    "eng_text": "Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36800,
+                    "date": "2016-05-05T00:00:00Z",
+                    "text": "\u30ac\u30b6\u2013\u30a4\u30b9\u30e9\u30a8\u30eb\u7d1b\u4e89\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u5973\u6027\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u304b\u3089\u306e\u6226\u8eca\u7832\u6483\u3067\u30ac\u30b6\u5730\u533a\u3067\u6b7b\u4ea1\u3057\u3001\u3082\u30461\u4eba\u304c\u8ca0\u50b7\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306f\u3001\u30cf\u30de\u30b9\u306b\u3088\u308b\u8feb\u6483\u7832\u306e\u767a\u5c04\u3078\u306e\u5bfe\u5fdc\u3068\u5225\u306e\u30c8\u30f3\u30cd\u30eb\u306e\u767a\u898b\u306b\u5fdc\u3058\u305f\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36887,
+                    "date": "2016-05-11T00:00:00Z",
+                    "text": "2015\u5e74\u304b\u30892016\u5e74\u306b\u304b\u3051\u3066\u306e\u30a4\u30b9\u30e9\u30a8\u30eb\u30fb\u30d1\u30ec\u30b9\u30c1\u30ca\u7d1b\u4e89\u3067\u306e\u66b4\u529b\u306e\u6ce2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306f\u30e8\u30e0\u30fb\u30cf\u30a2\u30c4\u30de\u30a6\u30c8\uff08\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u8a18\u5ff5\u65e5\u304a\u3088\u3073\u72ec\u7acb\u8a18\u5ff5\u65e5\uff09\u306e\u795d\u65e5\u3092\u795d\u3063\u3066\u3044\u308b\u9593\u30012\u65e5\u9593\u306b\u308f\u305f\u3063\u3066\u897f\u5cb8\u3068\u30ac\u30b6\u5730\u533a\u3092\u5c01\u9396\u3057\u305f\u3002",
+                    "eng_text": "Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 36983,
+                    "date": "2016-05-19T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u76f8\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u304c\u3001\u30a4\u30b9\u30e9\u30a8\u30eb\u6211\u3089\u306e\u5bb6\u515a\u306e\u6307\u5c0e\u8005\u3067\u5143\u5916\u52d9\u5927\u81e3\u306e\u30a2\u30d3\u30b0\u30c0\u30fc\u30fb\u30ea\u30fc\u30d9\u30eb\u30de\u30f3\u306b\u56fd\u9632\u5927\u81e3\u3068\u306a\u308b\u3088\u3046\u6c42\u3081\u307e\u3057\u305f\u3002\u73fe\u5728\u306e\u56fd\u9632\u5927\u81e3\u3067\u5143\u9678\u8ecd\u53c2\u8b00\u7dcf\u9577\u306e\u30e2\u30fc\u30b7\u30a7\u30fb\u30e4\u30a2\u30ed\u30f3\u306e\u4eca\u5f8c\u306e\u653f\u5e9c\u3067\u306e\u5f79\u5272\u306f\u4e0d\u660e\u3067\u3059\u3002\u30ea\u30fc\u30d9\u30eb\u30de\u30f3\u306f\u305d\u306e\u5f37\u786c\u3067\u59a5\u5354\u306e\u306a\u3044\u610f\u898b\u3067\u77e5\u3089\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli  Prime Minister Benjamin Netanyahu asks  Yisrael Beiteinu party leader and  former Foreign Minister  Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37002,
+                    "date": "2016-05-20T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd\u9632\u5927\u81e3\u30e2\u30fc\u30b7\u30a7\u30fb\u30e4\u30a2\u30ed\u30f3\u306f\u8f9e\u4efb\u3092\u767a\u8868\u3057\u305f\u3002",
+                    "eng_text": "Israeli Defense minister Moshe Ya'alon announces his resignation",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                2,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 36828,
+                    "date": "2016-05-06T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u306e\u652f\u914d\u653f\u515a\u3067\u3042\u308b\u671d\u9bae\u52b4\u50cd\u515a\u304c40\u5e74\u3076\u308a\u306b\u515a\u5927\u4f1a\u3092\u958b\u50ac\u3059\u308b\u3002\u3053\u306e\u4f1a\u8b70\u306f\u3001\u6700\u8fd1\u306e\u30df\u30b5\u30a4\u30eb\u767a\u5c04\u306b\u5bfe\u3059\u308b\u3088\u308a\u53b3\u3057\u3044\u5236\u88c1\u3092\u53d7\u3051\u3066\u3044\u308b\u56fd\u304c\u76f4\u9762\u3057\u3066\u3044\u308b\u4e2d\u3067\u884c\u308f\u308c\u308b\u3002",
+                    "eng_text": "The Workers' Party of Korea, the ruling party of North Korea, holds its first party congress in nearly 40 years. The meeting comes as the country is facing tougher sanctions for its recent missile launches",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36847,
+                    "date": "2016-05-08T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u306e\u6307\u5c0e\u8005\u3001\u91d1\u6b63\u6069\u306f\u3001\u5317\u671d\u9bae\u306e\u4e3b\u6a29\u304c\u4fb5\u5bb3\u3055\u308c\u308b\u5834\u5408\u3092\u9664\u3044\u3066\u3001\u6838\u5148\u5236\u653b\u6483\u3092\u6392\u9664\u3059\u308b\u3002",
+                    "eng_text": "North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 36951,
+                    "date": "2016-05-17T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u5317\u671d\u9bae\u306e\u5f3e\u9053\u30df\u30b5\u30a4\u30eb\u80fd\u529b\u306b\u3064\u3044\u3066\u61f8\u5ff5\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u4e2d\u3001\u97d3\u56fd\u3001\u65e5\u672c\u3001\u30a2\u30e1\u30ea\u30ab\u306f\u6765\u6708\u521d\u3081\u3066\u5171\u540c\u306e\u5bfe\u30df\u30b5\u30a4\u30eb\u6f14\u7fd2\u3092\u884c\u3046\u4e88\u5b9a\u3067\u3042\u308a\u3001\u3053\u308c\u306f\u97d3\u56fd\u56fd\u9632\u90e8\u304c\u767a\u8868\u3057\u305f\u3002\u4e09\u30ab\u56fd\u306f\u300c\u4eee\u60f3\u306e\u5317\u671d\u9bae\u30df\u30b5\u30a4\u30eb\u3092\u691c\u51fa\u3057\u3001\u8ffd\u8de1\u3059\u308b\u300d\u7df4\u7fd2\u3092\u884c\u3046\u4e88\u5b9a\u3060\u3068\u3001\u7701\u5e81\u306e\u95a2\u4fc2\u8005\u304c\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice \"detecting and tracing a hypothetical North Korean missile,\" said a ministry official",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37169,
+                    "date": "2016-05-31T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u5317\u671d\u9bae\u306f\u518d\u3073\u3001\u97d3\u56fd\u3084\u65e5\u672c\u3092\u653b\u6483\u3059\u308b\u80fd\u529b\u3092\u6301\u3064BM25\u30df\u30e5\u30fc\u30b5\u30c0\u30f3\u4e2d\u8ddd\u96e2\u5f3e\u9053\u30df\u30b5\u30a4\u30eb\u306e\u767a\u5c04\u3092\u8a66\u307f\u307e\u3059\u304c\u3001\u5931\u6557\u3057\u307e\u3059\u3002",
+                    "eng_text": "North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 37092,
+                    "date": "2016-05-26T00:00:00Z",
+                    "text": "\u97d3\u56fd\u306f\u4eca\u5e74\u3001\u9632\u885b\u80fd\u529b\u3092\u5f37\u5316\u3059\u308b\u305f\u3081\u306b\u7d043.5\u5146\u30a6\u30a9\u30f3\uff0830\u5104\u30c9\u30eb\uff09\u76f8\u5f53\u306e\u6b66\u5668\u3092\u8f38\u5165\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "South Korea plans to import arms worth about 3.5 trillion won (US$3 billion) this year to enhance its defense capabilities",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 37093,
+                    "date": "2016-05-26T00:00:00Z",
+                    "text": "\u30a8\u30c1\u30aa\u30d4\u30a2\u5357\u97d3\u56fd\u3002\u97d3\u56fd\u306e\u30d1\u30af\u30fb\u30af\u30cd\u5927\u7d71\u9818\u306f\u3001\u30a8\u30c1\u30aa\u30d4\u30a2\u3078\u306e\u56fd\u4e8b\u8a2a\u554f\u3067\u5305\u62ec\u7684\u306a\u56fd\u9632\u5354\u529b\u306b\u5411\u3051\u3066\u53d6\u308a\u7d44\u307f\u3001\u5e72\u3070\u3064\u5fa9\u65e7\u306e\u305f\u3081100\u4e07\u30c9\u30eb\u306e\u652f\u63f4\u3092\u7d04\u675f\u3057\u307e\u3059\u3002\u30d1\u30af\u5927\u7d71\u9818\u306f\u3001\u3053\u306e\u8a2a\u554f\u306e\u5f8c\u306b\u30a6\u30ac\u30f3\u30c0\u3068\u30b1\u30cb\u30a2\u3092\u7d9a\u3051\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "South Korean  President Park Geun-hye, during her state visit to Ethiopia to work toward full-scale defense cooperation, pledges $1 million in aid for drought recovery. Park is expected to continue to Uganda and Kenya after this visit",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        }
+    ]
+}

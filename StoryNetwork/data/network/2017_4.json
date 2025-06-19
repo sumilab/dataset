@@ -1,0 +1,70 @@
+{
+    "trees": [
+        {
+            "eventList0": [
+                {
+                    "id": 31889,
+                    "date": "2017-04-01T00:00:00Z",
+                    "text": "\u30b5\u30a4\u30af\u30ed\u30f3\u30c7\u30d3\u30fc\u3002\u30c7\u30d3\u30fc\u304b\u3089\u306e\u8c6a\u96e8\u306e\u5f71\u97ff\u3067\u3001\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba\u5dde\u3068\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9\u5dde\u3067\u6700\u4f4e\u3067\u30823\u4eba\u304c\u6b7b\u4ea1\u3057\u30012\u4e07\u4eba\u306e\u4ed6\u306e\u4eba\u3005\u304c\u81ea\u5b85\u3092\u96e2\u308c\u308b\u3053\u3068\u3092\u4f59\u5100\u306a\u304f\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "Consequences of heavy rain from Cyclone Debbie kill at least three people and force 20,000 others to leave their homes in New South Wales and Queensland",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 31911,
+                    "date": "2017-04-03T00:00:00Z",
+                    "text": "\u30b5\u30a4\u30af\u30ed\u30f3\u30c7\u30d3\u30fc\u3002\u6bcd\u89aa\u30682\u4eba\u306e\u5b50\u4f9b\u304c\u3001\u5f7c\u3089\u306e\u8eca\u304c\u6d2a\u6c34\u306b\u98f2\u307f\u8fbc\u307e\u308c\u305f\u5f8c\u306b\u30c4\u30a4\u30fc\u30c9\u5ddd\u3067\u6eba\u308c\u3001\u6b7b\u4ea1\u8005\u6570\u30928\u4eba\u306b\u5f15\u304d\u4e0a\u3052\u308b\u300210\u6b73\u306e\u5c11\u5973\u304c\u8131\u51fa\u3057\u3001\u5f53\u5c40\u306b\u901a\u5831\u3057\u305f\u3002",
+                    "eng_text": "A mother and two children drown after their car plunges into the flooded Tweed River, raising the death toll to eight people. A ten-year-old girl escapes and alerts authorities",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 31942,
+                    "date": "2017-04-06T00:00:00Z",
+                    "text": "\u30b5\u30a4\u30af\u30ed\u30f3\u30fb\u30c7\u30d3\u30fc\u306b\u3088\u308b\u5927\u6d2a\u6c34\u304c\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u306e\u30a8\u30c3\u30b8\u30ab\u30e0\u3068\u8fd1\u96a3\u5730\u57df\u306e\u907f\u96e3\u3092\u5f37\u3044\u307e\u3057\u305f\u3002",
+                    "eng_text": "Severe flooding caused by Cyclone Debbie forces the evacuation of Edgecumbe, New Zealand, and nearby areas",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 31980,
+                    "date": "2017-04-09T00:00:00Z",
+                    "text": "2016\u5e74\u304b\u30892017\u5e74\u306e\u5357\u592a\u5e73\u6d0b\u30b5\u30a4\u30af\u30ed\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30b5\u30a4\u30af\u30ed\u30f3\u30af\u30c3\u30af\u304c\u5cf6\u3092\u76f4\u6483\u3057\u3001\u30d0\u30cc\u30a2\u30c4\u306e\u6570\u5341\u4eba\u304c\u907f\u96e3\u6240\u306b\u907f\u96e3\u3057\u3066\u3044\u307e\u3059\u3002\u660e\u65e5\u3001\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u3092\u901a\u904e\u3059\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 31994,
+                    "date": "2017-04-10T00:00:00Z",
+                    "text": "2016-17\u5e74\u306e\u5357\u592a\u5e73\u6d0b\u30b5\u30a4\u30af\u30ed\u30f3\u30b7\u30fc\u30ba\u30f3\u3002\u30ab\u30c6\u30b4\u30ea\u30fc3\u306e\u30b5\u30a4\u30af\u30ed\u30f3\u30fb\u30af\u30c3\u30af\u304c\u3001\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u306e\u30e1\u30a4\u30f3\u5cf6\u3067\u3042\u308b\u30b0\u30e9\u30f3\u30c9\u30c6\u30fc\u30eb\u306b\u4e0a\u9678\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 32017,
+                    "date": "2017-04-13T00:00:00Z",
+                    "text": "2016-17\u5e74\u306e\u5357\u592a\u5e73\u6d0b\u53f0\u98a8\u30b7\u30fc\u30ba\u30f3\u3002\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u306e\u5317\u5cf6\u3092\u901a\u904e\u3059\u308b\u30b5\u30a4\u30af\u30ed\u30f3\u30af\u30c3\u30af\u306b\u3088\u308a\u3001\u30b3\u30ed\u30de\u30f3\u30c7\u30eb\u534a\u5cf6\u3067\u975e\u5e38\u4e8b\u614b\u304c\u5ba3\u8a00\u3055\u308c\u3001\u6cbf\u5cb8\u5730\u57df\u304c\u907f\u96e3\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 31901,
+                    "date": "2017-04-02T00:00:00Z",
+                    "text": "\u30b5\u30a4\u30af\u30ed\u30f3\u30c7\u30d3\u30fc\u3002\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306e\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba\u5dde\u3068\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9\u5dde\u3067\u306e\u30b5\u30a4\u30af\u30ed\u30f3\u30c7\u30d3\u30fc\u3068\u95a2\u9023\u3059\u308b\u6d2a\u6c34\u306b\u3088\u308b\u6b7b\u8005\u6570\u304c5\u4eba\u306b\u4e0a\u6607\u3057\u305f\u3002",
+                    "eng_text": "The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 31971,
+                    "date": "2017-04-08T00:00:00Z",
+                    "text": "\u30b5\u30a4\u30af\u30ed\u30f3\u30c7\u30d3\u30fc\u306e\u5f71\u97ff\u3067\u6771\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9\u5dde\u3067\u306e\u6d2a\u6c34\u306e\u4e2d\u3067\u3001\u3082\u30461\u4eba\u306e\u907a\u4f53\u304c\u767a\u898b\u3055\u308c\u3001\u6b7b\u8005\u6570\u304c12\u4eba\u306b\u4e0a\u304c\u308a\u307e\u3057\u305f\u3002",
+                    "eng_text": "Another body has been found after flooding in eastern Queensland, raising the death toll to twelve",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        }
+    ]
+}

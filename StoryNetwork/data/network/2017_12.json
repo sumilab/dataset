@@ -1,0 +1,942 @@
+{
+    "trees": [
+        {
+            "eventList0": [
+                {
+                    "id": 34381,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u77e5\u3059\u308c\u3070\u3001\u30e8\u30eb\u30c0\u30f3\u306e\u5916\u52d9\u5927\u81e3\u30a2\u30a4\u30de\u30f3\u30fb\u30b5\u30d5\u30a1\u30c7\u30a3\u306f\u7c73\u56fd\u306b\u300c\u5371\u967a\u306a\u7d50\u679c\u300d\u304c\u751f\u3058\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Jordan's foreign minister Ayman Safadi has warned the U.S. of \"dangerous consequences\" if it recognizes Jerusalem as the capital of Israel",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34382,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30cf\u30de\u30b9\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u653f\u5e9c\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b58\u3059\u308b\u8a08\u753b\u3092\u300c\u30a2\u30e1\u30ea\u30ab\u653f\u6a29\u306b\u3088\u308b\u90fd\u5e02\u3078\u306e\u516c\u7136\u3068\u3057\u305f\u653b\u6483\u300d\u3068\u547c\u3073\u3001\u7b2c\u4e09\u6b21\u30a4\u30f3\u30c6\u30a3\u30d5\u30a1\u30fc\u30c0\u3092\u958b\u59cb\u3059\u308b\u3068\u8105\u8feb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hamas calls the U.S. government's plan to recognize Jerusalem as the capital of Israel \"a flagrant attack on the city by the American administration\" and threatens to start a Third Intifada",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34383,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30a7\u30eb\u30b5\u30ec\u30e0\u306e\u30dd\u30b8\u30b7\u30e7\u30f3\u306b\u95a2\u3057\u3066\u3001\u30c8\u30eb\u30b3\u306e\u526f\u5916\u52d9\u5927\u81e3\u30d9\u30ad\u30eb\u30fb\u30dc\u30ba\u30c0\u30b0\u306f\u3001\u30b8\u30a7\u30eb\u30b5\u30ec\u30e0\u5927\u4f7f\u9928\u6cd5\u306b\u57fa\u3065\u304f\u4e88\u5b9a\u901a\u308a\u30a2\u30e1\u30ea\u30ab\u304c\u5927\u4f7f\u9928\u3092\u79fb\u8ee2\u3057\u305f\u5834\u5408\u306b\u306f\u300c\u5927\u60e8\u4e8b\u300d\u304c\u8d77\u3053\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u79fb\u8ee2\u3092\u9045\u3089\u305b\u308b\u6700\u5f8c\u306e6\u304b\u6708\u9593\u306e\u5927\u7d71\u9818\u7279\u8d66\u306f6\u67081\u65e5\u306b\u7f72\u540d\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "Turkey's deputy foreign minister Bekir Bozda\u011f warns of a \"major catastrophe\" if the U.S. moves its embassy to Jerusalem as planned in the Jerusalem Embassy Act. The last six-month presidential waiver delaying the move was signed on June 1",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34471,
+                    "date": "2017-12-09T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3059\u308b\u6297\u8b70\u304c\u3001\u897f\u5cb8\u3068\u30ac\u30b6\u30673\u65e5\u9023\u7d9a\u3067\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002\u6570\u767e\u4eba\u304c\u53c2\u52a0\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hundreds of people protest on the West Bank and in Gaza for the third day in a row",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                3,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34381,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u77e5\u3059\u308c\u3070\u3001\u30e8\u30eb\u30c0\u30f3\u306e\u5916\u52d9\u5927\u81e3\u30a2\u30a4\u30de\u30f3\u30fb\u30b5\u30d5\u30a1\u30c7\u30a3\u306f\u7c73\u56fd\u306b\u300c\u5371\u967a\u306a\u7d50\u679c\u300d\u304c\u751f\u3058\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Jordan's foreign minister Ayman Safadi has warned the U.S. of \"dangerous consequences\" if it recognizes Jerusalem as the capital of Israel",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34382,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30cf\u30de\u30b9\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u653f\u5e9c\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b58\u3059\u308b\u8a08\u753b\u3092\u300c\u30a2\u30e1\u30ea\u30ab\u653f\u6a29\u306b\u3088\u308b\u90fd\u5e02\u3078\u306e\u516c\u7136\u3068\u3057\u305f\u653b\u6483\u300d\u3068\u547c\u3073\u3001\u7b2c\u4e09\u6b21\u30a4\u30f3\u30c6\u30a3\u30d5\u30a1\u30fc\u30c0\u3092\u958b\u59cb\u3059\u308b\u3068\u8105\u8feb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hamas calls the U.S. government's plan to recognize Jerusalem as the capital of Israel \"a flagrant attack on the city by the American administration\" and threatens to start a Third Intifada",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34383,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30a7\u30eb\u30b5\u30ec\u30e0\u306e\u30dd\u30b8\u30b7\u30e7\u30f3\u306b\u95a2\u3057\u3066\u3001\u30c8\u30eb\u30b3\u306e\u526f\u5916\u52d9\u5927\u81e3\u30d9\u30ad\u30eb\u30fb\u30dc\u30ba\u30c0\u30b0\u306f\u3001\u30b8\u30a7\u30eb\u30b5\u30ec\u30e0\u5927\u4f7f\u9928\u6cd5\u306b\u57fa\u3065\u304f\u4e88\u5b9a\u901a\u308a\u30a2\u30e1\u30ea\u30ab\u304c\u5927\u4f7f\u9928\u3092\u79fb\u8ee2\u3057\u305f\u5834\u5408\u306b\u306f\u300c\u5927\u60e8\u4e8b\u300d\u304c\u8d77\u3053\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u79fb\u8ee2\u3092\u9045\u3089\u305b\u308b\u6700\u5f8c\u306e6\u304b\u6708\u9593\u306e\u5927\u7d71\u9818\u7279\u8d66\u306f6\u67081\u65e5\u306b\u7f72\u540d\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "Turkey's deputy foreign minister Bekir Bozda\u011f warns of a \"major catastrophe\" if the U.S. moves its embassy to Jerusalem as planned in the Jerusalem Embassy Act. The last six-month presidential waiver delaying the move was signed on June 1",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34471,
+                    "date": "2017-12-09T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3059\u308b\u6297\u8b70\u304c\u3001\u897f\u5cb8\u3068\u30ac\u30b6\u30673\u65e5\u9023\u7d9a\u3067\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002\u6570\u767e\u4eba\u304c\u53c2\u52a0\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hundreds of people protest on the West Bank and in Gaza for the third day in a row",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                2,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34441,
+                    "date": "2017-12-07T00:00:00Z",
+                    "text": "\u30b8\u30a7\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u30ed\u30c9\u30ea\u30b4\u30fb\u30c9\u30a5\u30c6\u30eb\u30c6\u5927\u7d71\u9818\u306f\u3001\u81ea\u56fd\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u3053\u3068\u306b\u8208\u5473\u3092\u793a\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Philippine President\u00a0Rodrigo Duterte\u00a0expresses interest in moving his country's embassy from Tel Aviv to Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                8,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34564,
+                    "date": "2017-12-17T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u7c73\u56fd\u627f\u8a8d\u306b\u53cd\u5bfe\u3057\u3066\u3001\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u306e\u30b8\u30e3\u30ab\u30eb\u30bf\u30678\u4e07\u4eba\u306e\u30e0\u30b9\u30ea\u30e0\u304c\u30c7\u30e2\u3092\u884c\u3063\u305f\u3002",
+                    "eng_text": "Eighty-thousand Muslims demonstrate in Jakarta, Indonesia, against the  U.S recognition of Jerusalem as the Israeli capital",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34622,
+                    "date": "2017-12-22T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3057\u305f\u3053\u3068\u306b\u3064\u3044\u3066\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3057\u305f\u305f\u3081\u3001\u30a4\u30b9\u30e9\u30a8\u30eb\u3068\u306e\u5e73\u548c\u3092\u76ee\u6307\u3059\u7c73\u56fd\u306e\u8a08\u753b\u3092\u53d7\u3051\u5165\u308c\u306a\u3044\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                1,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34663,
+                    "date": "2017-12-27T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u4ea4\u901a\u5927\u81e3Yisrael Katz\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u65e7\u5e02\u8857\uff08\u6771\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u4e00\u90e8\uff09\u306e\u30e6\u30c0\u30e4\u4eba\u5c45\u4f4f\u533a\u306b\u5efa\u8a2d\u3055\u308c\u308b\u65b0\u3057\u3044\u5730\u4e0b\u9244\u30bf\u30fc\u30df\u30ca\u30eb\u3092\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306b\u656c\u610f\u3092\u8868\u3057\u3066\u540d\u4ed8\u3051\u308b\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34697,
+                    "date": "2017-12-31T00:00:00Z",
+                    "text": "\u30d1\u30ec\u30b9\u30c1\u30ca\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u5b9a\u306b\u7d9a\u304d\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306f\u7c73\u56fd\u3078\u306e\u5927\u4f7f\u3092\u300c\u5354\u8b70\u306e\u305f\u3081\u300d\u547c\u3073\u623b\u3059\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u5927\u7d71\u9818\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u884c\u52d5\u306b\u7d9a\u304f\u4e2d\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5e73\u548c\u8a08\u753b\u3092\u53d7\u3051\u5165\u308c\u306a\u3044\u3068\u8ff0\u3079\u308b\u3002",
+                    "eng_text": "Palestine recalls its envoy to the United States for \"consultations,\" following President Trump's recognition of Jerusalem as the capital of Israel. Palestinian President Mahmoud Abbas says that he will not accept any U.S. peace plan in the wake of Trump's move",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                1,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34365,
+                    "date": "2017-12-02T00:00:00Z",
+                    "text": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306e\u30a4\u30a8\u30e1\u30f3\u3078\u306e\u4ecb\u5165\u3002\u30a4\u30a8\u30e1\u30f3\u306e\u5143\u5927\u7d71\u9818\u30a2\u30ea\u30fb\u30a2\u30d6\u30c9\u30e9\u30fb\u30b5\u30ec\u30cf\u306f\u3001\u81ea\u8eab\u306e\u90e8\u968a\u304c\u6570\u5e74\u9593\u6226\u3063\u3066\u304d\u305f\u30b5\u30a6\u30b8\u4e3b\u5c0e\u306e\u9023\u5408\u8ecd\u3068\u306e\u8a71\u3057\u5408\u3044\u306b\u958b\u304b\u308c\u3066\u3044\u308b\u3053\u3068\u3092\u793a\u5506\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34379,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5185\u6226\u306b\u304a\u3051\u308b\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306e\u4ecb\u5165\u3002\u30a4\u30a8\u30e1\u30f3\u306e\u5143\u5927\u7d71\u9818\u30a2\u30ea\u30fb\u30a2\u30d6\u30c9\u30e9\u30fb\u30b5\u30ec\u30fc\u306f\u3001\u30b5\u30cc\u30a2\u5e02\u5916\u3067\u306e\u9053\u8def\u8972\u6483\u3067\u30d5\u30fc\u30b7\u6d3e\u306b\u6bba\u5bb3\u3055\u308c\u305f\u3002\u4ee5\u524d\u306b\u306f\u5f7c\u306e\u81ea\u5b85\u3082\u653b\u6483\u3055\u308c\u3066\u3044\u305f\u3002",
+                    "eng_text": "Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34510,
+                    "date": "2017-12-13T00:00:00Z",
+                    "text": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306e\u30a4\u30a8\u30e1\u30f3\u4ecb\u5165\u3002\u30a4\u30a8\u30e1\u30f3\u306e\u9996\u90fd\u30b5\u30cc\u30a2\u3067\u3001\u53cd\u653f\u5e9c\u8ecd\u306e\u8ecd\u4e8b\u8b66\u5bdf\u30ad\u30e3\u30f3\u30d7\u306b\u5bfe\u3059\u308b\u30b5\u30a6\u30b8\u4e3b\u5c0e\u306e\u9023\u5408\u7a7a\u7206\u3067\u5c11\u306a\u304f\u3068\u308230\u4eba\u304c\u6b7b\u4ea1\u3057\u305f\u3068\u5831\u544a\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34585,
+                    "date": "2017-12-19T00:00:00Z",
+                    "text": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306b\u3088\u308b\u30a4\u30a8\u30e1\u30f3\u3078\u306e\u4ecb\u5165\u3002OIC\u4e8b\u52d9\u7dcf\u9577\u3067\u3042\u308bYousef Al-Othaimeen\u306f\u3001\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u3078\u306e\u5f3e\u9053\u30df\u30b5\u30a4\u30eb\u306e\u7e70\u308a\u8fd4\u3057\u306e\u767a\u5c04\u306f\u30d5\u30fc\u30b7\u6d3e\u306e\u300c\u6575\u610f\u3068\u72af\u7f6a\u6027\u300d\u3092\u78ba\u8a8d\u3059\u308b\u3082\u306e\u3067\u3042\u308a\u3001\u3055\u3089\u306b\u300c\u30d5\u30fc\u30b7\u6d3e\u306f\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u3084\u5168\u5730\u57df\u3092\u4e0d\u5b89\u5b9a\u306b\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u300d\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Secretary-General of the OIC, Yousef Al-Othaimeen, says the repeated launch of ballistic missiles at Saudi Arabia served to confirm the Houthis' \"hostility and criminality\" and further claimed \"The Houthis are trying to destabilize Saudi Arabia and the entire region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34650,
+                    "date": "2017-12-25T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u3078\u306e\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306e\u4ecb\u5165\u3002\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u7a7a\u8ecd\u304c\u30d5\u30fc\u30b7\u52e2\u529b\u3092\u6a19\u7684\u3068\u3057\u305f\u7a7a\u7206\u30922\u65e5\u9593\u884c\u3044\u300170\u4eba\u4ee5\u4e0a\u306e\u6c11\u9593\u4eba\u304c\u6b7b\u4ea1\u3057\u305f\u3068\u63a8\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "More than 70 civilians are believed to have been killed in two-days of airstrikes by the Royal Saudi Air Force targeting Houthi forces",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34654,
+                    "date": "2017-12-26T00:00:00Z",
+                    "text": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e3b\u5c0e\u306e\u30a4\u30a8\u30e1\u30f3\u3078\u306e\u4ecb\u5165\u3002\u7dca\u6025\u30b5\u30fc\u30d3\u30b9\u3068\u30d5\u30fc\u30b7\u6d3e\u306eAl Masirah\u306b\u3088\u308b\u3068\u3001\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u9023\u5408\u8ecd\u306e\u7a7a\u7206\u304c\u3001\u30bf\u30a4\u30ba\u770c\u306b\u3042\u308b\u4eba\u6c17\u306e\u3042\u308b\u5e02\u5834\u3067\u3042\u308bal-Shahra souq\u306715\u4eba\u3092\u6bba\u5bb3\u3057\u300160\u4eba\u3092\u8ca0\u50b7\u3055\u305b\u307e\u3057\u305f\u3002",
+                    "eng_text": "According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34616,
+                    "date": "2017-12-22T00:00:00Z",
+                    "text": "\u30a4\u30a8\u30e1\u30f3\u5185\u6226\uff082015\u5e74\u301c\u73fe\u5728\uff09\u3002\u30a4\u30a8\u30e1\u30f3\u30671,000\u65e5\u9593\u306e\u5185\u6226\u306e\u5f8c\u3001800\u4e07\u4eba\u304c\u98e2\u3048\u306e\u5371\u6a5f\u306b\u7015\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "After 1,000 days of civil war in Yemen, eight million people are at risk of starvation",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                3,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34463,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u4ea4\u6e09\u3002\u6b27\u5dde\u9023\u5408\u3068\u30a4\u30ae\u30ea\u30b9\u306f\u3001\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u306e\u6700\u521d\u306e\u6bb5\u968e\u306b\u95a2\u3059\u308b\u5408\u610f\u306b\u5230\u9054\u3057\u3001\u30a4\u30ae\u30ea\u30b9\u3068\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u306e\u56fd\u5883\u306e\u5730\u4f4d\u3092\u542b\u3080\u3002",
+                    "eng_text": "The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34545,
+                    "date": "2017-12-15T00:00:00Z",
+                    "text": "\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u3002\u6b27\u5dde\u9023\u5408\u306e\u6307\u5c0e\u8005\u305f\u3061\u306f\u3001\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u306e\u6b21\u306e\u6bb5\u968e\u3092\u8a31\u53ef\u3059\u308b\u3053\u3068\u306b\u5408\u610f\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "European Union leaders agree to allow the next phase of Brexit",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34519,
+                    "date": "2017-12-13T00:00:00Z",
+                    "text": "\u82f1\u56fd\u306e\u653f\u6cbb\u3002\u30c6\u30ea\u30fc\u30b6\u30fb\u30e1\u30a4\u9996\u76f8\u304c\u4e0b\u9662\u3067\u521d\u3081\u3066\u306e\u6557\u5317\u3092\u7d4c\u9a13\u3057\u307e\u3057\u305f\u3002\u4e0e\u91ce\u515a\u306e\u4e21\u515a\u306e\u8b70\u54e1\u304c\u3001\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u6cd5\u6848\u306b\u4fee\u6b63\u3092\u52a0\u3048\u3001\u30d6\u30ec\u30b0\u30b8\u30c3\u30c8\u5354\u5b9a\u3092\u8b70\u4f1a\u3067\u4e8b\u524d\u306e\u6295\u7968\u306b\u5f93\u308f\u305b\u308b\u3053\u3068\u306b\u8cdb\u6210\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Prime Minister Theresa May suffers a 309\u2013305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34692,
+                    "date": "2017-12-31T00:00:00Z",
+                    "text": "\u56fd\u9023\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3001\u7d1b\u4e89\u304c\u6df1\u523b\u5316\u3057\u3001\u6838\u5175\u5668\u306b\u5bfe\u3059\u308b\u4e16\u754c\u7684\u306a\u61f8\u5ff5\u304c\u5897\u5927\u3057\u3001\u4e0d\u5e73\u7b49\u304c\u5e83\u304c\u308a\u3001\u56fd\u5bb6\u4e3b\u7fa9\u3084\u6392\u5916\u4e3b\u7fa9\u304c\u5897\u52a0\u3057\u3066\u3044\u308b\u3053\u3068\u306b\u3064\u3044\u3066\u3001\u300c\u79c1\u305f\u3061\u306e\u4e16\u754c\u306b\u5bfe\u3059\u308b\u5371\u6a5f\u7684\u306a\u8b66\u544a\u300d\u3092\u767a\u3057\u3066\u3044\u307e\u3059\u3002\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3001\u3053\u308c\u3089\u306e\u6210\u9577\u3059\u308b\u8ab2\u984c\u306b\u6253\u3061\u52dd\u3064\u305f\u3081\u306b\u3001\u4e16\u754c\u7684\u306a\u7d50\u675f\u3092\u547c\u3073\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "United Nations Secretary-General Ant\u00f3nio Guterres issues \"a red alert for our world,\" saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34360,
+                    "date": "2017-12-02T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3078\u306e\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u95a2\u4e0e\u3002\u30b7\u30ea\u30a2\u306e\u56fd\u55b6\u30c6\u30ec\u30d3\u306b\u3088\u308b\u3068\u3001\u30a4\u30b9\u30e9\u30a8\u30eb\u306f\u6628\u591c\u3001\u30b7\u30ea\u30a2\u9996\u90fd\u30c0\u30de\u30b9\u30ab\u30b9\u5916\u306e\u8ecd\u4e8b\u65bd\u8a2d\u306b\u5bfe\u3057\u3066\u5730\u5bfe\u5730\u30df\u30b5\u30a4\u30eb\u3092\u767a\u5c04\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34380,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30b7\u30ea\u30a2\u5185\u6226\u3078\u306e\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u4ecb\u5165\u30023\u65e5\u306e\u3046\u30612\u56de\u76ee\u3068\u306a\u308a\u3001\u30a4\u30b9\u30e9\u30a8\u30eb\u306f\u30c0\u30de\u30b9\u30ab\u30b9\u8fd1\u304f\u306e\u8ecd\u4e8b\u65bd\u8a2d\u306b\u30df\u30b5\u30a4\u30eb\u653b\u6483\u3092\u884c\u3044\u307e\u3057\u305f\u3002",
+                    "eng_text": "For the second time in three days, Israel carries out a missile strike on military facilities near Damascus",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34692,
+                    "date": "2017-12-31T00:00:00Z",
+                    "text": "\u56fd\u9023\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3001\u7d1b\u4e89\u304c\u6df1\u523b\u5316\u3057\u3001\u6838\u5175\u5668\u306b\u5bfe\u3059\u308b\u4e16\u754c\u7684\u306a\u61f8\u5ff5\u304c\u5897\u5927\u3057\u3001\u4e0d\u5e73\u7b49\u304c\u5e83\u304c\u308a\u3001\u56fd\u5bb6\u4e3b\u7fa9\u3084\u6392\u5916\u4e3b\u7fa9\u304c\u5897\u52a0\u3057\u3066\u3044\u308b\u3053\u3068\u306b\u3064\u3044\u3066\u3001\u300c\u79c1\u305f\u3061\u306e\u4e16\u754c\u306b\u5bfe\u3059\u308b\u5371\u6a5f\u7684\u306a\u8b66\u544a\u300d\u3092\u767a\u3057\u3066\u3044\u307e\u3059\u3002\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3001\u3053\u308c\u3089\u306e\u6210\u9577\u3059\u308b\u8ab2\u984c\u306b\u6253\u3061\u52dd\u3064\u305f\u3081\u306b\u3001\u4e16\u754c\u7684\u306a\u7d50\u675f\u3092\u547c\u3073\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "United Nations Secretary-General Ant\u00f3nio Guterres issues \"a red alert for our world,\" saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34588,
+                    "date": "2017-12-19T00:00:00Z",
+                    "text": "\u30ab\u30ca\u30c0\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u30ab\u30ca\u30c0\u306e\u5916\u52d9\u5927\u81e3\u30af\u30ea\u30b9\u30c6\u30a3\u30a2\u30fb\u30d5\u30ea\u30fc\u30e9\u30f3\u30c9\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u9577\u5b98\u30ec\u30c3\u30af\u30b9\u30fb\u30c6\u30a3\u30e9\u30fc\u30bd\u30f3\u304c\u3001\u5317\u671d\u9bae\u306e\u6838\u30d7\u30ed\u30b0\u30e9\u30e0\u306b\u5bfe\u3059\u308b\u5727\u529b\u3092\u5897\u5927\u3055\u305b\u308b\u305f\u3081\u306e\u56fd\u969b\u30b0\u30eb\u30fc\u30d7\u306e\u8a2d\u7acb\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u300218\u304b\u56fd\u3067\u69cb\u6210\u3055\u308c\u308b\u3053\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u30012018\u5e741\u670816\u65e5\u306b\u30d0\u30f3\u30af\u30fc\u30d0\u30fc\u3067\u521d\u3081\u3066\u4f1a\u5408\u3092\u958b\u304f\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34468,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "2018\u5e74\u306e\u30a2\u30e1\u30ea\u30ab\u9023\u90a6\u4e88\u7b97\u3002\u30c8\u30e9\u30f3\u30d7\u306f\u3001\u653f\u5e9c\u6a5f\u95a2\u306e\u9589\u9396\u3092\u9632\u3050\u305f\u3081\u306b\u7d99\u7d9a\u3059\u308b\u6c7a\u8b70\u306b\u7f72\u540d\u3057\u307e\u3059\u3002\u8b70\u4f1a\u306f\u3001DACA\u3001CHIP\u3001\u7a0e\u5236\u6539\u9769\u3001\u305d\u3057\u30662011\u5e74\u306e\u4e88\u7b97\u5236\u5fa1\u6cd5\u306e\u67a0\u5185\u3067\u306e\u8ecd\u4e8b\u8cc7\u91d1\u306b\u95a2\u3059\u308b\u9055\u3044\u3092\u89e3\u6c7a\u3059\u308b\u305f\u3081\u306b\u300112\u670822\u65e5\u307e\u3067\u306e\u671f\u9650\u304c\u3042\u308a\u307e\u3059\u3002",
+                    "eng_text": "Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34614,
+                    "date": "2017-12-21T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3067\u653f\u5e9c\u9589\u9396\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u4e0b\u9662\u3068\u4e0a\u9662\u306f\u3001\u653f\u5e9c\u9589\u9396\u3092\u56de\u907f\u3059\u308b\u305f\u3081\u306b\u7d99\u7d9a\u6c7a\u8b70\u6848\u3092\u6210\u7acb\u3055\u305b\u30012018\u5e741\u670819\u65e5\u307e\u3067\u653f\u5e9c\u9589\u9396\u3092\u56de\u907f\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34367,
+                    "date": "2017-12-02T00:00:00Z",
+                    "text": "2017\u5e74\u306e\u7a0e\u5236\u6539\u9769\u6cd5\u6848\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u4e0a\u9662\u306f\u3001\u5171\u548c\u515a\u306e\u7a0e\u5236\u6539\u9769\u6cd5\u6848\u309251\u5bfe49\u306e\u6295\u7968\u3067\u53ef\u6c7a\u3057\u305f\u3002",
+                    "eng_text": "The United States Senate passes the Republican tax reform bill with a 51\u201349 vote",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34589,
+                    "date": "2017-12-19T00:00:00Z",
+                    "text": "2017\u5e74\u306e\u7a0e\u5236\u524a\u6e1b\u3068\u96c7\u7528\u6cd5\u6848\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u4e0b\u9662\u306f\u3001227\u5bfe203\u306e\u7968\u30672017\u5e74\u306e\u7a0e\u5236\u524a\u6e1b\u3068\u96c7\u7528\u6cd5\u6848\u3092\u53ef\u6c7a\u3057\u307e\u3057\u305f\u3002\u4e0a\u9662\u306b\u9001\u3089\u308c\u305f\u5f8c\u3001\u4e0a\u9662\u306e\u8b70\u4e8b\u904b\u55b6\u8cac\u4efb\u8005\u306f\u4e0b\u9662\u6cd5\u6848\u306e\u3044\u304f\u3064\u304b\u306e\u6761\u9805\u304c\u4e0a\u9662\u898f\u5247\u306b\u9055\u53cd\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u767a\u898b\u3057\u3001\u3053\u308c\u306b\u3088\u308a\u4e0b\u9662\u306f\u9055\u53cd\u6761\u9805\u3092\u524a\u9664\u3057\u305f\u4fee\u6b63\u7248\u306e\u6cd5\u6848\u306b\u3064\u3044\u3066\u518d\u3073\u6295\u7968\u3092\u884c\u3046\u3053\u3068\u3092\u4f59\u5100\u306a\u304f\u3055\u308c\u307e\u3057\u305f\u3002\u4e0b\u9662\u306b\u3088\u308b2\u56de\u76ee\u306e\u6295\u7968\u306f\u30012017\u5e7412\u670820\u65e5\u306b\u884c\u308f\u308c\u308b\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34597,
+                    "date": "2017-12-20T00:00:00Z",
+                    "text": "2017\u5e74\u306e\u6e1b\u7a0e\u3068\u96c7\u7528\u5275\u51fa\u6cd5\u6848\u3002\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u4e0a\u9662\u3068\u4e0b\u9662\u306f2017\u5e74\u306e\u6e1b\u7a0e\u3068\u96c7\u7528\u5275\u51fa\u6cd5\u6848\u3092\u53ef\u6c7a\u3057\u3001\u3053\u308c\u3092\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5927\u7d71\u9818\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306b\u7f72\u540d\u3059\u308b\u305f\u3081\u306b\u9001\u3063\u305f\u3002\u3053\u308c\u306f\u3001\u6628\u65e5\u4e0b\u9662\u3067\u53ef\u6c7a\u3055\u308c\u305f\u4ee5\u524d\u3068\u306f\u7570\u306a\u308b\u7248\u306e\u3053\u306e\u6cd5\u5f8b\u306b\u7d9a\u304f\u3082\u306e\u3067\u3042\u308b\u3002\u3053\u306e\u6cd5\u5f8b\u306f\u3001\u30aa\u30d0\u30de\u30b1\u30a2\u304b\u3089\u500b\u4eba\u306e\u4fdd\u967a\u5951\u7d04\u7fa9\u52d9\u3092\u5ec3\u6b62\u3059\u308b\u3002",
+                    "eng_text": "The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to  United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34631,
+                    "date": "2017-12-22T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306b\u304a\u3051\u308b\u7a0e\u5236\u6539\u9769\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u304c2017\u5e74\u306b\u6210\u7acb\u3057\u305fTax Cuts and Jobs Act\u306b\u7f72\u540d\u3092\u884c\u3063\u305f\u3002",
+                    "eng_text": "President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34665,
+                    "date": "2017-12-27T00:00:00Z",
+                    "text": "\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u5317\u671d\u9bae\u306f\u3001\u7c73\u97d3\u56fd\u7814\u7a76\u6240\u30b8\u30e7\u30f3\u30ba\u30fb\u30db\u30d7\u30ad\u30f3\u30b9\u5927\u5b66\u5148\u9032\u56fd\u969b\u554f\u984c\u7814\u7a76\u5b66\u6821\u306b\u3088\u308b\u3068\u3001\u300c\u52a0\u901f\u3057\u305f\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u300d\u3067\u521d\u3081\u3066\u306e\u4f5c\u6226\u30df\u30b5\u30a4\u30eb\u6f5c\u6c34\u8266\u3092\u5efa\u9020\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "North Korea is building its first operational ballistic missile submarine  on an \u201caccelerated schedule,\u201d according to the US-Korea Institute of Johns Hopkins School of Advanced International Studies",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34588,
+                    "date": "2017-12-19T00:00:00Z",
+                    "text": "\u30ab\u30ca\u30c0\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u5317\u671d\u9bae\u3068\u5927\u91cf\u7834\u58ca\u5175\u5668\u3002\u30ab\u30ca\u30c0\u306e\u5916\u52d9\u5927\u81e3\u30af\u30ea\u30b9\u30c6\u30a3\u30a2\u30fb\u30d5\u30ea\u30fc\u30e9\u30f3\u30c9\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u9577\u5b98\u30ec\u30c3\u30af\u30b9\u30fb\u30c6\u30a3\u30e9\u30fc\u30bd\u30f3\u304c\u3001\u5317\u671d\u9bae\u306e\u6838\u30d7\u30ed\u30b0\u30e9\u30e0\u306b\u5bfe\u3059\u308b\u5727\u529b\u3092\u5897\u5927\u3055\u305b\u308b\u305f\u3081\u306e\u56fd\u969b\u30b0\u30eb\u30fc\u30d7\u306e\u8a2d\u7acb\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u300218\u304b\u56fd\u3067\u69cb\u6210\u3055\u308c\u308b\u3053\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u30012018\u5e741\u670816\u65e5\u306b\u30d0\u30f3\u30af\u30fc\u30d0\u30fc\u3067\u521d\u3081\u3066\u4f1a\u5408\u3092\u958b\u304f\u4e88\u5b9a\u3067\u3059\u3002",
+                    "eng_text": "Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                0
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34381,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u77e5\u3059\u308c\u3070\u3001\u30e8\u30eb\u30c0\u30f3\u306e\u5916\u52d9\u5927\u81e3\u30a2\u30a4\u30de\u30f3\u30fb\u30b5\u30d5\u30a1\u30c7\u30a3\u306f\u7c73\u56fd\u306b\u300c\u5371\u967a\u306a\u7d50\u679c\u300d\u304c\u751f\u3058\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Jordan's foreign minister Ayman Safadi has warned the U.S. of \"dangerous consequences\" if it recognizes Jerusalem as the capital of Israel",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34382,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30cf\u30de\u30b9\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u653f\u5e9c\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b58\u3059\u308b\u8a08\u753b\u3092\u300c\u30a2\u30e1\u30ea\u30ab\u653f\u6a29\u306b\u3088\u308b\u90fd\u5e02\u3078\u306e\u516c\u7136\u3068\u3057\u305f\u653b\u6483\u300d\u3068\u547c\u3073\u3001\u7b2c\u4e09\u6b21\u30a4\u30f3\u30c6\u30a3\u30d5\u30a1\u30fc\u30c0\u3092\u958b\u59cb\u3059\u308b\u3068\u8105\u8feb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hamas calls the U.S. government's plan to recognize Jerusalem as the capital of Israel \"a flagrant attack on the city by the American administration\" and threatens to start a Third Intifada",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34383,
+                    "date": "2017-12-04T00:00:00Z",
+                    "text": "\u30a4\u30a7\u30eb\u30b5\u30ec\u30e0\u306e\u30dd\u30b8\u30b7\u30e7\u30f3\u306b\u95a2\u3057\u3066\u3001\u30c8\u30eb\u30b3\u306e\u526f\u5916\u52d9\u5927\u81e3\u30d9\u30ad\u30eb\u30fb\u30dc\u30ba\u30c0\u30b0\u306f\u3001\u30b8\u30a7\u30eb\u30b5\u30ec\u30e0\u5927\u4f7f\u9928\u6cd5\u306b\u57fa\u3065\u304f\u4e88\u5b9a\u901a\u308a\u30a2\u30e1\u30ea\u30ab\u304c\u5927\u4f7f\u9928\u3092\u79fb\u8ee2\u3057\u305f\u5834\u5408\u306b\u306f\u300c\u5927\u60e8\u4e8b\u300d\u304c\u8d77\u3053\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u8b66\u544a\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u79fb\u8ee2\u3092\u9045\u3089\u305b\u308b\u6700\u5f8c\u306e6\u304b\u6708\u9593\u306e\u5927\u7d71\u9818\u7279\u8d66\u306f6\u67081\u65e5\u306b\u7f72\u540d\u3055\u308c\u307e\u3057\u305f\u3002",
+                    "eng_text": "Turkey's deputy foreign minister Bekir Bozda\u011f warns of a \"major catastrophe\" if the U.S. moves its embassy to Jerusalem as planned in the Jerusalem Embassy Act. The last six-month presidential waiver delaying the move was signed on June 1",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34471,
+                    "date": "2017-12-09T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3059\u308b\u6297\u8b70\u304c\u3001\u897f\u5cb8\u3068\u30ac\u30b6\u30673\u65e5\u9023\u7d9a\u3067\u884c\u308f\u308c\u3066\u3044\u307e\u3059\u3002\u6570\u767e\u4eba\u304c\u53c2\u52a0\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Hundreds of people protest on the West Bank and in Gaza for the third day in a row",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34663,
+                    "date": "2017-12-27T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u4ea4\u901a\u5927\u81e3Yisrael Katz\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u65e7\u5e02\u8857\uff08\u6771\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u4e00\u90e8\uff09\u306e\u30e6\u30c0\u30e4\u4eba\u5c45\u4f4f\u533a\u306b\u5efa\u8a2d\u3055\u308c\u308b\u65b0\u3057\u3044\u5730\u4e0b\u9244\u30bf\u30fc\u30df\u30ca\u30eb\u3092\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306b\u656c\u610f\u3092\u8868\u3057\u3066\u540d\u4ed8\u3051\u308b\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34697,
+                    "date": "2017-12-31T00:00:00Z",
+                    "text": "\u30d1\u30ec\u30b9\u30c1\u30ca\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u5b9a\u306b\u7d9a\u304d\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306f\u7c73\u56fd\u3078\u306e\u5927\u4f7f\u3092\u300c\u5354\u8b70\u306e\u305f\u3081\u300d\u547c\u3073\u623b\u3059\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u5927\u7d71\u9818\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u884c\u52d5\u306b\u7d9a\u304f\u4e2d\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5e73\u548c\u8a08\u753b\u3092\u53d7\u3051\u5165\u308c\u306a\u3044\u3068\u8ff0\u3079\u308b\u3002",
+                    "eng_text": "Palestine recalls its envoy to the United States for \"consultations,\" following President Trump's recognition of Jerusalem as the capital of Israel. Palestinian President Mahmoud Abbas says that he will not accept any U.S. peace plan in the wake of Trump's move",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                3,
+                1
+            ]
+        },
+        {
+            "eventList0": [
+                {
+                    "id": 34403,
+                    "date": "2017-12-05T00:00:00Z",
+                    "text": "\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u7acb\u5834\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5831\u9053\u5b98\u306b\u3088\u308b\u3068\u3001\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306f\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30fc\u30b9\u306b\u96fb\u8a71\u3057\u3001\u300c\u81ea\u8eab\u306e\u610f\u56f3\u3092\u8aac\u660e\u3057\u3066\u300d\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u3092\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u3059\u610f\u5411\u3092\u4f1d\u3048\u305f\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u5927\u7d71\u9818\u306f\u305d\u306e\u3088\u3046\u306a\u884c\u52d5\u306e\u5371\u967a\u6027\u3092\u8b66\u544a\u3057\u3001\u4e16\u754c\u306e\u6307\u5c0e\u8005\u306b\u50cd\u304d\u304b\u3051\u3066\u305d\u308c\u304c\u5b9f\u73fe\u3059\u308b\u306e\u3092\u9632\u3050\u3068\u8ff0\u3079\u305f\u3002",
+                    "eng_text": "According to a Palestinian spokesman, Donald Trump calls Mahmoud Abbas, \"outlining his intentions\" to move the U.S. embassy to Jerusalem. The Palestinian President warns him against the dangers of such a step and says that he will continue reaching out to world leaders to prevent it from happening",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34423,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u8b58\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u30d9\u30f3\u30e4\u30df\u30f3\u30fb\u30cd\u30bf\u30cb\u30e4\u30d5\u9996\u76f8\u306f\u3053\u306e\u767a\u8868\u3092\u300c\u6b74\u53f2\u7684\u306a\u753b\u671f\u300d\u3068\u79f0\u8cdb\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "Israeli Prime Minister Benjamin Netanyahu praises the announcement as a \"historic landmark",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34426,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b4d\u3002\u30e8\u30eb\u30c0\u30f3\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a\u3001\u30c8\u30eb\u30b3\u3067\u3053\u306e\u6c7a\u5b9a\u306b\u6297\u8b70\u306e\u30c7\u30e2\u304c\u767a\u751f\u3059\u308b\u3002",
+                    "eng_text": "Protests against the decision break out in Jordan, State of Palestine, and Turkey",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34425,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u8a8d\u3081\u308b\u3002\u30a2\u30e9\u30d6\u9023\u76df\u306f\u3053\u308c\u3092\u300c\u6df1\u523b\u306a\u5f71\u97ff\u3092\u3082\u305f\u3089\u3059\u5371\u967a\u306a\u63aa\u7f6e\u3067\u3042\u308b\u300d\u3068\u8ff0\u3079\u3001\u7c73\u56fd\u304c\u5e73\u548c\u4ea4\u6e09\u306b\u304a\u3051\u308b\u300c\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u4ecb\u8005\u300d\u3068\u3057\u3066\u306e\u5c06\u6765\u306e\u5f79\u5272\u3092\u7591\u554f\u8996\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "The Arab League calls it \"a dangerous measure that would have repercussions\" and also questions the future role of the U.S. as a \"trusted mediator\" in peace talks",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34424,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u3081\u308b\u3053\u3068\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd\u5bb6\u306e\u5927\u7d71\u9818\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u548c\u5e73\u4ef2\u4ecb\u8005\u3068\u3057\u3066\u306e\u7acb\u5834\u3092\u5f31\u3081\u308b\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u4e00\u65b9\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30a4\u30b9\u30e9\u30e0\u4e3b\u7fa9\u7d44\u7e54\u30cf\u30de\u30b9\u306f\u3001\u3053\u306e\u6c7a\u5b9a\u304c\u300c\u5730\u57df\u306b\u304a\u3051\u308b\u30a2\u30e1\u30ea\u30ab\u306e\u5229\u76ca\u306e\u5730\u7344\u306e\u6249\u3092\u958b\u304f\u300d\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "President of the State of Palestine Mahmoud Abbas says the move undermines the U.S. position as a peace mediator while the Palestinian Islamist group Hamas says that the decision would \"open the gates of hell on U.S. interests in the region",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34429,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u969b\u9023\u5408\u4e8b\u52d9\u7dcf\u9577\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30b0\u30c6\u30fc\u30ec\u30b9\u306f\u3053\u306e\u767a\u8868\u3092\u6279\u5224\u3057\u3001\u300c\u30a4\u30b9\u30e9\u30a8\u30eb\u4eba\u3068\u30d1\u30ec\u30b9\u30c1\u30ca\u4eba\u306b\u3068\u3063\u3066\u5e73\u548c\u306e\u898b\u901a\u3057\u3092\u5371\u967a\u306b\u3055\u3089\u3059\u3060\u308d\u3046\u300d\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002",
+                    "eng_text": "Secretary-General of the United Nations Ant\u00f3nio Guterres criticizes the announcement, saying that it \"would jeopardise the prospect of peace for Israelis and Palestinians\"",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34430,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u73fe\u5728\u306e\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u30618\u304b\u56fd\u304c\u30a2\u30e1\u30ea\u30ab\u306e\u6c7a\u5b9a\u306b\u95a2\u3057\u3066\u7dca\u6025\u4f1a\u8b70\u306e\u958b\u50ac\u3092\u6c42\u3081\u3066\u3044\u308b\u3002\u4f1a\u8b70\u306f12\u67088\u65e5\u306b\u4e88\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002",
+                    "eng_text": "Eight of the 15 current United Nations Security Council members call to hold an urgent meeting on the U.S. decision. The meeting is expected for December 8",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34427,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u8b4d\u3057\u305f\u3053\u3068\u306b\u5bfe\u3057\u3001\u6b27\u5dde\u9023\u5408\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30c9\u30a4\u30c4\u3001\u30a4\u30ae\u30ea\u30b9\u306a\u3069\u306e\u4e3b\u8981\u306a\u30a2\u30e1\u30ea\u30ab\u306e\u540c\u76df\u56fd\u304b\u3089\u6279\u5224\u7684\u306a\u53cd\u5fd7\u304c\u5bc4\u305b\u3089\u308c\u305f\u3002",
+                    "eng_text": "The decision draws critical reaction from key U.S. allies that include the EU, France, Germany and the United Kingdom",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34422,
+                    "date": "2017-12-06T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u8b58\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u8a8d\u3081\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u4f7f\u9928\u3092\u30c6\u30eb\u30a2\u30d3\u30d6\u304b\u3089\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u79fb\u8ee2\u3059\u308b\u30d7\u30ed\u30bb\u30b9\u3092\u958b\u59cb\u3059\u308b\u3068\u8ff0\u3079\u307e\u3057\u305f\u3002\u30a2\u30e1\u30ea\u30ab\u306e\u56fd\u52d9\u7701\u306f\u300112\u670820\u65e5\u307e\u3067\u30a4\u30b9\u30e9\u30a8\u30eb\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u3001\u897f\u5cb8\u5730\u57df\u3078\u306e\u5185\u90e8\u6e21\u822a\u8b66\u544a\u3092\u767a\u884c\u3057\u3066\u3044\u307e\u3059\u3002\u30a2\u30f3\u30de\u30f3\u306e\u30a2\u30e1\u30ea\u30ab\u5927\u4f7f\u9928\u306f\u4e00\u6642\u7684\u306b\u901a\u5e38\u306e\u516c\u5171\u30b5\u30fc\u30d3\u30b9\u3092\u4e2d\u6b62\u3057\u3001\u30e8\u30eb\u30c0\u30f3\u5168\u57df\u3067\u306e\u5927\u4f7f\u9928\u306e\u6e21\u822a\u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002\u30d9\u30eb\u30ea\u30f3\u3068\u30ed\u30f3\u30c9\u30f3\u306e\u5927\u4f7f\u9928\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5e02\u6c11\u306b\u614e\u91cd\u6027\u8b66\u544a\u3092\u767a\u51fa\u3057\u3066\u3044\u307e\u3059\u3002",
+                    "eng_text": "U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34462,
+                    "date": "2017-12-08T00:00:00Z",
+                    "text": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u304c\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u30a8\u30eb\u30b5\u30ec\u30e0\u3092\u8a8d\u8b58\u3002\u56fd\u9023\u5b89\u5168\u4fdd\u969c\u7406\u4e8b\u4f1a\u306e15\u304b\u56fd\u306e\u3046\u306114\u304b\u56fd\u304c\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306b\u95a2\u3059\u308b\u59ff\u52e2\u3092\u975e\u96e3\u3059\u308b\u3002",
+                    "eng_text": "14 of the 15 United Nations Security Council members denounce the United States' stance on Jerusalem",
+                    "d2v_vecs": {}
+                }
+            ],
+            "eventList1": [
+                {
+                    "id": 34663,
+                    "date": "2017-12-27T00:00:00Z",
+                    "text": "\u30a4\u30b9\u30e9\u30a8\u30eb\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u4ea4\u901a\u5927\u81e3Yisrael Katz\u306f\u3001\u30a8\u30eb\u30b5\u30ec\u30e0\u65e7\u5e02\u8857\uff08\u6771\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u4e00\u90e8\uff09\u306e\u30e6\u30c0\u30e4\u4eba\u5c45\u4f4f\u533a\u306b\u5efa\u8a2d\u3055\u308c\u308b\u65b0\u3057\u3044\u5730\u4e0b\u9244\u30bf\u30fc\u30df\u30ca\u30eb\u3092\u30a2\u30e1\u30ea\u30ab\u5927\u7d71\u9818\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u306b\u656c\u610f\u3092\u8868\u3057\u3066\u540d\u4ed8\u3051\u308b\u3068\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
+                    "eng_text": "Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump",
+                    "d2v_vecs": {}
+                },
+                {
+                    "id": 34697,
+                    "date": "2017-12-31T00:00:00Z",
+                    "text": "\u30d1\u30ec\u30b9\u30c1\u30ca\u3068\u30a2\u30e1\u30ea\u30ab\u306e\u95a2\u4fc2\u3002\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u9996\u90fd\u3068\u3057\u3066\u306e\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u8a8d\u5b9a\u306b\u7d9a\u304d\u3001\u30d1\u30ec\u30b9\u30c1\u30ca\u306f\u7c73\u56fd\u3078\u306e\u5927\u4f7f\u3092\u300c\u5354\u8b70\u306e\u305f\u3081\u300d\u547c\u3073\u623b\u3059\u3002\u30d1\u30ec\u30b9\u30c1\u30ca\u306e\u30de\u30d5\u30e0\u30fc\u30c9\u30fb\u30a2\u30c3\u30d0\u30b9\u5927\u7d71\u9818\u306f\u3001\u30c8\u30e9\u30f3\u30d7\u306e\u884c\u52d5\u306b\u7d9a\u304f\u4e2d\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u5e73\u548c\u8a08\u753b\u3092\u53d7\u3051\u5165\u308c\u306a\u3044\u3068\u8ff0\u3079\u308b\u3002",
+                    "eng_text": "Palestine recalls its envoy to the United States for \"consultations,\" following President Trump's recognition of Jerusalem as the capital of Israel. Palestinian President Mahmoud Abbas says that he will not accept any U.S. peace plan in the wake of Trump's move",
+                    "d2v_vecs": {}
+                }
+            ],
+            "connectPointIdx": [
+                0,
+                1
+            ]
+        }
+    ]
+}
